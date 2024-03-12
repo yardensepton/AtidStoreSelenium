@@ -1,0 +1,488 @@
+[INFO ] 2024-02-21 19:27:07.950 [main] SanityTest - opening first store page
+[INFO ] 2024-02-21 19:27:08.479 [main] SanityTest - pressing 'next' button
+[INFO ] 2024-02-21 19:37:10.405 [main] SanityTest - opening first store page
+[INFO ] 2024-02-21 19:37:10.839 [main] SanityTest - press '->' switch to page number 2
+[INFO ] 2024-02-21 19:37:11.305 [main] SanityTest - press '<-' switch to page number 1
+[INFO ] 2024-02-21 19:53:00.244 [main] SanityTest - opening first store page
+[INFO ] 2024-02-21 19:53:00.873 [main] SanityTest - press '->' switch to page number 2
+[INFO ] 2024-02-21 19:53:01.417 [main] SanityTest - press '<-' switch to page number 1
+[INFO ] 2024-02-21 19:53:01.925 [main] SanityTest - press '3' switch to page number 3
+[INFO ] 2024-02-21 19:58:36.149 [main] SanityTest - opening first store page
+[INFO ] 2024-02-21 19:58:36.638 [main] SanityTest - step 1: press '->' switch to page number 2
+[INFO ] 2024-02-21 19:58:37.167 [main] SanityTest - step 2: press '<-' switch to page number 1
+[INFO ] 2024-02-21 19:58:37.586 [main] SanityTest - step 3: press '3' switch to page number 3
+[INFO ] 2024-02-21 19:58:37.650 [main] SanityTest - no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="main"]/div/nav[2]/ul/li[4]/a"}
+  (Session info: chrome=121.0.6167.185)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c566c096f811b5e6765edb5a8a65b8d3, findElement {using=xpath, value=//*[@id="main"]/div/nav[2]/ul/li[4]/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.185, chrome: {chromedriverVersion: 121.0.6167.184 (057a8ae7deb..., userDataDir: C:\Users\yarde\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63443}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63443/devtoo..., se:cdpVersion: 121.0.6167.185, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c566c096f811b5e6765edb5a8a65b8d3step 4: the '->' is found at the last page
+[INFO ] 2024-02-21 19:59:54.242 [main] SanityTest - opening first store page
+[INFO ] 2024-02-21 19:59:54.785 [main] SanityTest - step 1: press '->' switch to page number 2
+[INFO ] 2024-02-21 19:59:55.278 [main] SanityTest - step 2: press '<-' switch to page number 1
+[INFO ] 2024-02-21 19:59:55.819 [main] SanityTest - step 3: press '3' switch to page number 3
+[INFO ] 2024-02-21 19:59:55.876 [main] SanityTest - step 4: the '->' is found at the last page
+[INFO ] 2024-02-21 20:07:00.531 [main] SanityTest - opening first store page
+[INFO ] 2024-02-21 20:07:01.011 [main] SanityTest - step 1: press '->' switch to page number 2
+[INFO ] 2024-02-21 20:07:01.435 [main] SanityTest - step 2: press '<-' switch to page number 1
+[INFO ] 2024-02-21 20:07:01.864 [main] SanityTest - step 3: press '3' switch to page number 3
+[INFO ] 2024-02-21 20:10:48.809 [main] SanityTest - opening first store page
+[INFO ] 2024-02-21 20:10:49.289 [main] SanityTest - step 1: press '->' switch to page number 2
+[INFO ] 2024-02-21 20:10:49.704 [main] SanityTest - step 2: press '<-' switch to page number 1
+[INFO ] 2024-02-21 20:10:50.296 [main] SanityTest - step 3: press '3' switch to page number 3
+[INFO ] 2024-02-21 20:10:50.344 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-21 20:31:23.563 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 20:31:24.056 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-21 20:31:24.459 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-21 20:31:24.929 [main] SanityTest - Step 3: Press '3' to switch to page number 3
+[INFO ] 2024-02-21 20:31:24.995 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-21 20:36:22.143 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 20:37:19.207 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 20:38:29.825 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 20:38:30.339 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-21 20:38:30.781 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-21 20:39:22.948 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 20:39:23.600 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-21 20:39:24.029 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-21 20:39:24.453 [main] SanityTest - Step 3: Press '3' to switch to page number 3
+[INFO ] 2024-02-21 20:39:24.547 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-21 20:40:25.295 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 20:40:25.878 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-21 20:40:26.518 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-21 20:42:07.018 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 20:42:07.682 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-21 20:42:08.117 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-21 20:42:08.217 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-21 20:42:08.621 [main] SanityTest - Step 3: Press '3' to switch to page number 3
+[INFO ] 2024-02-21 20:42:08.687 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-21 20:45:55.039 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 20:45:55.523 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-21 20:45:56.020 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-21 20:45:56.094 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-21 20:45:56.467 [main] SanityTest - Step 3: Press '3' to switch to page number 3
+[INFO ] 2024-02-21 20:45:56.536 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-21 20:45:56.988 [main] SanityTest - Step 6: Press '3' while being at page 3
+[INFO ] 2024-02-21 20:47:34.552 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 20:47:35.036 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-21 20:47:35.480 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-21 20:47:35.565 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-21 20:47:35.927 [main] SanityTest - Step 3: Press '3' to switch to page number 3
+[INFO ] 2024-02-21 20:47:35.996 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-21 20:47:36.352 [main] SanityTest - Step 6: Press '3' while being at page 3
+[INFO ] 2024-02-21 20:53:23.662 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 20:53:24.358 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-21 20:53:25.040 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-21 20:53:25.151 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-21 20:53:25.618 [main] SanityTest - Step 3: Press '3' to switch to page number 3
+[INFO ] 2024-02-21 20:53:25.652 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-21 20:53:25.766 [main] SanityTest - Step 6: Press '3' is clickable at page 3
+[INFO ] 2024-02-21 20:54:08.007 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 20:54:09.091 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-21 20:54:09.606 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-21 20:54:09.675 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-21 20:54:10.056 [main] SanityTest - Step 3: Press '3' to switch to page number 3
+[INFO ] 2024-02-21 20:54:10.110 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-21 20:54:10.141 [main] SanityTest - Step 6: Press '3' is clickable at page 3
+[INFO ] 2024-02-21 20:59:39.809 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 20:59:40.405 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-21 20:59:41.068 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-21 20:59:41.153 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-21 20:59:41.620 [main] SanityTest - Step 3: Press '3' to switch to page number 3
+[INFO ] 2024-02-21 20:59:41.640 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-21 20:59:41.769 [main] SanityTest - Step 6: Press '3' is clickable at page 3
+[INFO ] 2024-02-21 21:03:30.020 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 21:03:31.534 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-21 21:03:32.318 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-21 21:03:32.389 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-21 21:03:34.168 [main] SanityTest - Step 3: Press '3' to switch to page number 3
+[INFO ] 2024-02-21 21:03:34.191 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-21 21:03:34.348 [main] SanityTest - Step 6: at pageShop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-21 21:05:32.906 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 21:05:33.505 [main] SanityTest - Step 1: Press '->' to switch to page number 2Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-02-21 21:05:34.000 [main] SanityTest - Step 2: Press '<-' to switch to page number 1Shop – ATID Demo Store
+[INFO ] 2024-02-21 21:05:34.079 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-21 21:05:34.610 [main] SanityTest - Step 3: Press '3' to switch to page number 3Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-21 21:05:34.632 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-21 21:05:34.725 [main] SanityTest - Step 6: at pageShop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-21 21:06:34.240 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 21:06:34.944 [main] SanityTest - Step 1: Press '->' to switch to page number 2 Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-02-21 21:06:35.562 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 Shop – ATID Demo Store
+[INFO ] 2024-02-21 21:06:35.627 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-21 21:06:37.462 [main] SanityTest - Step 3: Press '3' to switch to page number 3 Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-21 21:06:37.485 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-21 21:06:37.618 [main] SanityTest - Step 6: at page Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-21 21:09:49.956 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-21 21:09:49.962 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-21 21:09:50.647 [main] SanityTest - Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-02-21 21:09:50.648 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-21 21:09:51.212 [main] SanityTest - Shop – ATID Demo Store
+[INFO ] 2024-02-21 21:09:51.266 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-21 21:09:51.267 [main] SanityTest - Step 3: Press '3' while bring at page 3
+[INFO ] 2024-02-21 21:09:51.794 [main] SanityTest - Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-21 21:09:51.816 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-21 21:09:51.948 [main] SanityTest - Step 6: at page Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-28 20:25:59.936 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-28 20:25:59.941 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-28 20:26:00.415 [main] SanityTest - Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-02-28 20:26:00.416 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-28 20:26:01.043 [main] SanityTest - Shop – ATID Demo Store
+[INFO ] 2024-02-28 20:26:01.110 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-28 20:26:01.110 [main] SanityTest - Step 3: Press '3' while being at page 1
+[INFO ] 2024-02-28 20:26:01.503 [main] SanityTest - Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-28 20:26:01.524 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-28 20:26:01.612 [main] SanityTest - Step 6: at page Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-28 20:30:49.607 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-28 20:30:49.611 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-28 20:30:50.217 [main] SanityTest - Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-02-28 20:30:50.218 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-28 20:30:50.753 [main] SanityTest - Shop – ATID Demo Store
+[INFO ] 2024-02-28 20:30:50.779 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-28 20:30:50.779 [main] SanityTest - Step 3: Press '3' while being at page 1
+[INFO ] 2024-02-28 20:30:51.176 [main] SanityTest - Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-28 20:30:51.198 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-28 20:30:51.287 [main] SanityTest - button 3 is clickable
+[INFO ] 2024-02-28 20:30:51.298 [main] SanityTest - Step 6: at page Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-28 20:31:31.470 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-28 20:31:31.477 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-28 20:31:32.155 [main] SanityTest - Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-02-28 20:31:32.156 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-28 20:31:32.622 [main] SanityTest - Shop – ATID Demo Store
+[INFO ] 2024-02-28 20:31:32.645 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-28 20:31:32.645 [main] SanityTest - Step 3: Press '3' while being at page 1
+[INFO ] 2024-02-28 20:31:33.000 [main] SanityTest - Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-28 20:31:33.044 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-28 20:31:33.078 [main] SanityTest - button 3 is clickable
+[INFO ] 2024-02-28 20:31:33.085 [main] SanityTest - Step 6: at page Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-28 20:40:32.044 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-28 20:40:32.050 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-28 20:40:32.605 [main] SanityTest - Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-02-28 20:40:32.606 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-28 20:40:33.132 [main] SanityTest - Shop – ATID Demo Store
+[INFO ] 2024-02-28 20:40:33.160 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-28 20:40:33.161 [main] SanityTest - Step 3: Press '3' while being at page 1
+[INFO ] 2024-02-28 20:40:33.580 [main] SanityTest - Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-28 20:40:33.601 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-28 20:40:33.707 [main] SanityTest - Step 6: button 3 is not clickable 
+[INFO ] 2024-02-28 20:40:33.708 [main] SanityTest - Step 6: NOT OK! button 3 is clickable 
+[INFO ] 2024-02-28 20:41:01.034 [main] SanityTest - Opening the first store page
+[INFO ] 2024-02-28 20:41:01.067 [main] SanityTest - Step 1: Press '->' to switch to page number 2
+[INFO ] 2024-02-28 20:41:01.637 [main] SanityTest - Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-02-28 20:41:01.638 [main] SanityTest - Step 2: Press '<-' to switch to page number 1
+[INFO ] 2024-02-28 20:41:02.066 [main] SanityTest - Shop – ATID Demo Store
+[INFO ] 2024-02-28 20:41:02.134 [main] SanityTest - Step 5: The '<-' element is not found at the first page
+[INFO ] 2024-02-28 20:41:02.134 [main] SanityTest - Step 3: Press '3' while being at page 1
+[INFO ] 2024-02-28 20:41:02.549 [main] SanityTest - Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-02-28 20:41:02.568 [main] SanityTest - Step 4: The '->' element is not found at the last page
+[INFO ] 2024-02-28 20:41:02.689 [main] SanityTest - Step 6: button 3 is not clickable 
+[INFO ] 2024-03-06 18:58:51.653 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 18:58:51.665 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 18:58:52.290 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 18:58:52.292 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 18:58:52.971 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 18:58:53.025 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 18:58:53.025 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 18:58:53.646 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 18:58:53.681 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 18:58:53.894 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 19:25:54.492 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 19:25:54.508 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 19:25:55.516 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 19:25:55.517 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 19:25:55.691 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[ERROR] 2024-03-06 19:25:55.738 [main] SanityTest - Step 5: NOT GOOD! The '<-' element is found at the first page
+[INFO ] 2024-03-06 19:25:55.738 [main] SanityTest - Step 5: Unexpected presence of '<-' element at the first page
+[INFO ] 2024-03-06 19:25:55.739 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 19:28:49.595 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 19:28:49.604 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 19:28:50.300 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 19:28:50.301 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 19:28:50.941 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 19:28:50.976 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 19:28:50.977 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 19:28:51.505 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 19:28:51.531 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 19:28:51.651 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 19:37:37.003 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 19:37:37.018 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 19:37:37.103 [main] SanityTest - ?
+[INFO ] 2024-03-06 19:37:37.693 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 19:37:37.694 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 19:37:38.333 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 19:37:38.367 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 19:37:38.367 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 19:37:38.850 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 19:37:38.875 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 19:37:39.016 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 19:38:45.488 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 19:38:45.501 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 19:38:45.549 [main] SanityTest - a
+[INFO ] 2024-03-06 19:38:46.061 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 19:38:46.064 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 19:38:46.766 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 19:38:46.805 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 19:38:46.805 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 19:38:47.327 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 19:38:47.353 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 19:38:47.641 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 19:52:43.968 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 19:52:43.979 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 19:52:44.065 [main] SanityTest - ?
+[INFO ] 2024-03-06 19:52:44.637 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 19:52:44.638 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 19:52:45.337 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 19:52:45.371 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 19:52:45.371 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 19:52:45.867 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 19:52:45.892 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 19:52:46.069 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 19:54:21.149 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 19:54:21.167 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 19:54:21.313 [main] SanityTest - 
+[INFO ] 2024-03-06 19:54:21.962 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 19:54:21.963 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 19:54:22.597 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 19:54:22.712 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 19:54:22.713 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 19:54:23.337 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 19:54:23.365 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 19:54:23.526 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 19:56:12.739 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 19:56:12.749 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 20:01:47.343 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:01:47.411 [main] SanityTest - 1
+[INFO ] 2024-03-06 20:01:47.430 [main] SanityTest - 2
+[INFO ] 2024-03-06 20:01:47.447 [main] SanityTest - 3
+[INFO ] 2024-03-06 20:01:47.462 [main] SanityTest - ?
+[INFO ] 2024-03-06 20:01:47.467 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 20:03:40.137 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:03:40.249 [main] SanityTest - 1
+[INFO ] 2024-03-06 20:03:40.264 [main] SanityTest - 2
+[INFO ] 2024-03-06 20:03:40.280 [main] SanityTest - 3
+[INFO ] 2024-03-06 20:03:40.295 [main] SanityTest - ?
+[INFO ] 2024-03-06 20:03:40.300 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 20:03:40.803 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 20:03:40.803 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 20:03:41.315 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 20:03:41.336 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 20:03:41.336 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 20:03:41.732 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 20:03:41.754 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 20:03:41.867 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 20:11:46.737 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:11:46.810 [main] SanityTest - 1
+[INFO ] 2024-03-06 20:11:46.829 [main] SanityTest - 2
+[INFO ] 2024-03-06 20:11:46.848 [main] SanityTest - 3
+[INFO ] 2024-03-06 20:11:46.862 [main] SanityTest - ?
+[INFO ] 2024-03-06 20:11:46.865 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 20:11:47.284 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 20:11:47.285 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 20:11:47.781 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 20:11:47.800 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 20:11:47.800 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 20:11:48.184 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 20:11:48.213 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 20:11:48.340 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 20:16:09.573 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:16:09.720 [main] SanityTest - 1
+[INFO ] 2024-03-06 20:16:09.732 [main] SanityTest - 2
+[INFO ] 2024-03-06 20:16:09.745 [main] SanityTest - 3
+[INFO ] 2024-03-06 20:16:09.759 [main] SanityTest - ?
+[INFO ] 2024-03-06 20:16:09.763 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 20:16:10.204 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 20:16:10.204 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 20:16:10.658 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 20:16:10.680 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 20:16:10.680 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 20:16:11.080 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 20:16:11.100 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 20:16:11.206 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 20:20:44.177 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:20:44.268 [main] SanityTest - 1
+[INFO ] 2024-03-06 20:20:44.291 [main] SanityTest - 2
+[INFO ] 2024-03-06 20:20:44.313 [main] SanityTest - 3
+[INFO ] 2024-03-06 20:20:44.334 [main] SanityTest - ?
+[INFO ] 2024-03-06 20:20:44.337 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 20:20:44.770 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 20:20:44.771 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 20:20:45.190 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 20:20:45.249 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 20:20:45.249 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 20:20:45.638 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 20:20:45.665 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 20:20:45.762 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 20:21:53.034 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:21:53.112 [main] SanityTest - https://atid.store/store/
+[INFO ] 2024-03-06 20:21:53.112 [main] SanityTest - 1
+[INFO ] 2024-03-06 20:21:53.140 [main] SanityTest - https://atid.store/store/
+[INFO ] 2024-03-06 20:21:53.140 [main] SanityTest - 2
+[INFO ] 2024-03-06 20:21:53.165 [main] SanityTest - https://atid.store/store/
+[INFO ] 2024-03-06 20:21:53.165 [main] SanityTest - 3
+[INFO ] 2024-03-06 20:21:53.186 [main] SanityTest - https://atid.store/store/
+[INFO ] 2024-03-06 20:21:53.187 [main] SanityTest - ?
+[INFO ] 2024-03-06 20:21:53.191 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 20:21:53.601 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 20:21:53.603 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 20:21:54.069 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 20:21:54.091 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 20:21:54.091 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 20:21:54.489 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 20:21:54.512 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 20:21:54.610 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 20:22:38.325 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:24:02.419 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:25:59.915 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:27:01.905 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:27:01.999 [main] SanityTest - https://atid.store/store//page/1/
+[INFO ] 2024-03-06 20:27:02.021 [main] SanityTest - https://atid.store/store//page/2/
+[INFO ] 2024-03-06 20:27:02.042 [main] SanityTest - https://atid.store/store//page/3/
+[INFO ] 2024-03-06 20:27:02.062 [main] SanityTest - https://atid.store/store//page/?/
+[INFO ] 2024-03-06 20:27:02.066 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 20:27:02.566 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 20:27:02.566 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 20:27:03.212 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 20:27:03.235 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 20:27:03.235 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 20:27:03.686 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 20:27:03.709 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 20:27:03.805 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 20:29:33.560 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:30:24.165 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:30:24.283 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-06 20:30:24.307 [main] SanityTest - https://atid.store/store/page/3/
+[INFO ] 2024-03-06 20:30:24.332 [main] SanityTest - https://atid.store/store/page/?/
+[INFO ] 2024-03-06 20:30:24.337 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 20:30:24.759 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 20:30:24.759 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 20:30:25.251 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 20:30:25.276 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 20:30:25.277 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 20:30:25.686 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 20:30:25.705 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 20:30:25.802 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 20:31:23.542 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:31:23.647 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-06 20:31:23.668 [main] SanityTest - https://atid.store/store/page/3/
+[INFO ] 2024-03-06 20:31:23.690 [main] SanityTest - https://atid.store/store/page/?/
+[INFO ] 2024-03-06 20:31:23.695 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 20:31:24.142 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 20:31:24.142 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 20:31:24.636 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 20:31:24.656 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 20:31:24.656 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 20:31:25.080 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 20:31:25.098 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 20:31:25.194 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 20:35:11.934 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:35:26.694 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:35:45.893 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:37:30.007 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:37:30.123 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-06 20:37:30.145 [main] SanityTest - https://atid.store/store/page/3/
+[INFO ] 2024-03-06 20:37:30.162 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 20:37:30.658 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 20:37:30.658 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 20:37:31.317 [main] SanityTest - Current Page Title: Shop – ATID Demo Store
+[INFO ] 2024-03-06 20:37:31.337 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 20:37:31.338 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 20:37:31.721 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 20:37:31.780 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 20:37:31.881 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 20:41:50.051 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:41:50.152 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-06 20:41:50.152 [main] SanityTest - Step 1Press '->' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-06 20:41:50.172 [main] SanityTest - https://atid.store/store/page/3/
+[INFO ] 2024-03-06 20:41:50.173 [main] SanityTest - Step 2Press '->' to switch to page number 3 - GOOD"
+[INFO ] 2024-03-06 20:41:50.189 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 20:41:50.691 [main] SanityTest - Current Page Title: Shop – Page 2 – ATID Demo Store
+[INFO ] 2024-03-06 20:41:50.692 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 20:41:51.220 [main] SanityTest - Current Page Title: https://atid.store/store/
+[INFO ] 2024-03-06 20:41:51.246 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 20:41:51.247 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 20:41:51.719 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 20:41:51.737 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 20:41:51.837 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 20:52:29.401 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:52:29.502 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-06 20:52:29.502 [main] SanityTest - Step 1 Press '->' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-06 20:52:29.525 [main] SanityTest - next
+[INFO ] 2024-03-06 20:53:08.165 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:54:38.086 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:54:38.191 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-06 20:54:38.191 [main] SanityTest - Step 0 Press '->' to switch to page number 1 - GOOD"
+[INFO ] 2024-03-06 20:54:38.227 [main] SanityTest - next
+[INFO ] 2024-03-06 20:54:38.259 [main] SanityTest - https://atid.store/store/page/3/
+[INFO ] 2024-03-06 20:54:38.259 [main] SanityTest - Step 1 Press '->' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-06 20:54:38.271 [main] SanityTest - next
+[INFO ] 2024-03-06 20:54:38.294 [main] SanityTest - Step 1: Press '->' to switch to page number 2 - GOOD
+[INFO ] 2024-03-06 20:54:38.736 [main] SanityTest - Step 2: Press '<-' to switch to page number 1 - GOOD
+[INFO ] 2024-03-06 20:54:39.181 [main] SanityTest - Current Page Title: https://atid.store/store/
+[INFO ] 2024-03-06 20:54:39.240 [main] SanityTest - Step 5: The '<-' element is not found at the first page - GOOD
+[INFO ] 2024-03-06 20:54:39.240 [main] SanityTest - Step 3: Press '3' to switch to page number 3 - GOOD
+[INFO ] 2024-03-06 20:54:39.773 [main] SanityTest - Current Page Title: Shop – Page 3 – ATID Demo Store
+[INFO ] 2024-03-06 20:54:39.793 [main] SanityTest - Step 4: The '->' element is not found at the last page - GOOD
+[INFO ] 2024-03-06 20:54:39.889 [main] SanityTest - Step 6: button 3 is not clickable - GOOD
+[INFO ] 2024-03-06 20:56:39.529 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:56:39.714 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-06 20:56:39.714 [main] SanityTest - Step 0 Press '->' to switch to page number 1 - GOOD"
+[INFO ] 2024-03-06 20:56:39.740 [main] SanityTest - next
+[INFO ] 2024-03-06 20:56:39.778 [main] SanityTest - https://atid.store/store/page/3/
+[INFO ] 2024-03-06 20:56:39.778 [main] SanityTest - Step 1 Press '->' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-06 20:56:39.798 [main] SanityTest - next
+[INFO ] 2024-03-06 20:59:17.392 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:59:17.535 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-06 20:59:17.536 [main] SanityTest - Step 2 Press '->' to switch to page number 3 - GOOD"
+[INFO ] 2024-03-06 20:59:17.563 [main] SanityTest - next
+[INFO ] 2024-03-06 20:59:17.606 [main] SanityTest - https://atid.store/store/page/3/
+[INFO ] 2024-03-06 20:59:17.606 [main] SanityTest - Step 3 Press '->' to switch to page number 4 - GOOD"
+[INFO ] 2024-03-06 20:59:17.618 [main] SanityTest - next
+[INFO ] 2024-03-06 20:59:57.096 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 20:59:57.238 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-06 20:59:57.239 [main] SanityTest - Step 1 Press '->' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-06 20:59:57.256 [main] SanityTest - next
+[INFO ] 2024-03-06 20:59:57.281 [main] SanityTest - https://atid.store/store/page/3/
+[INFO ] 2024-03-06 20:59:57.282 [main] SanityTest - Step 2 Press '->' to switch to page number 3 - GOOD"
+[INFO ] 2024-03-06 20:59:57.294 [main] SanityTest - next
+[INFO ] 2024-03-06 21:06:29.233 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 21:06:29.367 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-06 21:06:29.368 [main] SanityTest - Step 1 Press '->' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-06 21:06:29.390 [main] SanityTest - next
+[INFO ] 2024-03-06 21:06:29.432 [main] SanityTest - https://atid.store/store/page/3/
+[INFO ] 2024-03-06 21:06:29.433 [main] SanityTest - Step 2 Press '->' to switch to page number 3 - GOOD"
+[INFO ] 2024-03-06 21:06:29.450 [main] SanityTest - next
+[INFO ] 2024-03-06 21:08:42.625 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 21:08:42.754 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-06 21:08:42.754 [main] SanityTest - Step 1 Press '->' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-06 21:08:42.776 [main] SanityTest - next
+[INFO ] 2024-03-06 21:08:42.810 [main] SanityTest - https://atid.store/store/page/3/
+[INFO ] 2024-03-06 21:08:42.810 [main] SanityTest - Step 2 Press '->' to switch to page number 3 - GOOD"
+[INFO ] 2024-03-06 21:08:42.825 [main] SanityTest - next
+[INFO ] 2024-03-06 21:08:42.904 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-06 21:08:42.905 [main] SanityTest - Step 3 Press '<-' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-06 21:08:42.921 [main] SanityTest - there is no previous page
+[INFO ] 2024-03-06 21:10:28.605 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-06 21:10:28.658 [main] SanityTest - starting -> test
+[INFO ] 2024-03-06 21:10:28.712 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-06 21:10:28.712 [main] SanityTest - Step 1 Press '->' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-06 21:10:28.730 [main] SanityTest - next
+[INFO ] 2024-03-06 21:10:28.758 [main] SanityTest - https://atid.store/store/page/3/
+[INFO ] 2024-03-06 21:10:28.758 [main] SanityTest - Step 2 Press '->' to switch to page number 3 - GOOD"
+[INFO ] 2024-03-06 21:10:28.771 [main] SanityTest - next
+[INFO ] 2024-03-06 21:10:28.792 [main] SanityTest - starting <- test
+[INFO ] 2024-03-06 21:10:28.849 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-06 21:10:28.849 [main] SanityTest - Step 3 Press '<-' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-06 21:10:28.868 [main] SanityTest - there is no previous page
+[INFO ] 2024-03-11 12:00:27.766 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-11 12:00:27.850 [main] SanityTest - starting -> test
+[INFO ] 2024-03-11 12:00:27.915 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-11 12:00:27.915 [main] SanityTest - Step 1 Press '->' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-11 12:00:27.941 [main] SanityTest - next
+[INFO ] 2024-03-11 12:00:27.977 [main] SanityTest - https://atid.store/store/page/3/
+[INFO ] 2024-03-11 12:00:27.977 [main] SanityTest - Step 2 Press '->' to switch to page number 3 - GOOD"
+[INFO ] 2024-03-11 12:00:27.993 [main] SanityTest - next
+[INFO ] 2024-03-11 12:00:28.022 [main] SanityTest - starting <- test
+[INFO ] 2024-03-11 12:00:28.089 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-11 12:00:28.090 [main] SanityTest - Step 3 Press '<-' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-11 12:00:28.111 [main] SanityTest - there is no previous page
