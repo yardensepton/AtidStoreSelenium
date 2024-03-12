@@ -37,29 +37,31 @@ import java.time.Duration;
 import org.apache.logging.log4j.*;
 
 public class AddingProduct {
-  private WebDriver driver;
-  private Map<String, Object> vars;
-  private Logger logger;
-  private String baseUrl = "https://atid.store/";
-  JavascriptExecutor js;
-  @Before
-  public void setUp() {
-   
-	//System.setProperty("webdriver.chrome.driver"
-		//	,"C:\\Users\\acer\\Downloads\\chromedriver_win32\\chromedriver.exe");
-    driver = new ChromeDriver();
-    js = (JavascriptExecutor) driver;
-    vars = new HashMap<String, Object>();
-    logger=LogManager.getLogger(SanityTest.class);
-  }
-  @After
-  public void tearDown() {
- // driver.quit();
-  }
+	private WebDriver driver;
+	private Map<String, Object> vars;
+	private Logger logger;
+	private String baseUrl = "https://atid.store/";
+	JavascriptExecutor js;
+	private final int AMOUNT_MAX = 10;
+	private final int AMOUNT_MIN = 1;
 
-  
-  
-  @Test
+	@Before
+	public void setUp() {
+
+		// System.setProperty("webdriver.chrome.driver"
+		// ,"C:\\Users\\acer\\Downloads\\chromedriver_win32\\chromedriver.exe");
+		driver = new ChromeDriver();
+		js = (JavascriptExecutor) driver;
+		vars = new HashMap<String, Object>();
+		logger = LogManager.getLogger(SanityTest.class);
+	}
+
+	@After
+	public void tearDown() {
+		// driver.quit();
+	}
+
+	@Test
   public void runTest() throws InterruptedException {
       // Open the Atid Store website
       driver.get("https://atid.store/store/");
@@ -68,24 +70,16 @@ public class AddingProduct {
       // Log information about opening the first store page
       logger.info("Opening the first store page - GOOD");
       
-      WebElement unorderedList = driver.findElement(By.className("page-numbers"));
-      List<WebElement> listItems = unorderedList.findElements(By.tagName("li"));
-      ArrayList<String>pageNames = new ArrayList<String>();
       Random rand = new Random();
 
      
       String cart = "cart-2/";      
      
-     
-      List<WebElement> inputUppButton = driver.findElements(By.xpath("//*[@id=\"quantity_65f0153852a15\"]/following-sibling::button[contains(@class, 'qty-increase')]"));
-      List<WebElement> inputDownButton = driver.findElements(By.xpath("//*[@id=\"quantity_65f0153852a15\"]/following-sibling::button[contains(@class, 'qty-decrease')]\r\n"
-      		+ ""));
-            
       
       List<WebElement> productList = driver.findElements(By.cssSelector("ul.products li.product"));
       Map<String, String> productDetailsMap = new HashMap<String, String>();
 
-      // Iterate through each product
+      // Iterate through each product in the first page
       for (WebElement product : productList) {
     	    WebElement priceElement = product.findElement(By.cssSelector(".woocommerce-Price-amount"));
     	    
@@ -115,24 +109,24 @@ public class AddingProduct {
         	  logger.info("Product is out of stock and can be added to cart - BAD");
           }else if (outOfStockElement.isEmpty()) {
         	  int amount = rand.nextInt(15) + 1;
-        	  
-//        	   Iterate through each input button if there are multiple
         	  for (WebElement inputButton : inputButtons) {
-                inputButton.clear();
-                inputButton.sendKeys(Integer.toString(amount));
-            }
+        	      inputButton.clear();
+        	      inputButton.sendKeys(Integer.toString(amount));
+        	  }
+
         	  driver.findElement(By.className("single_add_to_cart_button")).click();
         	  List<WebElement> addedToCartAlertButton = driver.findElements(By.xpath("//*[@id=\"main\"]/div/div[1]/div/a"));
           
         // Check if the amount is not valid and the alert button is present
         	  if (!addedToCartAlertButton.isEmpty()) {
-        		  if (amount < 1 || amount > 10) {
-        			  logger.info("Product "+ productLink+ " was added  " + amount + " times - BAD");
+        		  if (amount < AMOUNT_MIN || amount > AMOUNT_MAX) {
+        			  logger.info("Product "+ extractProductName(productLink)+ " was added  " + amount + " times - BAD");
         			  driver.get(baseUrl.concat(cart));
         			  driver.findElement(By.className("remove")).click();
+        			  logger.info("-------------------------------");
         			 
         		  }else {
-        			  logger.info("Product "+ productLink+ " was added  " + amount + " times - GOOD");
+        			  logger.info("Product "+ extractProductName(productLink)+ " was added  " + amount + " times - GOOD");
         			  driver.get(baseUrl.concat(cart));
 
         			  List<WebElement> subtotalElements = driver.findElements(By.cssSelector(".product-subtotal"));
@@ -142,51 +136,62 @@ public class AddingProduct {
                      
                       Double productPriceDouble = Double.valueOf(productPrice);
           			  Double priceShownInCartDouble = Double.valueOf(extractedSubtotal);
+          			logger.info("product price is " + productPriceDouble+  ", price in the cart is "+ priceShownInCartDouble);
           			  
           			  Thread.sleep(1000);
           			  if(productPriceDouble * amount == priceShownInCartDouble) {
           			  		logger.info("price in the cart matches product price - GOOD");
+          			  }else {
+          			  	logger.info("price in the cart doesn't match product price - BAD");
           			  	}
           			  
           			driver.findElement(By.className("remove")).click();
           			
-        			  
+          			logger.info("-------------------------------");
 
         		  }
+        	  
+    
+  
         	  }
           }
       }
-  }
-      
-  
-  
-  
-  private static String extractNumber(String input) {
-      // Define a regular expression pattern for extracting numbers with commas and periods
-      String regex = "(\\d{1,3}(,\\d{3})*(\\.\\d+)?)|\\d+";
-
-      // Use a regular expression to match the pattern
-      Pattern pattern = Pattern.compile(regex);
-      Matcher matcher = pattern.matcher(input);
-
-      // Find the first match
-      if (matcher.find()) {
-          return matcher.group().replace(",", ""); // Remove commas
       }
 
-      // If no match is found, return an empty string or handle accordingly
-      return "";
-  }
-public static void main(String args[]) {
-	  JUnitCore junit = new JUnitCore();
-	  junit.addListener(new TextListener(System.out));
-	  org.junit.runner.Result result = junit.run(AddingProduct.class); // Replace "SampleTest" with the name of your class
-	  if (result.getFailureCount() > 0) {
-	    System.out.println("Test failed.");
-	    System.exit(1);
-	  } else {
-	    System.out.println("Test finished successfully.");
-	    System.exit(0);
-	  }
+	private static String extractNumber(String input) {
+		// Define a regular expression pattern for extracting numbers with commas and
+		// periods
+		String regex = "(\\d{1,3}(,\\d{3})*(\\.\\d+)?)|\\d+";
+
+		// Use a regular expression to match the pattern
+		Pattern pattern = Pattern.compile(regex);
+		Matcher matcher = pattern.matcher(input);
+
+		// Find the first match
+		if (matcher.find()) {
+			return matcher.group().replace(",", ""); // Remove commas
+		}
+
+		// If no match is found, return an empty string
+		return "";
+	}
+
+
+	public static String extractProductName(String url) {
+		return url.replaceAll(".*/product/(.*?)/.*", "$1");
+	}
+
+	public static void main(String args[]) {
+		JUnitCore junit = new JUnitCore();
+		junit.addListener(new TextListener(System.out));
+		org.junit.runner.Result result = junit.run(AddingProduct.class); 
+		
+		if (result.getFailureCount() > 0) {
+			System.out.println("Test failed.");
+			System.exit(1);
+		} else {
+			System.out.println("Test finished successfully.");
+			System.exit(0);
+		}
 	}
 }
