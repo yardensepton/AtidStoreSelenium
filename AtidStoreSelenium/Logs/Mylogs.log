@@ -486,3 +486,328 @@ Session ID: c566c096f811b5e6765edb5a8a65b8d3step 4: the '->' is found at the las
 [INFO ] 2024-03-11 12:00:28.089 [main] SanityTest - https://atid.store/store/page/2/
 [INFO ] 2024-03-11 12:00:28.090 [main] SanityTest - Step 3 Press '<-' to switch to page number 2 - GOOD"
 [INFO ] 2024-03-11 12:00:28.111 [main] SanityTest - there is no previous page
+[INFO ] 2024-03-12 11:07:52.093 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 11:08:28.878 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 11:08:29.631 [main] SanityTest - Anchor Bracelet – ATID Demo Store
+[INFO ] 2024-03-12 11:46:30.264 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 11:49:06.465 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 11:49:07.148 [main] SanityTest - Product is out of stock and can be added to cart - BAD
+[INFO ] 2024-03-12 11:49:07.626 [main] SanityTest - Product is out of stock and can be added to cart - BAD
+[INFO ] 2024-03-12 11:49:08.118 [main] SanityTest - Product is out of stock and can be added to cart - BAD
+[INFO ] 2024-03-12 11:50:31.356 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 11:51:06.033 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 11:53:04.956 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 11:53:28.811 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 11:54:18.241 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 11:55:14.447 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 11:55:42.093 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 11:58:04.577 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:00:33.914 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:07:48.660 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:07:49.464 [main] SanityTest - []
+[INFO ] 2024-03-12 12:07:51.597 [main] SanityTest - []
+[INFO ] 2024-03-12 12:07:54.294 [main] SanityTest - []
+[INFO ] 2024-03-12 12:09:32.335 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:09:33.255 [main] SanityTest - []
+[INFO ] 2024-03-12 12:09:35.712 [main] SanityTest - []
+[INFO ] 2024-03-12 12:09:37.815 [main] SanityTest - []
+[INFO ] 2024-03-12 12:12:09.300 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:12:10.234 [main] SanityTest - Product is out of stock and can be added to cart - BAD
+[INFO ] 2024-03-12 12:12:10.235 [main] SanityTest - [[[ChromeDriver: chrome on windows (fa641236a080cdadfd569c653c75c6a6)] -> class name: input-text]]
+[INFO ] 2024-03-12 12:12:12.980 [main] SanityTest - Product is out of stock and can be added to cart - BAD
+[INFO ] 2024-03-12 12:12:12.981 [main] SanityTest - []
+[INFO ] 2024-03-12 12:12:15.358 [main] SanityTest - Product is out of stock and can be added to cart - BAD
+[INFO ] 2024-03-12 12:12:15.358 [main] SanityTest - [[[ChromeDriver: chrome on windows (fa641236a080cdadfd569c653c75c6a6)] -> class name: input-text]]
+[INFO ] 2024-03-12 12:15:39.791 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:15:40.630 [main] SanityTest - Product is out of stock and can be added to cart - BAD
+[INFO ] 2024-03-12 12:15:40.631 [main] SanityTest - [[[ChromeDriver: chrome on windows (82d74da63e1584aa965eaa5972522891)] -> class name: input-text]]
+[INFO ] 2024-03-12 12:15:40.631 [main] SanityTest - []
+[INFO ] 2024-03-12 12:15:43.019 [main] SanityTest - Product is out of stock and can be added to cart - BAD
+[INFO ] 2024-03-12 12:15:43.019 [main] SanityTest - []
+[INFO ] 2024-03-12 12:15:43.020 [main] SanityTest - [[[ChromeDriver: chrome on windows (82d74da63e1584aa965eaa5972522891)] -> class name: stock]]
+[INFO ] 2024-03-12 12:15:45.560 [main] SanityTest - Product is out of stock and can be added to cart - BAD
+[INFO ] 2024-03-12 12:15:45.561 [main] SanityTest - [[[ChromeDriver: chrome on windows (82d74da63e1584aa965eaa5972522891)] -> class name: input-text]]
+[INFO ] 2024-03-12 12:15:45.561 [main] SanityTest - []
+[INFO ] 2024-03-12 12:18:03.113 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:18:03.954 [main] SanityTest - Product is out of stock and can be added to cart - BAD
+[INFO ] 2024-03-12 12:18:03.954 [main] SanityTest - [[[ChromeDriver: chrome on windows (e270854dd7534344b27432c0c2918c9e)] -> class name: input-text]]
+[INFO ] 2024-03-12 12:18:03.955 [main] SanityTest - []
+[INFO ] 2024-03-12 12:18:06.389 [main] SanityTest - []
+[INFO ] 2024-03-12 12:18:06.394 [main] SanityTest - [[[ChromeDriver: chrome on windows (e270854dd7534344b27432c0c2918c9e)] -> class name: stock]]
+[INFO ] 2024-03-12 12:18:08.766 [main] SanityTest - Product is out of stock and can be added to cart - BAD
+[INFO ] 2024-03-12 12:18:08.766 [main] SanityTest - [[[ChromeDriver: chrome on windows (e270854dd7534344b27432c0c2918c9e)] -> class name: input-text]]
+[INFO ] 2024-03-12 12:18:08.766 [main] SanityTest - []
+[INFO ] 2024-03-12 12:22:01.939 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:22:02.778 [main] SanityTest - [[[ChromeDriver: chrome on windows (8fc2748319b3af1674e92c99e5ce25a7)] -> class name: input-text]]
+[INFO ] 2024-03-12 12:22:02.779 [main] SanityTest - []
+[INFO ] 2024-03-12 12:22:05.329 [main] SanityTest - []
+[INFO ] 2024-03-12 12:22:05.329 [main] SanityTest - [[[ChromeDriver: chrome on windows (8fc2748319b3af1674e92c99e5ce25a7)] -> class name: stock]]
+[INFO ] 2024-03-12 12:22:07.709 [main] SanityTest - [[[ChromeDriver: chrome on windows (8fc2748319b3af1674e92c99e5ce25a7)] -> class name: input-text]]
+[INFO ] 2024-03-12 12:22:07.709 [main] SanityTest - []
+[INFO ] 2024-03-12 12:23:35.542 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:25:53.436 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:40:54.588 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:40:56.966 [main] SanityTest - amount 33 cant be added - BAD
+[INFO ] 2024-03-12 12:43:42.783 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:43:44.549 [main] SanityTest - Amount 92 can't be added - BAD
+[INFO ] 2024-03-12 12:45:37.661 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:45:46.388 [main] SanityTest - Amount 98 can't be added - BAD
+[INFO ] 2024-03-12 12:48:19.435 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:48:21.211 [main] SanityTest - Amount 8 was added to the cart - GOOD
+[INFO ] 2024-03-12 12:48:26.998 [main] SanityTest - Amount 31 can't be added - BAD
+[INFO ] 2024-03-12 12:48:26.998 [main] SanityTest - Amount 31 was added to the cart - GOOD
+[INFO ] 2024-03-12 12:59:30.126 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 12:59:31.975 [main] SanityTest - Amount 87 can't be added - BAD
+[INFO ] 2024-03-12 12:59:31.975 [main] SanityTest - Amount 87 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:00:29.983 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:00:31.809 [main] SanityTest - Amount 9 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:02:34.616 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:02:41.479 [main] SanityTest - Amount 34 can't be added - BAD
+[INFO ] 2024-03-12 13:02:41.479 [main] SanityTest - Amount 34 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:08:11.480 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:08:14.046 [main] SanityTest - Amount 86 can't be added - BAD
+[INFO ] 2024-03-12 13:08:14.047 [main] SanityTest - Amount 86 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:12:56.156 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:12:58.060 [main] SanityTest - Amount 78 can't be added - BAD
+[INFO ] 2024-03-12 13:13:04.064 [main] SanityTest - Amount 45 can't be added - BAD
+[INFO ] 2024-03-12 13:17:12.070 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:17:13.921 [main] SanityTest - Amount 5 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:19:19.675 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:19:21.566 [main] SanityTest - Amount 3 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:20:57.087 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:20:58.949 [main] SanityTest - Amount 7 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:20:59.889 [main] SanityTest - ?
+[INFO ] 2024-03-12 13:20:59.890 [main] SanityTest - 1,750.00 ?
+[INFO ] 2024-03-12 13:21:05.802 [main] SanityTest - Amount 1 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:21:06.612 [main] SanityTest - ?
+[INFO ] 2024-03-12 13:21:06.612 [main] SanityTest - 1,870.00 ?
+[INFO ] 2024-03-12 13:24:24.449 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:24:26.268 [main] SanityTest - Amount 6 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:24:27.127 [main] SanityTest - 0.00 ?
+[INFO ] 2024-03-12 13:24:27.128 [main] SanityTest - 1,500.00 ?
+[INFO ] 2024-03-12 13:24:32.776 [main] SanityTest - Amount 1 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:24:33.548 [main] SanityTest - 1,500.00 ?
+[INFO ] 2024-03-12 13:24:33.548 [main] SanityTest - 1,620.00 ?
+[INFO ] 2024-03-12 13:26:47.735 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:26:49.596 [main] SanityTest - Amount 4 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:26:50.543 [main] SanityTest - text in product/anchor-bracelet/0.00 ?
+[INFO ] 2024-03-12 13:26:50.543 [main] SanityTest - text in cart 1,000.00 ?
+[INFO ] 2024-03-12 13:26:56.403 [main] SanityTest - Amount 9 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:26:57.132 [main] SanityTest - text in product/atid-yellow-shoes/1,000.00 ?
+[INFO ] 2024-03-12 13:26:57.133 [main] SanityTest - text in cart 2,080.00 ?
+[INFO ] 2024-03-12 13:38:25.828 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:38:28.368 [main] SanityTest - Amount 3 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:38:29.393 [main] SanityTest - text in product/anchor-bracelet/0.00 ?
+[INFO ] 2024-03-12 13:38:35.211 [main] SanityTest - Amount 7 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:38:36.008 [main] SanityTest - text in product/atid-yellow-shoes/750.00 ?
+[INFO ] 2024-03-12 13:42:33.983 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:42:35.838 [main] SanityTest - Amount 4 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:42:36.694 [main] SanityTest - text in product/anchor-bracelet/0.00 ?
+[INFO ] 2024-03-12 13:42:42.438 [main] SanityTest - Amount 1 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:42:43.126 [main] SanityTest - text in product/atid-yellow-shoes/1,000.00 ?
+[INFO ] 2024-03-12 13:43:54.355 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:43:56.397 [main] SanityTest - Amount 11 can't be added - BAD
+[INFO ] 2024-03-12 13:44:02.223 [main] SanityTest - Amount 7 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:44:03.054 [main] SanityTest - text in product/atid-yellow-shoes/1,100.00 ?
+[INFO ] 2024-03-12 13:45:40.372 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:45:42.265 [main] SanityTest - Amount 2 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:45:43.128 [main] SanityTest - text in basic-gray-jeans/0.00 ?
+[INFO ] 2024-03-12 13:45:49.157 [main] SanityTest - Amount 2 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:45:49.888 [main] SanityTest - text in product/atid-yellow-shoes/200.00 ?
+[INFO ] 2024-03-12 13:49:01.147 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:49:03.168 [main] SanityTest - Amount 7 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:49:03.996 [main] SanityTest - text in blue-denim-jeans/0.00 ?
+[INFO ] 2024-03-12 13:49:09.892 [main] SanityTest - Amount 6 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:49:10.557 [main] SanityTest - text in product/atid-yellow-shoes/1,050.00 ?
+[INFO ] 2024-03-12 13:52:16.148 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:52:17.966 [main] SanityTest - Amount 6 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:52:18.813 [main] SanityTest - text in basic-gray-jeans/0.00 ?
+[INFO ] 2024-03-12 13:52:24.593 [main] SanityTest - Amount 4 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:52:25.245 [main] SanityTest - text in product/atid-yellow-shoes/600.00 ?
+[INFO ] 2024-03-12 13:57:30.891 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:59:50.146 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 13:59:52.133 [main] SanityTest - Amount 2 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:59:52.991 [main] SanityTest - text in basic-gray-jeans/0.00 ?
+[INFO ] 2024-03-12 13:59:58.822 [main] SanityTest - Amount 3 was added to the cart - GOOD
+[INFO ] 2024-03-12 13:59:59.454 [main] SanityTest - text in product/atid-yellow-shoes/200.00 ?
+[INFO ] 2024-03-12 14:01:17.149 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 14:01:18.957 [main] SanityTest - Amount 7 was added to the cart - GOOD
+[INFO ] 2024-03-12 14:01:19.786 [main] SanityTest - text in product/basic-gray-jeans/0.00 ?
+[INFO ] 2024-03-12 14:01:25.548 [main] SanityTest - Amount 7 was added to the cart - GOOD
+[INFO ] 2024-03-12 14:01:26.206 [main] SanityTest - text in product/atid-yellow-shoes/700.00 ?
+[INFO ] 2024-03-12 14:02:20.212 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 14:02:22.167 [main] SanityTest - Amount 4 was added to the cart - GOOD
+[INFO ] 2024-03-12 14:02:23.019 [main] SanityTest - text in product/atid-green-shoes/0.00 ?
+[INFO ] 2024-03-12 14:02:28.767 [main] SanityTest - Amount 8 was added to the cart - GOOD
+[INFO ] 2024-03-12 14:02:29.442 [main] SanityTest - text in product/atid-yellow-shoes/440.00 ?
+[INFO ] 2024-03-12 14:05:46.945 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 14:05:48.650 [main] SanityTest - Amount 7 was added to the cart - GOOD
+[INFO ] 2024-03-12 14:05:55.472 [main] SanityTest - Amount 7 was added to the cart - GOOD
+[INFO ] 2024-03-12 14:10:12.361 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 14:12:17.186 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 14:15:00.427 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 14:17:06.614 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 14:22:21.240 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 14:23:56.794 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 14:24:15.246 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 14:31:22.330 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 14:33:04.399 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 15:31:01.921 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 15:31:07.735 [main] SanityTest - Amount 8 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:33:16.003 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 15:33:18.609 [main] SanityTest - Amount 3 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:35:44.759 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 15:35:47.451 [main] SanityTest - Amount 10 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:35:49.649 [main] SanityTest - Amount 6 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:35:51.854 [main] SanityTest - Amount 1 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:37:39.040 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 15:37:41.333 [main] SanityTest - Amount 7 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:37:43.349 [main] SanityTest - Amount 10 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:37:45.459 [main] SanityTest - Amount 8 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:37:47.580 [main] SanityTest - Amount 2 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:37:49.669 [main] SanityTest - Amount 5 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:37:51.584 [main] SanityTest - Amount 3 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:37:53.722 [main] SanityTest - Amount 10 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:39:52.640 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 15:39:55.092 [main] SanityTest - Amount 5 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:39:57.169 [main] SanityTest - Amount 9 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:39:59.109 [main] SanityTest - Amount 9 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:40:01.021 [main] SanityTest - Amount 1 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:40:03.146 [main] SanityTest - Amount 8 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:40:05.228 [main] SanityTest - Amount 2 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:40:07.289 [main] SanityTest - Amount 8 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:40:09.662 [main] SanityTest - Amount 10 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:40:11.703 [main] SanityTest - Amount 6 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:41:16.358 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 15:41:18.914 [main] SanityTest - Amount 7 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:41:20.956 [main] SanityTest - Amount 1 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:41:22.776 [main] SanityTest - Amount 1 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:41:24.763 [main] SanityTest - Amount 1 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:41:27.463 [main] SanityTest - Amount 7 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:41:30.101 [main] SanityTest - Amount 1 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:41:32.452 [main] SanityTest - Amount 6 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:43:57.941 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 15:44:00.353 [main] SanityTest - Amount 3 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:44:52.880 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 15:44:55.323 [main] SanityTest - Amount 4 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:44:57.471 [main] SanityTest - Amount 5 was added to the cart - GOOD
+[INFO ] 2024-03-12 15:48:39.265 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 15:48:41.596 [main] SanityTest - Product https://atid.store/product/atid-blue-shoes/ was added  2times - GOOD
+[INFO ] 2024-03-12 15:48:43.982 [main] SanityTest - Product https://atid.store/product/black-over-the-shoulder-handbag/ was added  4times - GOOD
+[INFO ] 2024-03-12 15:48:45.856 [main] SanityTest - Product https://atid.store/product/blue-denim-shorts/ was added  7times - GOOD
+[INFO ] 2024-03-12 15:48:47.654 [main] SanityTest - Product https://atid.store/product/anchor-bracelet/ was added  4times - GOOD
+[INFO ] 2024-03-12 15:48:49.656 [main] SanityTest - Product https://atid.store/product/dnk-tshirt/ was added  9times - GOOD
+[INFO ] 2024-03-12 15:48:51.620 [main] SanityTest - Product https://atid.store/product/atid-yellow-shoes/ was added  4times - GOOD
+[INFO ] 2024-03-12 15:51:19.696 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 15:51:22.230 [main] SanityTest - Product https://atid.store/product/atid-blue-shoes/ was added  1times - GOOD
+[INFO ] 2024-03-12 15:51:24.234 [main] SanityTest - Product https://atid.store/product/black-over-the-shoulder-handbag/ was added  3times - GOOD
+[INFO ] 2024-03-12 15:51:26.353 [main] SanityTest - Product https://atid.store/product/blue-denim-shorts/ was added  7times - GOOD
+[INFO ] 2024-03-12 15:51:28.679 [main] SanityTest - Product https://atid.store/product/anchor-bracelet/ was added  9times - GOOD
+[INFO ] 2024-03-12 15:51:30.667 [main] SanityTest - Product https://atid.store/product/dnk-tshirt/ was added  8times - GOOD
+[INFO ] 2024-03-12 15:51:32.812 [main] SanityTest - Product https://atid.store/product/atid-yellow-shoes/ was added  3times - GOOD
+[INFO ] 2024-03-12 15:53:58.660 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 15:54:00.989 [main] SanityTest - Product https://atid.store/product/atid-blue-shoes/ was added  3 times - GOOD
+[INFO ] 2024-03-12 15:54:03.083 [main] SanityTest - Product https://atid.store/product/black-over-the-shoulder-handbag/ was added  1 times - GOOD
+[INFO ] 2024-03-12 15:54:03.790 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 15:54:04.954 [main] SanityTest - Product https://atid.store/product/blue-denim-shorts/ was added  2 times - GOOD
+[INFO ] 2024-03-12 15:54:06.881 [main] SanityTest - Product https://atid.store/product/anchor-bracelet/ was added  8 times - GOOD
+[INFO ] 2024-03-12 15:54:07.682 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 15:54:08.955 [main] SanityTest - Product https://atid.store/product/dnk-tshirt/ was added  5 times - GOOD
+[INFO ] 2024-03-12 15:54:09.644 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 15:56:47.082 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 15:56:49.994 [main] SanityTest - Product https://atid.store/product/atid-blue-shoes/ was added  9 times - GOOD
+[INFO ] 2024-03-12 15:56:54.017 [main] SanityTest - Product https://atid.store/product/black-over-the-shoulder-handbag/ was added  9 times - GOOD
+[INFO ] 2024-03-12 15:56:56.738 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 15:56:58.252 [main] SanityTest - Product https://atid.store/product/blue-denim-shorts/ was added  5 times - GOOD
+[INFO ] 2024-03-12 15:57:02.948 [main] SanityTest - Product https://atid.store/product/anchor-bracelet/ was added  3 times - GOOD
+[INFO ] 2024-03-12 16:01:30.162 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 16:02:34.015 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 16:03:42.030 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 16:03:44.351 [main] SanityTest - Product https://atid.store/product/atid-blue-shoes/ was added  7 times - GOOD
+[INFO ] 2024-03-12 16:03:48.443 [main] SanityTest - Product https://atid.store/product/black-over-the-shoulder-handbag/ was added  2 times - GOOD
+[INFO ] 2024-03-12 16:03:51.153 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:03:52.373 [main] SanityTest - Product https://atid.store/product/blue-denim-shorts/ was added  5 times - GOOD
+[INFO ] 2024-03-12 16:12:53.200 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 16:12:55.706 [main] SanityTest - Product https://atid.store/product/atid-blue-shoes/ was added  10 times - GOOD
+[INFO ] 2024-03-12 16:12:59.813 [main] SanityTest - Product https://atid.store/product/black-over-the-shoulder-handbag/ was added  10 times - GOOD
+[INFO ] 2024-03-12 16:13:02.572 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:13:03.750 [main] SanityTest - Product https://atid.store/product/blue-denim-shorts/ was added  8 times - GOOD
+[INFO ] 2024-03-12 16:16:05.220 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 16:16:08.814 [main] SanityTest - Product https://atid.store/product/atid-blue-shoes/ was added  7 times - GOOD
+[INFO ] 2024-03-12 16:16:11.798 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:16:13.027 [main] SanityTest - Product https://atid.store/product/black-over-the-shoulder-handbag/ was added  2 times - GOOD
+[INFO ] 2024-03-12 16:16:15.765 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:16:17.816 [main] SanityTest - Product https://atid.store/product/blue-denim-shorts/ was added  4 times - GOOD
+[INFO ] 2024-03-12 16:16:20.617 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:16:21.940 [main] SanityTest - Product https://atid.store/product/anchor-bracelet/ was added  1 times - GOOD
+[INFO ] 2024-03-12 16:16:24.749 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:16:26.013 [main] SanityTest - Product https://atid.store/product/dnk-tshirt/ was added  7 times - GOOD
+[INFO ] 2024-03-12 16:16:28.777 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:16:30.203 [main] SanityTest - Product https://atid.store/product/atid-yellow-shoes/ was added  3 times - GOOD
+[INFO ] 2024-03-12 16:16:32.953 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:16:34.165 [main] SanityTest - Product https://atid.store/product/basic-gray-jeans/ was added  3 times - GOOD
+[INFO ] 2024-03-12 16:16:36.984 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:16:38.574 [main] SanityTest - Product https://atid.store/product/blue-denim-jeans/ was added  2 times - GOOD
+[INFO ] 2024-03-12 16:23:02.095 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 16:23:04.685 [main] SanityTest - Product https://atid.store/product/atid-blue-shoes/ was added  6 times - GOOD
+[INFO ] 2024-03-12 16:23:07.570 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:23:09.044 [main] SanityTest - Product https://atid.store/product/black-over-the-shoulder-handbag/ was added  2 times - GOOD
+[INFO ] 2024-03-12 16:23:11.799 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:23:13.228 [main] SanityTest - Product https://atid.store/product/blue-denim-shorts/ was added  1 times - GOOD
+[INFO ] 2024-03-12 16:23:15.982 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:23:18.656 [main] SanityTest - Product https://atid.store/product/anchor-bracelet/ was added  9 times - GOOD
+[INFO ] 2024-03-12 16:23:21.564 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:23:22.956 [main] SanityTest - Product https://atid.store/product/dnk-tshirt/ was added  7 times - GOOD
+[INFO ] 2024-03-12 16:23:25.704 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:23:27.058 [main] SanityTest - Product https://atid.store/product/atid-yellow-shoes/ was added  4 times - GOOD
+[INFO ] 2024-03-12 16:23:29.823 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:23:31.106 [main] SanityTest - Product https://atid.store/product/basic-gray-jeans/ was added  2 times - GOOD
+[INFO ] 2024-03-12 16:23:33.836 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:23:35.639 [main] SanityTest - Product https://atid.store/product/blue-denim-jeans/ was added  1 times - GOOD
+[INFO ] 2024-03-12 16:23:38.400 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:23:39.964 [main] SanityTest - Product https://atid.store/product/atid-black-shoes/ was added  9 times - GOOD
+[INFO ] 2024-03-12 16:23:42.700 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:23:44.041 [main] SanityTest - Product https://atid.store/product/atid-green-shoes/ was added  8 times - GOOD
+[INFO ] 2024-03-12 16:23:46.745 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:23:48.148 [main] SanityTest - Product https://atid.store/product/black-hoodie/ was added  6 times - GOOD
+[INFO ] 2024-03-12 16:23:50.897 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:24:41.602 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 16:24:44.177 [main] SanityTest - Product https://atid.store/product/atid-blue-shoes/ was added  79 times - BAD
+[INFO ] 2024-03-12 16:24:45.364 [main] SanityTest - Product https://atid.store/product/black-over-the-shoulder-handbag/ was added  51 times - BAD
+[INFO ] 2024-03-12 16:24:46.617 [main] SanityTest - Product https://atid.store/product/blue-denim-shorts/ was added  92 times - BAD
+[INFO ] 2024-03-12 16:24:48.044 [main] SanityTest - Product https://atid.store/product/anchor-bracelet/ was added  36 times - BAD
+[INFO ] 2024-03-12 16:24:49.285 [main] SanityTest - Product https://atid.store/product/dnk-tshirt/ was added  87 times - BAD
+[INFO ] 2024-03-12 16:24:50.532 [main] SanityTest - Product https://atid.store/product/atid-yellow-shoes/ was added  87 times - BAD
+[INFO ] 2024-03-12 16:24:51.669 [main] SanityTest - Product https://atid.store/product/basic-gray-jeans/ was added  39 times - BAD
+[INFO ] 2024-03-12 16:24:53.220 [main] SanityTest - Product https://atid.store/product/blue-denim-jeans/ was added  47 times - BAD
+[INFO ] 2024-03-12 16:24:54.477 [main] SanityTest - Product https://atid.store/product/atid-black-shoes/ was added  95 times - BAD
+[INFO ] 2024-03-12 16:24:55.775 [main] SanityTest - Product https://atid.store/product/atid-green-shoes/ was added  10 times - GOOD
+[INFO ] 2024-03-12 16:25:00.344 [main] SanityTest - Product https://atid.store/product/black-hoodie/ was added  52 times - BAD
+[INFO ] 2024-03-12 16:25:34.985 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 16:25:37.530 [main] SanityTest - Product https://atid.store/product/atid-blue-shoes/ was added  11 times - BAD
+[INFO ] 2024-03-12 16:25:38.761 [main] SanityTest - Product https://atid.store/product/black-over-the-shoulder-handbag/ was added  10 times - GOOD
+[INFO ] 2024-03-12 16:25:43.131 [main] SanityTest - Product https://atid.store/product/blue-denim-shorts/ was added  11 times - BAD
+[INFO ] 2024-03-12 16:25:44.345 [main] SanityTest - Product https://atid.store/product/anchor-bracelet/ was added  12 times - BAD
+[INFO ] 2024-03-12 16:25:45.630 [main] SanityTest - Product https://atid.store/product/dnk-tshirt/ was added  14 times - BAD
+[INFO ] 2024-03-12 16:25:47.172 [main] SanityTest - Product https://atid.store/product/atid-yellow-shoes/ was added  6 times - GOOD
+[INFO ] 2024-03-12 16:25:51.354 [main] SanityTest - Product https://atid.store/product/basic-gray-jeans/ was added  3 times - GOOD
+[INFO ] 2024-03-12 16:25:55.814 [main] SanityTest - Product https://atid.store/product/blue-denim-jeans/ was added  14 times - BAD
+[INFO ] 2024-03-12 16:25:57.152 [main] SanityTest - Product https://atid.store/product/atid-black-shoes/ was added  6 times - GOOD
+[INFO ] 2024-03-12 16:26:01.408 [main] SanityTest - Product https://atid.store/product/atid-green-shoes/ was added  13 times - BAD
+[INFO ] 2024-03-12 16:26:02.747 [main] SanityTest - Product https://atid.store/product/black-hoodie/ was added  14 times - BAD
+[INFO ] 2024-03-12 16:28:25.529 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-12 16:28:27.912 [main] SanityTest - Product https://atid.store/product/atid-blue-shoes/ was added  13 times - BAD
+[INFO ] 2024-03-12 16:28:30.185 [main] SanityTest - Product https://atid.store/product/black-over-the-shoulder-handbag/ was added  11 times - BAD
+[INFO ] 2024-03-12 16:28:32.269 [main] SanityTest - Product https://atid.store/product/blue-denim-shorts/ was added  13 times - BAD
+[INFO ] 2024-03-12 16:28:34.097 [main] SanityTest - Product https://atid.store/product/anchor-bracelet/ was added  11 times - BAD
+[INFO ] 2024-03-12 16:28:36.029 [main] SanityTest - Product https://atid.store/product/dnk-tshirt/ was added  10 times - GOOD
+[INFO ] 2024-03-12 16:28:38.790 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:28:40.145 [main] SanityTest - Product https://atid.store/product/atid-yellow-shoes/ was added  12 times - BAD
+[INFO ] 2024-03-12 16:28:42.045 [main] SanityTest - Product https://atid.store/product/basic-gray-jeans/ was added  7 times - GOOD
+[INFO ] 2024-03-12 16:28:44.685 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:28:46.656 [main] SanityTest - Product https://atid.store/product/blue-denim-jeans/ was added  4 times - GOOD
+[INFO ] 2024-03-12 16:28:49.330 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:28:50.815 [main] SanityTest - Product https://atid.store/product/atid-black-shoes/ was added  12 times - BAD
+[INFO ] 2024-03-12 16:28:52.696 [main] SanityTest - Product https://atid.store/product/atid-green-shoes/ was added  5 times - GOOD
+[INFO ] 2024-03-12 16:28:55.483 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-12 16:28:56.697 [main] SanityTest - Product https://atid.store/product/black-hoodie/ was added  13 times - BAD
