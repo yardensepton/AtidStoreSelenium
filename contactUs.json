@@ -45,6 +45,6 @@
     "name": "John Doe",
     "subject": "Test Subject",
     "email": "john.doe@example.com",
-    "message": "This is a message longer than 300 characters. This is a message longer than 300 characters. This is a message longer than 300 characters. This is a message longer than 300 characters."
+    "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dignissim metus. Morbi feugiat justo vel lorem malesuada, eu lacinia enim aliquet. Quisque volutpat consectetur eleifend. Pellentesque posuere fringilla tortor, id fermentum libero. Nullam eu sem nisi. Cras vestibulum bibendum purus. Vestibulum vel ex at lacus viverra aliquam a et ligula. Sed varius lorem nec neque lacinia, sed accumsan orci facilisis. Vivamus fermentum elit at nibh vestibulum, ut condimentum felis viverra. Curabitur tincidunt metus ut nisi iaculis, vel rhoncus neque pulvinar. Sed vitae posuere ipsum. Aenean malesuada metus vitae ante malesuada, eget feugiat ipsum commodo. Curabitur nec justo quis dolor posuere ultricies sit amet nec arcu. Sed auctor nec tortor vel scelerisque. Aenean."
   }
 ]

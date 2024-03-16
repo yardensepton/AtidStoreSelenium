@@ -30,4 +30,5 @@ local.properties
 
 
 # Logs
-Logs/
+Logs/Mylogs.log
+.idea/misc.xml

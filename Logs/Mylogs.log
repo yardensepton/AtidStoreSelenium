@@ -1720,3 +1720,1670 @@ Session ID: c566c096f811b5e6765edb5a8a65b8d3step 4: the '->' is found at the las
 [INFO ] 2024-03-12 20:54:50.171 [main] SanityTest - product price is 150.0, price in the cart is 1500.0
 [INFO ] 2024-03-12 20:54:51.181 [main] SanityTest - price in the cart matches product price - GOOD
 [INFO ] 2024-03-12 20:54:51.349 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:00:19.852 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-13 22:00:23.727 [main] SanityTest - Product atid-blue-shoes was added  11 times - BAD
+[INFO ] 2024-03-13 22:00:25.439 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:00:26.942 [main] SanityTest - Product black-over-the-shoulder-handbag was added  1 times - GOOD
+[INFO ] 2024-03-13 22:00:27.685 [main] SanityTest - product price is 85.0, price in the cart is 85.0
+[INFO ] 2024-03-13 22:00:28.689 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-13 22:00:28.810 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:00:30.374 [main] SanityTest - Product blue-denim-shorts was added  8 times - GOOD
+[INFO ] 2024-03-13 22:00:31.043 [main] SanityTest - product price is 130.0, price in the cart is 1040.0
+[INFO ] 2024-03-13 22:00:32.053 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-13 22:00:32.174 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:00:33.426 [main] SanityTest - Product anchor-bracelet was added  7 times - GOOD
+[INFO ] 2024-03-13 22:00:34.186 [main] SanityTest - product price is 250.0, price in the cart is 1750.0
+[INFO ] 2024-03-13 22:00:35.191 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-13 22:00:35.303 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:00:36.530 [main] SanityTest - Product dnk-tshirt was added  8 times - GOOD
+[INFO ] 2024-03-13 22:00:37.217 [main] SanityTest - product price is 190.0, price in the cart is 1520.0
+[INFO ] 2024-03-13 22:00:38.225 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-13 22:00:38.341 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:00:39.697 [main] SanityTest - Product atid-yellow-shoes was added  7 times - GOOD
+[INFO ] 2024-03-13 22:00:40.339 [main] SanityTest - product price is 120.0, price in the cart is 840.0
+[INFO ] 2024-03-13 22:00:41.346 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-13 22:00:41.469 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:00:42.806 [main] SanityTest - Product basic-gray-jeans was added  10 times - GOOD
+[INFO ] 2024-03-13 22:00:43.484 [main] SanityTest - product price is 100.0, price in the cart is 1000.0
+[INFO ] 2024-03-13 22:00:44.486 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-13 22:00:44.656 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:00:46.082 [main] SanityTest - Product blue-denim-jeans was added  6 times - GOOD
+[INFO ] 2024-03-13 22:00:46.780 [main] SanityTest - product price is 150.0, price in the cart is 900.0
+[INFO ] 2024-03-13 22:00:47.787 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-13 22:00:47.940 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:00:49.267 [main] SanityTest - Product atid-black-shoes was added  1 times - GOOD
+[INFO ] 2024-03-13 22:00:50.036 [main] SanityTest - product price is 61.0, price in the cart is 61.0
+[INFO ] 2024-03-13 22:00:51.046 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-13 22:00:51.172 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:00:52.534 [main] SanityTest - Product atid-green-shoes was added  12 times - BAD
+[INFO ] 2024-03-13 22:00:53.320 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:00:54.681 [main] SanityTest - Product black-hoodie was added  15 times - BAD
+[INFO ] 2024-03-13 22:00:55.567 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:20:00.683 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-13 22:20:11.562 [main] SanityTest - Product atid-blue-shoes was added  12 times - BAD
+[INFO ] 2024-03-13 22:20:13.850 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:20:15.204 [main] SanityTest - Product black-over-the-shoulder-handbag was added  13 times - BAD
+[INFO ] 2024-03-13 22:20:16.168 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:20:17.626 [main] SanityTest - Product blue-denim-shorts was added  11 times - BAD
+[INFO ] 2024-03-13 22:20:18.488 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:20:19.826 [main] SanityTest - Product anchor-bracelet was added  11 times - BAD
+[INFO ] 2024-03-13 22:20:20.610 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:20:21.920 [main] SanityTest - Product dnk-tshirt was added  13 times - BAD
+[INFO ] 2024-03-13 22:20:22.644 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:20:24.236 [main] SanityTest - Product atid-yellow-shoes was added  15 times - BAD
+[INFO ] 2024-03-13 22:20:25.056 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:20:26.558 [main] SanityTest - Product basic-gray-jeans was added  14 times - BAD
+[INFO ] 2024-03-13 22:20:27.312 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:20:29.087 [main] SanityTest - Product blue-denim-jeans was added  14 times - BAD
+[INFO ] 2024-03-13 22:20:29.833 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:20:31.248 [main] SanityTest - Product atid-black-shoes was added  5 times - GOOD
+[INFO ] 2024-03-13 22:20:31.882 [main] SanityTest - product price is 61.0, price in the cart is 305.0
+[INFO ] 2024-03-13 22:20:32.905 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-13 22:20:33.035 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:20:34.570 [main] SanityTest - Product atid-green-shoes was added  9 times - GOOD
+[INFO ] 2024-03-13 22:20:35.297 [main] SanityTest - product price is 110.0, price in the cart is 990.0
+[INFO ] 2024-03-13 22:20:36.298 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-13 22:20:36.407 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-13 22:20:37.582 [main] SanityTest - Product black-hoodie was added  7 times - GOOD
+[INFO ] 2024-03-13 22:20:38.250 [main] SanityTest - product price is 150.0, price in the cart is 1050.0
+[INFO ] 2024-03-13 22:20:39.261 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-13 22:20:40.695 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-14 19:06:48.511 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-14 19:07:43.724 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-14 19:11:34.684 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-14 19:15:39.612 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-14 19:19:34.538 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-14 19:20:27.970 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-14 19:21:46.129 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-14 19:22:20.699 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-14 19:24:05.116 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-14 19:30:25.736 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-14 19:34:03.059 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 11:53:22.880 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 11:54:31.014 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 11:56:00.954 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 11:57:27.538 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 11:59:24.493 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 11:59:27.299 [main] SanityTest - 
+[INFO ] 2024-03-15 12:01:37.004 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:03:02.742 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:03:05.610 [main] SanityTest - Free shipping
+Local pickup
+Delivery Express (1 - 3 days): 12.50 ₪
+Registered Mail (5 - 8 days): 5.90 ₪
+[INFO ] 2024-03-15 12:05:18.620 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:05:21.443 [main] SanityTest - Free shipping
+Local pickup
+Delivery Express (1 - 3 days): 12.50 ₪
+Registered Mail (5 - 8 days): 5.90 ₪
+[INFO ] 2024-03-15 12:05:21.627 [main] SanityTest - Free shipping
+Local pickup
+Delivery Express (1 - 3 days): 12.50 ₪
+Registered Mail (5 - 8 days): 5.90 ₪
+[INFO ] 2024-03-15 12:07:08.605 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:07:11.886 [main] SanityTest - name Free shipping
+Local pickup
+Delivery Express (1 - 3 days): 12.50 ₪
+Registered Mail (5 - 8 days): 5.90 ₪
+[INFO ] 2024-03-15 12:09:37.645 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:09:40.399 [main] SanityTest - name Free shipping
+Local pickup
+Delivery Express (1 - 3 days): 12.50 ₪
+Registered Mail (5 - 8 days): 5.90 ₪1
+[INFO ] 2024-03-15 12:14:24.197 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:14:26.960 [main] SanityTest - name Free shipping
+Local pickup
+Delivery Express (1 - 3 days): 12.50 ₪
+Registered Mail (5 - 8 days): 5.90 ₪1
+[INFO ] 2024-03-15 12:14:26.984 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 12:17:05.228 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:17:08.018 [main] SanityTest - name 4
+[INFO ] 2024-03-15 12:17:08.119 [main] SanityTest - name 4
+[INFO ] 2024-03-15 12:21:35.759 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:21:38.607 [main] SanityTest - name 4
+[INFO ] 2024-03-15 12:21:38.706 [main] SanityTest - name 4
+[INFO ] 2024-03-15 12:23:27.851 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:23:30.944 [main] SanityTest - name Free shipping4
+[INFO ] 2024-03-15 12:23:31.105 [main] SanityTest - name Local pickup4
+[INFO ] 2024-03-15 12:24:49.299 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:24:52.007 [main] SanityTest - name Free shipping4
+[INFO ] 2024-03-15 12:24:52.013 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 12:24:52.093 [main] SanityTest - name Local pickup4
+[INFO ] 2024-03-15 12:24:52.099 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 12:26:30.451 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:26:33.154 [main] SanityTest - name loop 1Free shipping
+[INFO ] 2024-03-15 12:26:33.160 [main] SanityTest - name loop 1Local pickup
+[INFO ] 2024-03-15 12:26:33.167 [main] SanityTest - name loop 1Delivery Express (1 - 3 days): 12.50 ₪
+[INFO ] 2024-03-15 12:26:33.173 [main] SanityTest - name loop 1Registered Mail (5 - 8 days): 5.90 ₪
+[INFO ] 2024-03-15 12:26:33.237 [main] SanityTest - name Free shipping4
+[INFO ] 2024-03-15 12:26:33.243 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 12:26:33.326 [main] SanityTest - name Local pickup4
+[INFO ] 2024-03-15 12:26:33.333 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 12:27:34.501 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:27:37.470 [main] SanityTest - name loop 1Free shipping
+[INFO ] 2024-03-15 12:27:37.479 [main] SanityTest - name loop 1Local pickup
+[INFO ] 2024-03-15 12:27:37.488 [main] SanityTest - name loop 1Delivery Express (1 - 3 days): 12.50 ₪
+[INFO ] 2024-03-15 12:27:37.497 [main] SanityTest - name loop 1Registered Mail (5 - 8 days): 5.90 ₪
+[INFO ] 2024-03-15 12:27:37.588 [main] SanityTest - name Free shipping4
+[INFO ] 2024-03-15 12:27:37.596 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 12:27:37.730 [main] SanityTest - name Local pickup4
+[INFO ] 2024-03-15 12:27:37.743 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 12:30:10.775 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:30:13.585 [main] SanityTest - name Free shipping
+[INFO ] 2024-03-15 12:30:13.586 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 12:30:13.671 [main] SanityTest - name Local pickup
+[INFO ] 2024-03-15 12:30:13.671 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 12:31:31.054 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:31:35.034 [main] SanityTest - name loop 1 Free shipping
+[INFO ] 2024-03-15 12:31:35.040 [main] SanityTest - name loop 1 Local pickup
+[INFO ] 2024-03-15 12:31:35.049 [main] SanityTest - name loop 1 Delivery Express
+[INFO ] 2024-03-15 12:31:35.061 [main] SanityTest - name loop 1 Registered Mail
+[INFO ] 2024-03-15 12:31:35.151 [main] SanityTest - name Free shipping
+[INFO ] 2024-03-15 12:31:35.152 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 12:31:35.268 [main] SanityTest - name Local pickup
+[INFO ] 2024-03-15 12:31:35.268 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 12:33:24.341 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:33:27.176 [main] SanityTest - Free shipping
+[INFO ] 2024-03-15 12:33:27.192 [main] SanityTest - Local pickup
+[INFO ] 2024-03-15 12:33:27.204 [main] SanityTest - Delivery Express
+[INFO ] 2024-03-15 12:33:27.213 [main] SanityTest - Registered Mail
+[INFO ] 2024-03-15 12:33:27.296 [main] SanityTest - name Free shipping
+[INFO ] 2024-03-15 12:33:27.296 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 12:33:27.419 [main] SanityTest - name Local pickup
+[INFO ] 2024-03-15 12:33:27.419 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 12:34:17.457 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:34:20.218 [main] SanityTest - Free shipping
+[INFO ] 2024-03-15 12:34:20.226 [main] SanityTest - Local pickup
+[INFO ] 2024-03-15 12:34:20.233 [main] SanityTest - Delivery Express
+[INFO ] 2024-03-15 12:34:20.241 [main] SanityTest - Registered Mail
+[INFO ] 2024-03-15 12:34:20.247 [main] SanityTest - name Free shipping
+[INFO ] 2024-03-15 12:34:20.247 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 12:34:20.254 [main] SanityTest - name Local pickup
+[INFO ] 2024-03-15 12:34:20.255 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 12:34:20.262 [main] SanityTest - name Delivery Express
+[INFO ] 2024-03-15 12:34:20.262 [main] SanityTest - Selected Delivery Express (1 - 3 days) option
+[INFO ] 2024-03-15 12:34:20.268 [main] SanityTest - name Registered Mail
+[INFO ] 2024-03-15 12:34:20.269 [main] SanityTest - Selected Registered Mail (5 - 8 days) option
+[INFO ] 2024-03-15 12:38:34.717 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:38:37.604 [main] SanityTest - Free shipping
+[INFO ] 2024-03-15 12:38:37.612 [main] SanityTest - Local pickup
+[INFO ] 2024-03-15 12:38:37.620 [main] SanityTest - Delivery Express
+[INFO ] 2024-03-15 12:38:37.628 [main] SanityTest - Registered Mail
+[INFO ] 2024-03-15 12:38:37.701 [main] SanityTest - name Free shipping
+[INFO ] 2024-03-15 12:38:37.805 [main] SanityTest - name Local pickup
+[INFO ] 2024-03-15 12:43:55.727 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:43:58.559 [main] SanityTest - try this Registered Mail (5 - 8 days): 5.90 ₪
+[INFO ] 2024-03-15 12:43:58.663 [main] SanityTest - Free shipping
+[INFO ] 2024-03-15 12:43:58.671 [main] SanityTest - Local pickup
+[INFO ] 2024-03-15 12:43:58.677 [main] SanityTest - Delivery Express
+[INFO ] 2024-03-15 12:43:58.687 [main] SanityTest - Registered Mail
+[INFO ] 2024-03-15 12:48:03.369 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:48:06.068 [main] SanityTest - [[[ChromeDriver: chrome on windows (e1d9fe3d414e82eb0ffd0c7487eaeb4d)] -> css selector: [id^='shipping_method_0_']], [[ChromeDriver: chrome on windows (e1d9fe3d414e82eb0ffd0c7487eaeb4d)] -> css selector: [id^='shipping_method_0_']], [[ChromeDriver: chrome on windows (e1d9fe3d414e82eb0ffd0c7487eaeb4d)] -> css selector: [id^='shipping_method_0_']], [[ChromeDriver: chrome on windows (e1d9fe3d414e82eb0ffd0c7487eaeb4d)] -> css selector: [id^='shipping_method_0_']]]
+[INFO ] 2024-03-15 12:48:06.112 [main] SanityTest - Free shipping
+[INFO ] 2024-03-15 12:48:06.119 [main] SanityTest - Local pickup
+[INFO ] 2024-03-15 12:48:06.127 [main] SanityTest - Delivery Express
+[INFO ] 2024-03-15 12:48:06.134 [main] SanityTest - Registered Mail
+[INFO ] 2024-03-15 12:48:06.213 [main] SanityTest - name Free shipping
+[INFO ] 2024-03-15 12:48:06.348 [main] SanityTest - name Local pickup
+[INFO ] 2024-03-15 12:48:56.399 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:48:59.188 [main] SanityTest - Free shipping
+[INFO ] 2024-03-15 12:48:59.197 [main] SanityTest - Local pickup
+[INFO ] 2024-03-15 12:48:59.205 [main] SanityTest - Delivery Express
+[INFO ] 2024-03-15 12:48:59.213 [main] SanityTest - Registered Mail
+[INFO ] 2024-03-15 12:48:59.285 [main] SanityTest - name Free shipping
+[INFO ] 2024-03-15 12:48:59.374 [main] SanityTest - name Local pickup
+[INFO ] 2024-03-15 12:50:04.413 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:50:07.282 [main] SanityTest - name Free shipping
+[INFO ] 2024-03-15 12:50:07.371 [main] SanityTest - name Local pickup
+[INFO ] 2024-03-15 12:50:58.718 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:51:01.668 [main] SanityTest - Free shipping
+[INFO ] 2024-03-15 12:51:01.727 [main] SanityTest - Local pickup
+[INFO ] 2024-03-15 12:51:01.817 [main] SanityTest - Delivery Express
+[INFO ] 2024-03-15 12:52:03.508 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:52:06.888 [main] SanityTest - Free shipping 4
+[INFO ] 2024-03-15 12:52:06.983 [main] SanityTest - Local pickup 4
+[INFO ] 2024-03-15 12:52:07.111 [main] SanityTest - Delivery Express 4
+[INFO ] 2024-03-15 12:55:17.359 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:55:20.301 [main] SanityTest - Free shipping 4
+[INFO ] 2024-03-15 12:55:20.318 [main] SanityTest - Local pickup 4
+[INFO ] 2024-03-15 12:55:20.334 [main] SanityTest - Delivery Express 4
+[INFO ] 2024-03-15 12:55:20.351 [main] SanityTest - Registered Mail 4
+[INFO ] 2024-03-15 12:55:20.445 [main] SanityTest - name Free shipping
+[INFO ] 2024-03-15 12:56:12.689 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:56:15.698 [main] SanityTest - name Free shipping
+[INFO ] 2024-03-15 12:56:15.698 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 12:56:15.721 [main] SanityTest - name Local pickup
+[INFO ] 2024-03-15 12:56:15.722 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 12:56:15.749 [main] SanityTest - name Delivery Express
+[INFO ] 2024-03-15 12:56:15.749 [main] SanityTest - Selected Delivery Express (1 - 3 days) option
+[INFO ] 2024-03-15 12:56:15.768 [main] SanityTest - name Registered Mail
+[INFO ] 2024-03-15 12:56:15.769 [main] SanityTest - Selected Registered Mail (5 - 8 days) option
+[INFO ] 2024-03-15 12:59:16.238 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 12:59:19.088 [main] SanityTest - [[ChromeDriver: chrome on windows (07bde2b8c29ea397cbc8142792ff594d)] -> css selector: span.woocommerce-Price-currencySymbol]
+[INFO ] 2024-03-15 12:59:19.088 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 12:59:19.117 [main] SanityTest - [[ChromeDriver: chrome on windows (07bde2b8c29ea397cbc8142792ff594d)] -> css selector: span.woocommerce-Price-currencySymbol]
+[INFO ] 2024-03-15 12:59:19.117 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 12:59:19.148 [main] SanityTest - [[ChromeDriver: chrome on windows (07bde2b8c29ea397cbc8142792ff594d)] -> css selector: span.woocommerce-Price-currencySymbol]
+[INFO ] 2024-03-15 12:59:19.149 [main] SanityTest - Selected Delivery Express option
+[INFO ] 2024-03-15 12:59:19.175 [main] SanityTest - [[ChromeDriver: chrome on windows (07bde2b8c29ea397cbc8142792ff594d)] -> css selector: span.woocommerce-Price-currencySymbol]
+[INFO ] 2024-03-15 12:59:19.175 [main] SanityTest - Selected Registered Mail option
+[INFO ] 2024-03-15 13:00:02.830 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:00:05.736 [main] SanityTest - ₪
+[INFO ] 2024-03-15 13:00:05.737 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 13:00:05.783 [main] SanityTest - ₪
+[INFO ] 2024-03-15 13:00:05.783 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 13:00:05.832 [main] SanityTest - ₪
+[INFO ] 2024-03-15 13:00:05.832 [main] SanityTest - Selected Delivery Express option
+[INFO ] 2024-03-15 13:00:05.873 [main] SanityTest - ₪
+[INFO ] 2024-03-15 13:00:05.873 [main] SanityTest - Selected Registered Mail option
+[INFO ] 2024-03-15 13:01:47.211 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:02:20.657 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:03:08.119 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:03:10.926 [main] SanityTest - 750.00 ₪
+[INFO ] 2024-03-15 13:03:10.927 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 13:03:10.970 [main] SanityTest - 750.00 ₪
+[INFO ] 2024-03-15 13:03:10.970 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 13:03:11.009 [main] SanityTest - 750.00 ₪
+[INFO ] 2024-03-15 13:03:11.009 [main] SanityTest - Selected Delivery Express option
+[INFO ] 2024-03-15 13:03:11.045 [main] SanityTest - 750.00 ₪
+[INFO ] 2024-03-15 13:03:11.046 [main] SanityTest - Selected Registered Mail option
+[INFO ] 2024-03-15 13:03:53.219 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:03:56.450 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:03:56.451 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 13:03:56.504 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:03:56.505 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 13:03:56.555 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:03:56.556 [main] SanityTest - Selected Delivery Express option
+[INFO ] 2024-03-15 13:03:56.603 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:03:56.603 [main] SanityTest - Selected Registered Mail option
+[INFO ] 2024-03-15 13:06:10.546 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:06:13.583 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 13:06:13.613 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:06:13.613 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:06:13.633 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 13:06:13.659 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:06:13.660 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:06:13.675 [main] SanityTest - Selected Delivery Express option
+[INFO ] 2024-03-15 13:06:13.700 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:06:13.700 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:06:13.715 [main] SanityTest - Selected Registered Mail option
+[INFO ] 2024-03-15 13:06:13.736 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:06:13.736 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:07:18.376 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:07:21.263 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 13:07:21.293 [main] SanityTest - 500.00
+[INFO ] 2024-03-15 13:07:21.294 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:07:21.312 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 13:07:21.336 [main] SanityTest - 500.00
+[INFO ] 2024-03-15 13:07:21.337 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:07:21.355 [main] SanityTest - Selected Delivery Express option
+[INFO ] 2024-03-15 13:07:21.382 [main] SanityTest - 500.00
+[INFO ] 2024-03-15 13:07:21.383 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:07:21.402 [main] SanityTest - Selected Registered Mail option
+[INFO ] 2024-03-15 13:07:21.425 [main] SanityTest - 500.00
+[INFO ] 2024-03-15 13:07:21.425 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:08:50.906 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:08:53.579 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 13:08:54.617 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:08:54.617 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:08:54.635 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 13:08:55.683 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:08:55.683 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:08:55.703 [main] SanityTest - Selected Delivery Express option
+[INFO ] 2024-03-15 13:08:56.734 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:08:56.734 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:08:56.751 [main] SanityTest - Selected Registered Mail option
+[INFO ] 2024-03-15 13:08:57.786 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:08:57.786 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:11:00.339 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:11:04.314 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 13:11:04.346 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:11:04.347 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:11:05.377 [main] SanityTest - Selected Local pickup option
+[INFO ] 2024-03-15 13:11:05.408 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:11:05.409 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:11:06.436 [main] SanityTest - Selected Delivery Express option
+[INFO ] 2024-03-15 13:11:06.463 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:11:06.464 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:11:07.481 [main] SanityTest - Selected Registered Mail option
+[INFO ] 2024-03-15 13:11:07.505 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:11:07.506 [main] SanityTest - ---------------------
+[INFO ] 2024-03-15 13:17:28.178 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:17:32.034 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-15 13:20:24.910 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:22:03.892 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:22:07.797 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:22:09.903 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:22:12.042 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:22:14.148 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:23:58.086 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:24:02.399 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:24:04.516 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:24:06.603 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:24:08.731 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:24:42.328 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:24:46.035 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:24:48.143 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:24:50.216 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:24:52.304 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:25:37.691 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:29:26.366 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:29:33.705 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:29:38.474 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:29:42.611 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:29:46.693 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:33:39.652 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:33:45.605 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:34:45.707 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:34:51.906 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:36:50.805 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:38:57.458 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:39:04.732 [main] SanityTest - 500.00
+[INFO ] 2024-03-15 13:40:48.785 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:41:38.298 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:41:45.389 [main] SanityTest - 250.00
+[INFO ] 2024-03-15 13:43:54.123 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 13:43:58.068 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:44:00.156 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:44:02.238 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 13:44:04.318 [main] SanityTest - 750.00
+[INFO ] 2024-03-15 18:13:16.439 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-15 18:13:20.905 [main] SanityTest - 750.00
+[INFO ] 2024-03-16 11:51:49.801 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 11:58:43.349 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:00:34.194 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:02:45.460 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:09:14.055 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:09:42.604 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:10:22.389 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:10:47.510 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:15:18.806 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:16:59.533 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:19:11.696 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:19:15.470 [main] SanityTest - 750.00
+[INFO ] 2024-03-16 12:19:16.473 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-16 12:21:37.306 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:21:41.188 [main] SanityTest - 250.00
+[INFO ] 2024-03-16 12:21:42.192 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-16 12:21:42.225 [main] SanityTest - 250.00
+[INFO ] 2024-03-16 12:21:42.226 [main] SanityTest - ---------------------
+[INFO ] 2024-03-16 12:22:52.353 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:22:56.500 [main] SanityTest - 750.00
+[INFO ] 2024-03-16 12:22:57.508 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-16 12:22:57.535 [main] SanityTest - 750.00
+[INFO ] 2024-03-16 12:22:57.536 [main] SanityTest - ---------------------
+[INFO ] 2024-03-16 12:24:19.201 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:24:23.160 [main] SanityTest - 250.00
+[INFO ] 2024-03-16 12:26:03.772 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:26:06.682 [main] SanityTest - Free shipping
+[INFO ] 2024-03-16 12:26:06.689 [main] SanityTest - Local pickup
+[INFO ] 2024-03-16 12:26:06.696 [main] SanityTest - Delivery Express
+[INFO ] 2024-03-16 12:26:06.702 [main] SanityTest - Registered Mail
+[INFO ] 2024-03-16 12:26:07.787 [main] SanityTest - 500.00
+[INFO ] 2024-03-16 12:26:08.797 [main] SanityTest - Selected Free shipping option
+[INFO ] 2024-03-16 12:26:08.833 [main] SanityTest - 500.00
+[INFO ] 2024-03-16 12:26:08.834 [main] SanityTest - ---------------------
+[INFO ] 2024-03-16 12:27:07.982 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:27:10.880 [main] SanityTest - Free shipping
+[INFO ] 2024-03-16 12:27:10.904 [main] SanityTest - Local pickup
+[INFO ] 2024-03-16 12:27:10.962 [main] SanityTest - Delivery Express
+[INFO ] 2024-03-16 12:27:10.988 [main] SanityTest - Registered Mail
+[INFO ] 2024-03-16 12:28:04.498 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:28:07.718 [main] SanityTest - Free shipping [[ChromeDriver: chrome on windows (c00dbebb28a2cb9ee1c852bdaf5741c4)] -> css selector: span.woocommerce-Price-amount]
+[INFO ] 2024-03-16 12:28:07.778 [main] SanityTest - Local pickup [[ChromeDriver: chrome on windows (c00dbebb28a2cb9ee1c852bdaf5741c4)] -> css selector: span.woocommerce-Price-amount]
+[INFO ] 2024-03-16 12:28:07.808 [main] SanityTest - Delivery Express [[ChromeDriver: chrome on windows (c00dbebb28a2cb9ee1c852bdaf5741c4)] -> css selector: span.woocommerce-Price-amount]
+[INFO ] 2024-03-16 12:28:07.840 [main] SanityTest - Registered Mail [[ChromeDriver: chrome on windows (c00dbebb28a2cb9ee1c852bdaf5741c4)] -> css selector: span.woocommerce-Price-amount]
+[INFO ] 2024-03-16 12:28:32.085 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:28:34.971 [main] SanityTest - Free shipping 750.00 ₪
+[INFO ] 2024-03-16 12:28:35.060 [main] SanityTest - Local pickup 750.00 ₪
+[INFO ] 2024-03-16 12:28:35.137 [main] SanityTest - Delivery Express 750.00 ₪
+[INFO ] 2024-03-16 12:28:35.202 [main] SanityTest - Registered Mail 750.00 ₪
+[INFO ] 2024-03-16 12:29:09.257 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:29:13.340 [main] SanityTest - Free shipping 750.00 ₪
+[INFO ] 2024-03-16 12:29:13.417 [main] SanityTest - Local pickup 750.00 ₪
+[INFO ] 2024-03-16 12:29:13.465 [main] SanityTest - Delivery Express 750.00 ₪
+[INFO ] 2024-03-16 12:29:13.508 [main] SanityTest - Registered Mail 750.00 ₪
+[INFO ] 2024-03-16 12:30:10.192 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:30:12.978 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 12:30:13.048 [main] SanityTest - Local pickup 250.00 ₪
+[INFO ] 2024-03-16 12:30:13.097 [main] SanityTest - Delivery Express 250.00 ₪
+[INFO ] 2024-03-16 12:30:13.161 [main] SanityTest - Registered Mail 250.00 ₪
+[INFO ] 2024-03-16 12:30:34.518 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:30:37.404 [main] SanityTest - Free shipping 500.00 ₪
+[INFO ] 2024-03-16 12:30:37.507 [main] SanityTest - Local pickup 500.00 ₪
+[INFO ] 2024-03-16 12:30:37.577 [main] SanityTest - Delivery Express 500.00 ₪
+[INFO ] 2024-03-16 12:30:37.633 [main] SanityTest - Registered Mail 500.00 ₪
+[INFO ] 2024-03-16 12:31:08.111 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:31:12.865 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 12:31:13.966 [main] SanityTest - Local pickup 250.00 ₪
+[INFO ] 2024-03-16 12:32:07.050 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:32:10.822 [main] SanityTest - Free shipping 750.00 ₪
+[INFO ] 2024-03-16 12:32:43.653 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:32:46.378 [main] SanityTest - Free shipping 500.00 ₪
+[INFO ] 2024-03-16 12:32:46.454 [main] SanityTest - Local pickup 500.00 ₪
+[INFO ] 2024-03-16 12:32:46.507 [main] SanityTest - Delivery Express 500.00 ₪
+[INFO ] 2024-03-16 12:32:46.552 [main] SanityTest - Registered Mail 500.00 ₪
+[INFO ] 2024-03-16 12:37:51.392 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:37:54.260 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 12:37:54.359 [main] SanityTest - Local pickup 250.00 ₪
+[INFO ] 2024-03-16 12:37:54.432 [main] SanityTest - Delivery Express 250.00 ₪
+[INFO ] 2024-03-16 12:37:54.498 [main] SanityTest - Registered Mail 250.00 ₪
+[INFO ] 2024-03-16 12:39:01.204 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:39:04.025 [main] SanityTest - Free shipping 500.00 ₪
+[INFO ] 2024-03-16 12:39:04.157 [main] SanityTest - Local pickup 500.00 ₪
+[INFO ] 2024-03-16 12:39:04.238 [main] SanityTest - Delivery Express 500.00 ₪
+[INFO ] 2024-03-16 12:39:04.303 [main] SanityTest - Registered Mail 500.00 ₪
+[INFO ] 2024-03-16 12:39:49.761 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 12:39:53.894 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 19:10:43.875 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:10:54.442 [main] SanityTest - Free shipping 500.00 ₪
+[INFO ] 2024-03-16 19:10:54.560 [main] SanityTest - Local pickup 500.00 ₪
+[INFO ] 2024-03-16 19:10:54.640 [main] SanityTest - Delivery Express 500.00 ₪
+[INFO ] 2024-03-16 19:10:54.728 [main] SanityTest - Registered Mail 500.00 ₪
+[INFO ] 2024-03-16 19:13:44.113 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:13:48.043 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:13:53.189 [main] SanityTest - Free shipping 750.00 ₪
+[INFO ] 2024-03-16 19:13:54.201 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:15:21.777 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:15:25.539 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:15:30.735 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 19:15:31.750 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:15:36.871 [main] SanityTest - Local pickup 250.00 ₪
+[INFO ] 2024-03-16 19:15:37.878 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:20:03.172 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:20:06.943 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:20:12.060 [main] SanityTest - Free shipping 750.00 ₪
+[INFO ] 2024-03-16 19:20:13.075 [main] SanityTest - 1
+[INFO ] 2024-03-16 19:20:18.203 [main] SanityTest - Local pickup 750.00 ₪
+[INFO ] 2024-03-16 19:20:19.205 [main] SanityTest - 2
+[INFO ] 2024-03-16 19:20:48.376 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:20:52.230 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:20:57.371 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 19:20:58.373 [main] SanityTest - 1
+[INFO ] 2024-03-16 19:21:03.439 [main] SanityTest - Local pickup 250.00 ₪
+[INFO ] 2024-03-16 19:21:04.445 [main] SanityTest - 2
+[INFO ] 2024-03-16 19:21:09.538 [main] SanityTest - Delivery Express 250.00 ₪
+[INFO ] 2024-03-16 19:21:10.554 [main] SanityTest - 3
+[INFO ] 2024-03-16 19:21:15.630 [main] SanityTest - Registered Mail 250.00 ₪
+[INFO ] 2024-03-16 19:22:20.468 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:22:24.591 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:22:29.767 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 19:22:30.775 [main] SanityTest - 1
+[INFO ] 2024-03-16 19:22:35.947 [main] SanityTest - Local pickup 250.00 ₪
+[INFO ] 2024-03-16 19:22:36.948 [main] SanityTest - 2
+[INFO ] 2024-03-16 19:25:09.364 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:25:13.059 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:31:36.054 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:31:40.204 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:31:45.297 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 19:31:46.394 [main] SanityTest - 1
+[INFO ] 2024-03-16 19:31:51.513 [main] SanityTest -  250.00 ₪
+[INFO ] 2024-03-16 19:31:51.594 [main] SanityTest - failll
+[INFO ] 2024-03-16 19:31:52.598 [main] SanityTest - 2
+[INFO ] 2024-03-16 19:31:57.663 [main] SanityTest -  250.00 ₪
+[INFO ] 2024-03-16 19:31:57.723 [main] SanityTest - failll
+[INFO ] 2024-03-16 19:31:58.734 [main] SanityTest - 3
+[INFO ] 2024-03-16 19:32:03.802 [main] SanityTest -  250.00 ₪
+[INFO ] 2024-03-16 19:33:23.331 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:33:27.146 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:33:32.306 [main] SanityTest - Free shipping 750.00 ₪
+[INFO ] 2024-03-16 19:33:33.491 [main] SanityTest - 1
+[INFO ] 2024-03-16 19:33:38.592 [main] SanityTest -  750.00 ₪
+[INFO ] 2024-03-16 19:33:38.714 [main] SanityTest - failll
+[INFO ] 2024-03-16 19:33:39.719 [main] SanityTest - 2
+[INFO ] 2024-03-16 19:33:44.801 [main] SanityTest -  750.00 ₪
+[INFO ] 2024-03-16 19:33:44.917 [main] SanityTest - failll
+[INFO ] 2024-03-16 19:33:45.927 [main] SanityTest - 3
+[INFO ] 2024-03-16 19:33:50.999 [main] SanityTest -  750.00 ₪
+[INFO ] 2024-03-16 19:35:24.037 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:35:28.878 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:35:34.012 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 19:35:35.019 [main] SanityTest - 1
+[INFO ] 2024-03-16 19:35:40.143 [main] SanityTest - Local pickup 250.00 ₪
+[INFO ] 2024-03-16 19:35:41.153 [main] SanityTest - 2
+[INFO ] 2024-03-16 19:36:15.953 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:36:18.695 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:36:18.777 [main] SanityTest - Free shipping 750.00 ₪
+[INFO ] 2024-03-16 19:36:18.777 [main] SanityTest - 1
+[INFO ] 2024-03-16 19:36:18.869 [main] SanityTest - Local pickup 750.00 ₪
+[INFO ] 2024-03-16 19:36:18.869 [main] SanityTest - 2
+[INFO ] 2024-03-16 19:36:18.935 [main] SanityTest - Delivery Express 750.00 ₪
+[INFO ] 2024-03-16 19:36:18.935 [main] SanityTest - 3
+[INFO ] 2024-03-16 19:36:18.994 [main] SanityTest - Registered Mail 750.00 ₪
+[INFO ] 2024-03-16 19:41:25.612 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:42:42.043 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:42:44.726 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:42:44.821 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 19:42:44.821 [main] SanityTest - 1
+[INFO ] 2024-03-16 19:42:44.946 [main] SanityTest - Local pickup 250.00 ₪
+[INFO ] 2024-03-16 19:42:44.948 [main] SanityTest - 2
+[INFO ] 2024-03-16 19:42:45.015 [main] SanityTest - Delivery Express 250.00 ₪
+[INFO ] 2024-03-16 19:42:45.015 [main] SanityTest - 3
+[INFO ] 2024-03-16 19:42:45.081 [main] SanityTest - Registered Mail 250.00 ₪
+[INFO ] 2024-03-16 19:52:38.025 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:52:41.805 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:52:41.911 [main] SanityTest - Free shipping 500.00 ₪
+[INFO ] 2024-03-16 19:52:41.912 [main] SanityTest - 1
+[INFO ] 2024-03-16 19:52:42.047 [main] SanityTest - Local pickup 500.00 ₪
+[INFO ] 2024-03-16 19:52:42.047 [main] SanityTest - 2
+[INFO ] 2024-03-16 19:52:42.110 [main] SanityTest - Delivery Express 500.00 ₪
+[INFO ] 2024-03-16 19:52:42.110 [main] SanityTest - 3
+[INFO ] 2024-03-16 19:52:42.176 [main] SanityTest - Registered Mail 500.00 ₪
+[INFO ] 2024-03-16 19:53:01.399 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:53:04.114 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:53:04.230 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 19:53:04.230 [main] SanityTest - 1
+[INFO ] 2024-03-16 19:53:04.364 [main] SanityTest - Local pickup 250.00 ₪
+[INFO ] 2024-03-16 19:53:04.365 [main] SanityTest - 2
+[INFO ] 2024-03-16 19:53:04.440 [main] SanityTest - Delivery Express 250.00 ₪
+[INFO ] 2024-03-16 19:53:04.441 [main] SanityTest - 3
+[INFO ] 2024-03-16 19:53:04.503 [main] SanityTest - Registered Mail 250.00 ₪
+[INFO ] 2024-03-16 19:54:15.968 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:54:18.933 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:55:20.444 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 19:55:23.387 [main] SanityTest - 0
+[INFO ] 2024-03-16 19:55:23.479 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 19:55:23.479 [main] SanityTest - 1
+[INFO ] 2024-03-16 19:55:23.571 [main] SanityTest - Local pickup 250.00 ₪
+[INFO ] 2024-03-16 19:55:23.571 [main] SanityTest - 2
+[INFO ] 2024-03-16 19:55:23.637 [main] SanityTest - Delivery Express 250.00 ₪
+[INFO ] 2024-03-16 19:55:23.637 [main] SanityTest - 3
+[INFO ] 2024-03-16 19:55:23.693 [main] SanityTest - Registered Mail 250.00 ₪
+[INFO ] 2024-03-16 20:00:07.065 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 20:00:09.879 [main] SanityTest - 0
+[INFO ] 2024-03-16 20:00:11.008 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 20:00:11.009 [main] SanityTest - 1
+[INFO ] 2024-03-16 20:02:40.862 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 20:02:43.523 [main] SanityTest - 0
+[INFO ] 2024-03-16 20:46:04.988 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 20:46:08.650 [main] SanityTest - 0
+[INFO ] 2024-03-16 20:47:29.227 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 20:47:32.518 [main] SanityTest - 0
+[INFO ] 2024-03-16 20:48:05.777 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 20:48:09.340 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 20:48:09.497 [main] SanityTest - Local pickup 250.00 ₪
+[INFO ] 2024-03-16 20:48:09.589 [main] SanityTest - Delivery Express 250.00 ₪
+[INFO ] 2024-03-16 20:48:09.704 [main] SanityTest - Registered Mail 250.00 ₪
+[INFO ] 2024-03-16 20:48:09.704 [main] SanityTest - done
+[INFO ] 2024-03-16 20:51:59.860 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 20:52:03.361 [main] SanityTest - Product atid-blue-shoes was added  15 times - BAD
+[INFO ] 2024-03-16 20:52:04.412 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:52:06.115 [main] SanityTest - Product black-over-the-shoulder-handbag was added  11 times - BAD
+[INFO ] 2024-03-16 20:52:07.172 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:52:08.928 [main] SanityTest - Product blue-denim-shorts was added  6 times - GOOD
+[INFO ] 2024-03-16 20:52:09.703 [main] SanityTest - product price is 130.0, price in the cart is 780.0
+[INFO ] 2024-03-16 20:52:10.707 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:52:10.826 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:52:12.454 [main] SanityTest - Product anchor-bracelet was added  4 times - GOOD
+[INFO ] 2024-03-16 20:52:13.165 [main] SanityTest - product price is 250.0, price in the cart is 1000.0
+[INFO ] 2024-03-16 20:52:14.175 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:52:14.279 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:52:16.003 [main] SanityTest - Product dnk-tshirt was added  2 times - GOOD
+[INFO ] 2024-03-16 20:52:16.769 [main] SanityTest - product price is 190.0, price in the cart is 380.0
+[INFO ] 2024-03-16 20:52:17.778 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:52:17.896 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:52:19.176 [main] SanityTest - Product atid-yellow-shoes was added  2 times - GOOD
+[INFO ] 2024-03-16 20:52:19.830 [main] SanityTest - product price is 120.0, price in the cart is 240.0
+[INFO ] 2024-03-16 20:52:20.842 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:52:20.973 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:52:22.300 [main] SanityTest - Product basic-gray-jeans was added  3 times - GOOD
+[INFO ] 2024-03-16 20:52:23.035 [main] SanityTest - product price is 100.0, price in the cart is 300.0
+[INFO ] 2024-03-16 20:52:24.040 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:52:24.176 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:52:25.977 [main] SanityTest - Product blue-denim-jeans was added  12 times - BAD
+[INFO ] 2024-03-16 20:52:26.871 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:53:25.357 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 20:53:28.126 [main] SanityTest - Product atid-blue-shoes was added  8 times - GOOD
+[INFO ] 2024-03-16 20:53:29.046 [main] SanityTest - product price is 80.0, price in the cart is 640.0
+[INFO ] 2024-03-16 20:53:30.059 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:53:30.522 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:53:32.385 [main] SanityTest - Product black-over-the-shoulder-handbag was added  11 times - BAD
+[INFO ] 2024-03-16 20:53:33.220 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:53:34.535 [main] SanityTest - Product blue-denim-shorts was added  1 times - GOOD
+[INFO ] 2024-03-16 20:53:35.257 [main] SanityTest - product price is 130.0, price in the cart is 935.0
+[INFO ] 2024-03-16 20:53:36.258 [main] SanityTest - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-16 20:53:36.453 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:53:38.372 [main] SanityTest - Product anchor-bracelet was added  1 times - GOOD
+[INFO ] 2024-03-16 20:53:39.669 [main] SanityTest - product price is 250.0, price in the cart is 130.0
+[INFO ] 2024-03-16 20:53:40.675 [main] SanityTest - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-16 20:53:40.804 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:53:43.294 [main] SanityTest - Product dnk-tshirt was added  11 times - BAD
+[INFO ] 2024-03-16 20:53:44.113 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:53:45.536 [main] SanityTest - Product atid-yellow-shoes was added  3 times - GOOD
+[INFO ] 2024-03-16 20:53:46.265 [main] SanityTest - product price is 120.0, price in the cart is 2090.0
+[INFO ] 2024-03-16 20:53:47.267 [main] SanityTest - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-16 20:53:47.464 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:53:49.018 [main] SanityTest - Product basic-gray-jeans was added  9 times - GOOD
+[INFO ] 2024-03-16 20:53:49.686 [main] SanityTest - product price is 100.0, price in the cart is 360.0
+[INFO ] 2024-03-16 20:53:50.690 [main] SanityTest - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-16 20:53:50.800 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:53:52.814 [main] SanityTest - Product blue-denim-jeans was added  13 times - BAD
+[INFO ] 2024-03-16 20:53:53.590 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:53:55.151 [main] SanityTest - Product atid-black-shoes was added  7 times - GOOD
+[INFO ] 2024-03-16 20:53:55.993 [main] SanityTest - product price is 61.0, price in the cart is 1950.0
+[INFO ] 2024-03-16 20:53:57.004 [main] SanityTest - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-16 20:53:57.172 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:53:58.815 [main] SanityTest - Product atid-green-shoes was added  4 times - GOOD
+[INFO ] 2024-03-16 20:53:59.796 [main] SanityTest - product price is 110.0, price in the cart is 427.0
+[INFO ] 2024-03-16 20:54:00.806 [main] SanityTest - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-16 20:54:00.964 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:54:02.800 [main] SanityTest - Product black-hoodie was added  7 times - GOOD
+[INFO ] 2024-03-16 20:54:03.531 [main] SanityTest - product price is 150.0, price in the cart is 440.0
+[INFO ] 2024-03-16 20:54:04.539 [main] SanityTest - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-16 20:54:04.667 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:56:52.474 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 20:56:55.755 [main] SanityTest - Product atid-blue-shoes was added  6 times - GOOD
+[INFO ] 2024-03-16 20:56:56.638 [main] SanityTest - product price is 80.0, price in the cart is 480.0
+[INFO ] 2024-03-16 20:56:57.641 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:56:57.828 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:57:00.825 [main] SanityTest - Product black-over-the-shoulder-handbag was added  10 times - GOOD
+[INFO ] 2024-03-16 20:57:01.923 [main] SanityTest - product price is 85.0, price in the cart is 850.0
+[INFO ] 2024-03-16 20:57:02.931 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:57:03.105 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:57:04.367 [main] SanityTest - Product blue-denim-shorts was added  5 times - GOOD
+[INFO ] 2024-03-16 20:57:05.124 [main] SanityTest - product price is 130.0, price in the cart is 650.0
+[INFO ] 2024-03-16 20:57:06.135 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:57:06.252 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:57:07.714 [main] SanityTest - Product anchor-bracelet was added  13 times - BAD
+[INFO ] 2024-03-16 20:57:08.573 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:57:09.858 [main] SanityTest - Product dnk-tshirt was added  7 times - GOOD
+[INFO ] 2024-03-16 20:57:10.592 [main] SanityTest - product price is 190.0, price in the cart is 1330.0
+[INFO ] 2024-03-16 20:57:11.595 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:57:11.718 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:57:13.007 [main] SanityTest - Product atid-yellow-shoes was added  1 times - GOOD
+[INFO ] 2024-03-16 20:57:13.685 [main] SanityTest - product price is 120.0, price in the cart is 120.0
+[INFO ] 2024-03-16 20:57:14.698 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:57:14.806 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:57:15.991 [main] SanityTest - Product basic-gray-jeans was added  14 times - BAD
+[INFO ] 2024-03-16 20:57:16.752 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:57:18.411 [main] SanityTest - Product blue-denim-jeans was added  12 times - BAD
+[INFO ] 2024-03-16 20:57:19.181 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:57:20.594 [main] SanityTest - Product atid-black-shoes was added  11 times - BAD
+[INFO ] 2024-03-16 20:57:21.517 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:57:22.746 [main] SanityTest - Product atid-green-shoes was added  8 times - GOOD
+[INFO ] 2024-03-16 20:57:23.441 [main] SanityTest - product price is 110.0, price in the cart is 880.0
+[INFO ] 2024-03-16 20:57:24.455 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:57:24.563 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:57:25.866 [main] SanityTest - Product black-hoodie was added  9 times - GOOD
+[INFO ] 2024-03-16 20:57:26.550 [main] SanityTest - product price is 150.0, price in the cart is 1350.0
+[INFO ] 2024-03-16 20:57:27.556 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:57:27.662 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:57:47.443 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 20:57:50.613 [main] SanityTest - Product atid-blue-shoes was added  1 times - GOOD
+[INFO ] 2024-03-16 20:57:51.517 [main] SanityTest - product price is 80.0, price in the cart is 80.0
+[INFO ] 2024-03-16 20:57:52.529 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:57:52.666 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:57:54.167 [main] SanityTest - Product black-over-the-shoulder-handbag was added  7 times - GOOD
+[INFO ] 2024-03-16 20:57:55.162 [main] SanityTest - product price is 85.0, price in the cart is 595.0
+[INFO ] 2024-03-16 20:57:56.173 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:57:56.580 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:57:58.816 [main] SanityTest - Product blue-denim-shorts was added  7 times - GOOD
+[INFO ] 2024-03-16 20:57:59.575 [main] SanityTest - product price is 130.0, price in the cart is 910.0
+[INFO ] 2024-03-16 20:58:00.584 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:58:00.791 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:58:02.421 [main] SanityTest - Product anchor-bracelet was added  11 times - BAD
+[INFO ] 2024-03-16 20:58:03.255 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:58:04.657 [main] SanityTest - Product dnk-tshirt was added  15 times - BAD
+[INFO ] 2024-03-16 20:58:05.441 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:58:06.697 [main] SanityTest - Product atid-yellow-shoes was added  15 times - BAD
+[INFO ] 2024-03-16 20:58:07.486 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:58:08.862 [main] SanityTest - Product basic-gray-jeans was added  6 times - GOOD
+[INFO ] 2024-03-16 20:58:09.564 [main] SanityTest - product price is 100.0, price in the cart is 600.0
+[INFO ] 2024-03-16 20:58:10.579 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:58:10.700 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:58:12.279 [main] SanityTest - Product blue-denim-jeans was added  10 times - GOOD
+[INFO ] 2024-03-16 20:58:13.026 [main] SanityTest - product price is 150.0, price in the cart is 1500.0
+[INFO ] 2024-03-16 20:58:14.037 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:58:14.141 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:58:15.302 [main] SanityTest - Product atid-black-shoes was added  11 times - BAD
+[INFO ] 2024-03-16 20:58:16.058 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:58:17.249 [main] SanityTest - Product atid-green-shoes was added  9 times - GOOD
+[INFO ] 2024-03-16 20:58:17.951 [main] SanityTest - product price is 110.0, price in the cart is 990.0
+[INFO ] 2024-03-16 20:58:18.954 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:58:19.069 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:58:20.475 [main] SanityTest - Product black-hoodie was added  2 times - GOOD
+[INFO ] 2024-03-16 20:58:21.235 [main] SanityTest - product price is 150.0, price in the cart is 300.0
+[INFO ] 2024-03-16 20:58:22.238 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:58:22.367 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:59:24.370 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 20:59:27.521 [main] SanityTest - Product atid-blue-shoes was added  3 times - GOOD
+[INFO ] 2024-03-16 20:59:28.366 [main] SanityTest - product price is 80.0, price in the cart is 240.0
+[INFO ] 2024-03-16 20:59:29.375 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:59:29.542 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:59:31.291 [main] SanityTest - Product black-over-the-shoulder-handbag was added  11 times - BAD
+[INFO ] 2024-03-16 20:59:32.373 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:59:34.570 [main] SanityTest - Product blue-denim-shorts was added  3 times - GOOD
+[INFO ] 2024-03-16 20:59:35.457 [main] SanityTest - product price is 130.0, price in the cart is 390.0
+[INFO ] 2024-03-16 20:59:36.468 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:59:36.598 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:59:38.103 [main] SanityTest - Product anchor-bracelet was added  7 times - GOOD
+[INFO ] 2024-03-16 20:59:38.855 [main] SanityTest - product price is 250.0, price in the cart is 1750.0
+[INFO ] 2024-03-16 20:59:39.869 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:59:39.974 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:59:41.383 [main] SanityTest - Product dnk-tshirt was added  4 times - GOOD
+[INFO ] 2024-03-16 20:59:42.205 [main] SanityTest - product price is 190.0, price in the cart is 760.0
+[INFO ] 2024-03-16 20:59:43.216 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:59:43.340 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:59:45.220 [main] SanityTest - Product atid-yellow-shoes was added  11 times - BAD
+[INFO ] 2024-03-16 20:59:46.063 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:59:47.595 [main] SanityTest - Product basic-gray-jeans was added  13 times - BAD
+[INFO ] 2024-03-16 20:59:48.537 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:59:50.364 [main] SanityTest - Product blue-denim-jeans was added  12 times - BAD
+[INFO ] 2024-03-16 20:59:51.117 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:59:52.537 [main] SanityTest - Product atid-black-shoes was added  2 times - GOOD
+[INFO ] 2024-03-16 20:59:53.224 [main] SanityTest - product price is 61.0, price in the cart is 122.0
+[INFO ] 2024-03-16 20:59:54.239 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:59:54.350 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:59:55.522 [main] SanityTest - Product atid-green-shoes was added  9 times - GOOD
+[INFO ] 2024-03-16 20:59:56.184 [main] SanityTest - product price is 110.0, price in the cart is 990.0
+[INFO ] 2024-03-16 20:59:57.192 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 20:59:57.303 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 20:59:58.673 [main] SanityTest - Product black-hoodie was added  6 times - GOOD
+[INFO ] 2024-03-16 20:59:59.363 [main] SanityTest - product price is 150.0, price in the cart is 900.0
+[INFO ] 2024-03-16 21:00:00.374 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 21:00:00.511 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 21:01:47.646 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:01:50.760 [main] SanityTest - Product atid-blue-shoes was added  13 times - BAD
+[INFO ] 2024-03-16 21:01:51.822 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 21:01:53.352 [main] SanityTest - Product black-over-the-shoulder-handbag was added  14 times - BAD
+[INFO ] 2024-03-16 21:01:54.491 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 21:01:56.290 [main] SanityTest - Product blue-denim-shorts was added  6 times - GOOD
+[INFO ] 2024-03-16 21:01:56.984 [main] SanityTest - product price is 130.0, price in the cart is 780.0
+[INFO ] 2024-03-16 21:01:57.990 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 21:01:58.123 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 21:01:59.837 [main] SanityTest - Product anchor-bracelet was added  12 times - BAD
+[INFO ] 2024-03-16 21:02:00.716 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 21:02:02.434 [main] SanityTest - Product dnk-tshirt was added  12 times - BAD
+[INFO ] 2024-03-16 21:02:03.334 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 21:02:05.105 [main] SanityTest - Product atid-yellow-shoes was added  3 times - GOOD
+[INFO ] 2024-03-16 21:02:05.879 [main] SanityTest - product price is 120.0, price in the cart is 360.0
+[INFO ] 2024-03-16 21:02:06.894 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 21:02:07.020 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 21:02:08.421 [main] SanityTest - Product basic-gray-jeans was added  2 times - GOOD
+[INFO ] 2024-03-16 21:02:09.166 [main] SanityTest - product price is 100.0, price in the cart is 200.0
+[INFO ] 2024-03-16 21:02:10.178 [main] SanityTest - price in the cart matches product price - GOOD
+[INFO ] 2024-03-16 21:02:10.294 [main] SanityTest - -------------------------------
+[INFO ] 2024-03-16 21:02:12.433 [main] SanityTest - Product blue-denim-jeans was added  1 times - GOOD
+[INFO ] 2024-03-16 21:02:33.040 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:13:05.560 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:13:07.531 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:14:33.976 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:14:36.116 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:14:37.309 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:14:38.458 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:14:39.566 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:14:40.606 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:14:43.818 [main] SanityTest - Product deleted successfully from the cart.
+[INFO ] 2024-03-16 21:16:53.165 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:16:55.410 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:16:56.952 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:16:58.188 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:16:59.592 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:17:00.792 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:17:04.063 [main] SanityTest - Product deleted successfully from the cart.
+[INFO ] 2024-03-16 21:17:04.112 [main] SanityTest - Test completed successfully.
+[INFO ] 2024-03-16 21:30:46.404 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:30:48.714 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:30:49.965 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:30:51.409 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:30:52.756 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:30:54.251 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:32:56.325 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:32:58.610 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:32:59.880 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:33:01.219 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:33:02.555 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:33:04.127 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:33:07.683 [main] SanityTest - Product deleted successfully from the cart.
+[INFO ] 2024-03-16 21:37:26.309 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:37:28.536 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:37:29.895 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:37:31.123 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:37:32.446 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:37:34.013 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:37:37.787 [main] SanityTest - Product deleted successfully from the cart.
+[INFO ] 2024-03-16 21:38:16.698 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:38:18.764 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:38:19.920 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:38:21.259 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:38:22.241 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:38:23.508 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:38:26.800 [main] SanityTest - Product deleted successfully from the cart.
+[INFO ] 2024-03-16 21:40:44.794 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:40:47.207 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:40:48.733 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:40:50.008 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:40:51.323 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:40:52.872 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:40:56.355 [main] SanityTest - Product deleted successfully from the cart.
+[INFO ] 2024-03-16 21:40:56.467 [main] SanityTest - Test completed successfully.
+[INFO ] 2024-03-16 21:41:48.224 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:41:50.396 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:41:51.850 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:41:53.050 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:41:54.649 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:41:56.499 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:42:00.710 [main] SanityTest - Product deleted successfully from the cart.
+[INFO ] 2024-03-16 21:42:00.860 [main] SanityTest - Test completed successfully.
+[INFO ] 2024-03-16 21:44:35.578 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:44:37.612 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:44:38.995 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:44:40.360 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:44:41.654 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:44:43.016 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:44:46.330 [main] SanityTest - Product deleted successfully from the cart.
+[INFO ] 2024-03-16 21:46:11.511 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:46:13.538 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:46:14.952 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:46:15.997 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:46:17.161 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:46:18.465 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:46:21.636 [main] SanityTest - Product deleted successfully from the cart.
+[INFO ] 2024-03-16 21:47:42.233 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:47:44.651 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:47:46.121 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:47:47.528 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:47:48.979 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:47:50.473 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:47:54.350 [main] SanityTest - Product deleted successfully from the cart.
+[INFO ] 2024-03-16 21:47:54.656 [main] SanityTest - Test completed successfully.
+[INFO ] 2024-03-16 21:49:09.190 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:49:11.279 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:49:12.470 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:49:14.164 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:49:15.852 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:49:17.577 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:49:21.517 [main] SanityTest - Product deleted successfully from the cart.
+[INFO ] 2024-03-16 21:50:42.006 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:50:44.024 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:50:45.499 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:50:46.764 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:50:47.907 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:50:49.133 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:50:52.254 [main] SanityTest - Product deleted successfully from the cart.
+[INFO ] 2024-03-16 21:50:52.587 [main] SanityTest - Test completed successfully.
+[INFO ] 2024-03-16 21:55:01.796 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:55:04.787 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:55:06.246 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:55:08.206 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:55:09.683 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:55:11.308 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:55:14.754 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 21:55:15.080 [main] SanityTest - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-16 21:56:38.454 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:56:40.673 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:56:42.215 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:56:43.468 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:56:44.985 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:56:46.481 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:56:50.006 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 21:56:50.366 [main] SanityTest - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-16 21:57:37.427 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:57:40.244 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:57:41.460 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:57:42.531 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:57:43.900 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:57:45.856 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:57:49.139 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 21:57:49.470 [main] SanityTest - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-16 21:59:42.736 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 21:59:45.009 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 21:59:46.457 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 21:59:47.669 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 21:59:48.722 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 21:59:50.287 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 21:59:54.023 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 21:59:54.431 [main] SanityTest - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-16 22:01:11.810 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:01:15.089 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:01:16.324 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:01:17.803 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:01:19.397 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:01:20.969 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:01:24.345 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 22:01:24.764 [main] SanityTest - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-16 22:01:25.766 [main] SanityTest - here 132.
+[INFO ] 2024-03-16 22:02:26.517 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:02:28.804 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:02:30.162 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:02:31.636 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:02:33.442 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:02:35.496 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:02:38.899 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 22:02:39.296 [main] SanityTest - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-16 22:02:40.306 [main] SanityTest - [[ChromeDriver: chrome on windows (28b04e71ce377a38ef48abbbce7adfd7)] -> xpath: //tbody//td[@class='product-quantity']//input[@type='number']]
+[INFO ] 2024-03-16 22:04:02.636 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:04:05.010 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:04:06.309 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:04:07.565 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:04:08.703 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:04:09.599 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:04:12.857 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 22:04:13.276 [main] SanityTest - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-16 22:04:14.284 [main] SanityTest - 4
+[INFO ] 2024-03-16 22:05:12.814 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:05:15.061 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:05:16.250 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:05:17.558 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:05:18.654 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:05:19.571 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:05:22.854 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 22:05:23.193 [main] SanityTest - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-16 22:07:52.177 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:07:54.362 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:07:55.536 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:07:56.837 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:07:58.009 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:07:59.159 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:09:31.025 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:09:33.217 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:09:34.404 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:09:35.483 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:09:36.796 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:09:37.880 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:09:39.817 [main] SanityTest - 
+[INFO ] 2024-03-16 22:09:39.876 [main] SanityTest - here 134.
+[INFO ] 2024-03-16 22:09:39.965 [main] SanityTest - here 136.
+[INFO ] 2024-03-16 22:12:04.590 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:12:06.662 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:12:07.694 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:12:09.146 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:12:10.259 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:12:11.524 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:12:13.708 [main] SanityTest - 
+[INFO ] 2024-03-16 22:12:13.766 [main] SanityTest - here 134.
+[INFO ] 2024-03-16 22:12:14.232 [main] SanityTest - here 136.
+[INFO ] 2024-03-16 22:13:05.587 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:13:07.833 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:13:08.929 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:13:10.284 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:13:11.795 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:13:13.401 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:13:15.706 [main] SanityTest - 
+[INFO ] 2024-03-16 22:13:15.773 [main] SanityTest - here 134.
+[INFO ] 2024-03-16 22:13:15.866 [main] SanityTest - here 136.
+[INFO ] 2024-03-16 22:15:40.584 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:15:42.761 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:15:43.914 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:15:45.195 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:15:46.457 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:15:47.515 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:15:49.500 [main] SanityTest - 
+[INFO ] 2024-03-16 22:15:49.631 [main] SanityTest - here 134.
+[INFO ] 2024-03-16 22:15:49.705 [main] SanityTest - here 136.
+[INFO ] 2024-03-16 22:16:56.860 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:16:58.729 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:17:00.155 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:17:01.678 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:17:02.796 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:17:04.791 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:17:06.936 [main] SanityTest - 
+[INFO ] 2024-03-16 22:17:07.079 [main] SanityTest - here 134.
+[INFO ] 2024-03-16 22:17:07.162 [main] SanityTest - here 136.
+[INFO ] 2024-03-16 22:18:40.537 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:18:42.755 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:18:44.037 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:18:45.315 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:18:46.683 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:18:47.812 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:18:49.805 [main] SanityTest - 
+[INFO ] 2024-03-16 22:18:49.979 [main] SanityTest - here 134.
+[INFO ] 2024-03-16 22:18:50.050 [main] SanityTest - here 136.
+[INFO ] 2024-03-16 22:20:17.581 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:20:19.927 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:20:21.358 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:20:22.515 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:20:23.795 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:20:25.045 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:20:27.536 [main] SanityTest - 
+[INFO ] 2024-03-16 22:20:27.682 [main] SanityTest - here 134.
+[INFO ] 2024-03-16 22:20:27.777 [main] SanityTest - here 136.
+[INFO ] 2024-03-16 22:20:29.145 [main] SanityTest - Product deleted successfully from the cart - insert empty string to quantity.
+[INFO ] 2024-03-16 22:20:29.146 [main] SanityTest - Test completed successfully.
+[INFO ] 2024-03-16 22:26:11.276 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:26:13.580 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:26:15.002 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:26:16.136 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:26:17.412 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:26:18.784 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:26:22.088 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 22:26:22.470 [main] SanityTest - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-16 22:27:08.368 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:27:10.299 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:27:11.602 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:27:12.845 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:27:14.319 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:27:15.603 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:27:18.793 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 22:27:19.242 [main] SanityTest - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-16 22:28:43.183 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:28:46.083 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:28:47.261 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:28:48.827 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:28:49.390 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:30:03.527 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:30:06.831 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:30:08.307 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:30:09.623 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:30:10.586 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 22:30:11.787 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 22:30:13.276 [main] SanityTest - 
+[INFO ] 2024-03-16 22:30:13.613 [main] SanityTest - here 134.
+[INFO ] 2024-03-16 22:30:13.686 [main] SanityTest - here 136.
+[INFO ] 2024-03-16 22:30:14.837 [main] SanityTest - Success: Cart updated message appeared.
+[INFO ] 2024-03-16 22:30:14.872 [main] SanityTest - Product deleted successfully from the cart - insert empty string to quantity.
+[INFO ] 2024-03-16 22:30:17.182 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 22:47:59.589 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 22:48:02.476 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 22:48:03.872 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 22:48:05.272 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 22:48:29.396 [main] SanityTest - Opening the contact us page - GOOD
+[INFO ] 2024-03-16 22:49:38.349 [main] SanityTest - Opening the contact us page - GOOD
+[INFO ] 2024-03-16 22:57:44.310 [main] SanityTest - Opening the contact us page - GOOD
+[INFO ] 2024-03-16 22:59:20.925 [main] SanityTest - Opening the contact us page - GOOD
+[INFO ] 2024-03-16 23:00:33.418 [main] SanityTest - Opening the contact us page - GOOD
+[INFO ] 2024-03-16 23:10:55.184 [main] SanityTest - Opening the contact us page - GOOD
+[INFO ] 2024-03-16 23:10:55.420 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:10:55.609 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:10:55.806 [main] SanityTest - The email is valid - GOOD.
+[INFO ] 2024-03-16 23:10:56.017 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:11:03.203 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:11:03.204 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:11:04.936 [main] SanityTest - The name is empty - BAD.
+[INFO ] 2024-03-16 23:11:05.325 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:11:05.638 [main] SanityTest - The email is valid - GOOD.
+[INFO ] 2024-03-16 23:11:05.856 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:11:06.136 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:11:06.136 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:11:07.499 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:11:07.603 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:11:08.160 [main] SanityTest - The email is valid - GOOD.
+[INFO ] 2024-03-16 23:11:08.374 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:11:09.458 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:11:09.459 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:11:10.792 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:11:10.933 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:11:11.017 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:11:11.196 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:11:11.778 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:11:11.779 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:11:13.091 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:11:13.211 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:11:13.342 [main] SanityTest - The email is valid - GOOD.
+[INFO ] 2024-03-16 23:11:13.424 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:11:13.528 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:11:13.528 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:11:14.876 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:11:14.995 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:11:15.115 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:11:15.278 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:11:15.411 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:11:15.411 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:11:16.759 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:11:17.092 [main] SanityTest - The subject is longer than 50 chars - BAD.
+[INFO ] 2024-03-16 23:11:17.209 [main] SanityTest - The email is valid - GOOD.
+[INFO ] 2024-03-16 23:11:17.350 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:11:18.437 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:11:18.439 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:11:19.977 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:11:20.137 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:11:20.301 [main] SanityTest - The email is valid - GOOD.
+[INFO ] 2024-03-16 23:11:20.928 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:11:21.945 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:11:21.946 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:14:45.627 [main] SanityTest - Opening the contact us page - GOOD
+[INFO ] 2024-03-16 23:14:46.058 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:14:46.246 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:14:46.445 [main] SanityTest - The email is valid - GOOD.
+[INFO ] 2024-03-16 23:14:46.629 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:14:48.991 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:14:48.992 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:14:50.613 [main] SanityTest - The name is empty - BAD.
+[INFO ] 2024-03-16 23:14:50.867 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:14:51.706 [main] SanityTest - The email is valid - GOOD.
+[INFO ] 2024-03-16 23:14:52.780 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:14:53.501 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:14:53.505 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:14:55.124 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:14:55.260 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:14:55.559 [main] SanityTest - The email is valid - GOOD.
+[INFO ] 2024-03-16 23:14:55.777 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:14:57.588 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:14:57.588 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:14:58.911 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:14:59.031 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:14:59.106 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:14:59.245 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:14:59.361 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:14:59.361 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:15:00.719 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:15:00.852 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:15:01.020 [main] SanityTest - The email is valid - GOOD.
+[INFO ] 2024-03-16 23:15:01.106 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:15:01.243 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:15:01.244 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:15:02.594 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:15:02.732 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:15:02.856 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:15:03.010 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:15:03.113 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:15:03.113 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:15:04.441 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:15:04.742 [main] SanityTest - The subject is longer than 50 chars - BAD.
+[INFO ] 2024-03-16 23:15:04.854 [main] SanityTest - The email is valid - GOOD.
+[INFO ] 2024-03-16 23:15:05.007 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:15:06.699 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:15:06.700 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:15:08.020 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:15:08.126 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:15:08.255 [main] SanityTest - The email is valid - GOOD.
+[INFO ] 2024-03-16 23:15:10.163 [main] SanityTest - The message is longer than 300 chars - BAD.
+[INFO ] 2024-03-16 23:15:12.081 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:15:12.082 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:17:21.725 [main] SanityTest - Opening the contact us page - GOOD
+[INFO ] 2024-03-16 23:17:22.978 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:17:23.717 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:17:23.941 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:17:24.769 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:17:26.436 [main] SanityTest - Success: The heading is visible.
+[INFO ] 2024-03-16 23:17:26.436 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:17:28.104 [main] SanityTest - The name is empty - BAD.
+[INFO ] 2024-03-16 23:17:28.304 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:17:28.526 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:17:28.787 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:19:26.306 [main] SanityTest - Opening the contact us page - GOOD
+[INFO ] 2024-03-16 23:19:26.599 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:19:26.833 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:19:27.066 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:19:27.276 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:19:28.463 [main] SanityTest - The heading is visible.
+[INFO ] 2024-03-16 23:19:28.464 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:19:29.874 [main] SanityTest - The name is empty - BAD.
+[INFO ] 2024-03-16 23:19:30.038 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:19:30.240 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:19:30.459 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:19:30.605 [main] SanityTest - The heading is not visible.
+[INFO ] 2024-03-16 23:19:30.606 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:19:32.041 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:19:32.176 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:19:33.172 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:19:33.526 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:19:35.015 [main] SanityTest - The heading is visible.
+[INFO ] 2024-03-16 23:19:35.016 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:19:36.430 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:19:36.570 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:19:36.641 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:19:36.828 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:19:36.951 [main] SanityTest - The heading is not visible.
+[INFO ] 2024-03-16 23:19:36.954 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:19:38.344 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:19:38.486 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:19:38.645 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:19:38.749 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:19:38.846 [main] SanityTest - The heading is not visible.
+[INFO ] 2024-03-16 23:19:38.846 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:19:40.196 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:19:40.368 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:19:40.510 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:19:40.698 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:19:40.898 [main] SanityTest - The heading is not visible.
+[INFO ] 2024-03-16 23:19:40.898 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:19:42.239 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:19:42.603 [main] SanityTest - The subject is longer than 50 chars - BAD.
+[INFO ] 2024-03-16 23:19:42.735 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:19:42.932 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:19:43.985 [main] SanityTest - The heading is visible.
+[INFO ] 2024-03-16 23:19:43.986 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:19:45.313 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:19:45.457 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:19:45.671 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:19:47.775 [main] SanityTest - The message is longer than 300 chars - BAD.
+[INFO ] 2024-03-16 23:19:48.810 [main] SanityTest - The heading is visible.
+[INFO ] 2024-03-16 23:19:48.811 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:21:53.159 [main] SanityTest - Opening the contact us page - GOOD
+[INFO ] 2024-03-16 23:21:53.471 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:21:53.721 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:21:53.948 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:21:54.159 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:21:55.308 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:21:55.308 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:21:56.646 [main] SanityTest - The name is empty - BAD.
+[INFO ] 2024-03-16 23:21:56.793 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:21:56.950 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:21:57.105 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:21:57.222 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:21:57.222 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:21:58.598 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:21:58.695 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:21:58.863 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:21:59.036 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:22:00.046 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:22:00.046 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:22:01.462 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:22:01.642 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:22:01.747 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:22:02.002 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:22:02.163 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:22:02.164 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:22:03.560 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:22:03.710 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:22:03.890 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:22:04.006 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:22:04.142 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:22:04.143 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:22:05.561 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:22:05.757 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:22:05.887 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:22:06.063 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:22:06.207 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:22:06.207 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:22:07.613 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:22:08.104 [main] SanityTest - The subject is longer than 50 chars - BAD.
+[INFO ] 2024-03-16 23:22:08.288 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:22:08.506 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:22:09.568 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:22:09.569 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:22:11.352 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:22:11.579 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:22:12.344 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:22:14.972 [main] SanityTest - The message is longer than 300 chars - BAD.
+[INFO ] 2024-03-16 23:22:15.981 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:22:15.983 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:24:40.765 [main] SanityTest - Opening the contact us page - GOOD
+[INFO ] 2024-03-16 23:24:41.164 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:24:41.399 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:24:41.585 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:24:41.786 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:24:42.974 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:24:42.974 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:24:44.305 [main] SanityTest - The name is empty - BAD.
+[INFO ] 2024-03-16 23:24:44.473 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:24:44.631 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:24:44.837 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:24:44.982 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:24:44.983 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:24:46.507 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:24:46.649 [main] SanityTest - The subject is not valid - BAD.
+[INFO ] 2024-03-16 23:24:46.956 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:24:47.192 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:24:48.332 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:24:48.333 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:24:49.735 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:24:49.882 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:24:50.001 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:24:50.279 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:24:50.416 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:24:50.416 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:24:51.753 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:24:51.884 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:24:52.054 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:24:52.171 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:24:52.306 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:24:52.306 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:24:53.665 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:24:53.786 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:24:53.921 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:24:54.092 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:24:54.286 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:24:54.286 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:24:55.640 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:24:56.000 [main] SanityTest - The subject is longer than 50 chars - BAD.
+[INFO ] 2024-03-16 23:24:56.114 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:24:56.281 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:24:57.262 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:24:57.263 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:24:58.662 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:24:58.784 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:24:58.994 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:25:01.526 [main] SanityTest - The message is longer than 300 chars - BAD.
+[INFO ] 2024-03-16 23:25:02.805 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:25:02.807 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:26:38.803 [main] SanityTest - Opening the contact us page - GOOD
+[INFO ] 2024-03-16 23:26:39.271 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:26:39.444 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:26:39.627 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:26:39.857 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:26:41.103 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:26:41.103 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:26:42.771 [main] SanityTest - The name is empty - BAD.
+[INFO ] 2024-03-16 23:26:43.021 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:26:43.227 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:26:43.423 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:26:43.567 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:26:43.567 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:26:45.121 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:26:45.238 [main] SanityTest - The subject is not valid - BAD.
+[INFO ] 2024-03-16 23:26:45.444 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:26:45.686 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:26:47.041 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:26:47.042 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:26:48.393 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:26:48.712 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:26:48.790 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:26:48.946 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:26:49.077 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:26:49.078 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:26:50.457 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:26:50.619 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:26:50.843 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:26:50.976 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:26:51.089 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:26:51.090 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:26:52.521 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:26:52.639 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:26:52.745 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:26:52.956 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:26:53.223 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:26:53.224 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:26:54.652 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:26:55.038 [main] SanityTest - The subject is longer than 50 chars - BAD.
+[INFO ] 2024-03-16 23:26:55.194 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:26:55.594 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:26:56.654 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:26:56.655 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:27:15.375 [main] SanityTest - Opening the contact us page - GOOD
+[INFO ] 2024-03-16 23:27:15.583 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:27:15.855 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:27:16.101 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:27:16.314 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:27:17.479 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:27:17.479 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:27:18.768 [main] SanityTest - The name is empty - BAD.
+[INFO ] 2024-03-16 23:27:18.917 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:27:19.072 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:27:19.228 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:27:19.349 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:27:19.349 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:27:20.684 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:27:20.783 [main] SanityTest - The subject is not valid - BAD.
+[INFO ] 2024-03-16 23:27:20.947 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:27:21.191 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:27:22.381 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:27:22.381 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:27:23.753 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:27:23.886 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:27:23.977 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:27:24.159 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:27:24.278 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:27:24.279 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:27:25.596 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:27:25.710 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:27:25.846 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:27:25.926 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:27:26.042 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:27:26.042 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:27:27.336 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:27:27.450 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:27:27.560 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:27:27.697 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:27:27.847 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:27:27.848 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:27:29.157 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:27:29.468 [main] SanityTest - The subject is longer than 50 chars - BAD.
+[INFO ] 2024-03-16 23:27:29.596 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:27:29.744 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:27:30.737 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:27:30.738 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:27:32.066 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:27:32.268 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:27:32.465 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:27:35.259 [main] SanityTest - The message is longer than 300 chars - BAD.
+[INFO ] 2024-03-16 23:27:36.264 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:27:36.264 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:29:47.262 [main] SanityTest - Opening the contact us page - GOOD
+[INFO ] 2024-03-16 23:29:47.753 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:29:47.969 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:29:48.177 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:29:48.380 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:29:49.527 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:29:49.527 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:29:50.843 [main] SanityTest - The name is empty - BAD.
+[INFO ] 2024-03-16 23:29:50.994 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:29:51.174 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:29:51.364 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:29:51.498 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:29:51.498 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:29:52.977 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:29:53.064 [main] SanityTest - The subject is not valid - BAD.
+[INFO ] 2024-03-16 23:29:53.311 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:29:53.576 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:29:54.604 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:29:54.604 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:29:55.917 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:29:56.044 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:29:56.114 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:29:56.283 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:29:56.387 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:29:56.388 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:29:57.696 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:29:57.820 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:29:57.956 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:29:58.046 [main] SanityTest - The message is not valid - BAD.
+[INFO ] 2024-03-16 23:29:58.182 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:29:58.182 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:29:59.558 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:29:59.707 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:29:59.851 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:30:00.047 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:30:00.278 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:30:00.279 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:30:01.621 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:30:01.946 [main] SanityTest - The subject is longer than 50 chars - BAD.
+[INFO ] 2024-03-16 23:30:02.083 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:30:02.271 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:30:03.371 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:30:03.372 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:30:04.722 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:30:04.841 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:30:04.995 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:30:06.880 [main] SanityTest - The message is longer than 300 chars - BAD.
+[INFO ] 2024-03-16 23:30:07.857 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:30:07.859 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:32:32.285 [main] SanityTest - ---------------------CONTACT US TEST---------------------
+[INFO ] 2024-03-16 23:32:32.568 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:32:32.957 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:32:33.206 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:32:33.459 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:32:34.674 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:32:34.674 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:32:36.023 [main] SanityTest - The name is empty - BAD.
+[INFO ] 2024-03-16 23:32:36.134 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:32:36.267 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:32:36.414 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:32:36.522 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:32:36.523 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:32:37.864 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:32:37.961 [main] SanityTest - The subject is not valid - BAD.
+[INFO ] 2024-03-16 23:32:38.103 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:32:38.263 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:32:39.372 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:32:39.373 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:32:40.959 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:32:41.330 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:32:41.492 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:32:41.697 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:32:41.844 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:32:41.845 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:32:43.168 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:32:43.277 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:32:43.422 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:32:43.507 [main] SanityTest - The message is not valid - BAD.
+[INFO ] 2024-03-16 23:32:43.617 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:32:43.618 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:32:44.986 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:32:45.118 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:32:45.291 [main] SanityTest - The email is valid - BAD.
+[INFO ] 2024-03-16 23:32:45.525 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:32:45.708 [main] SanityTest - The message wasn't sent.
+[INFO ] 2024-03-16 23:32:45.709 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:32:47.035 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:32:47.368 [main] SanityTest - The subject is longer than 50 chars - BAD.
+[INFO ] 2024-03-16 23:32:47.485 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:32:47.621 [main] SanityTest - The message is valid - GOOD.
+[INFO ] 2024-03-16 23:32:48.583 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:32:48.583 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:32:49.870 [main] SanityTest - The name is valid - GOOD.
+[INFO ] 2024-03-16 23:32:49.983 [main] SanityTest - The subject is valid - GOOD.
+[INFO ] 2024-03-16 23:32:50.172 [main] SanityTest - The email is not valid - GOOD.
+[INFO ] 2024-03-16 23:32:52.271 [main] SanityTest - The message is longer than 300 chars - BAD.
+[INFO ] 2024-03-16 23:32:53.321 [main] SanityTest - The message was sent.
+[INFO ] 2024-03-16 23:32:53.322 [main] SanityTest - ----------------------------------------------------------
+[INFO ] 2024-03-16 23:37:30.907 [main] SanityTest - ---------------------SHIPMENT---------------------
+[INFO ] 2024-03-16 23:37:30.921 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 23:39:08.949 [main] SanityTest - ---------------------SHIPMENT---------------------
+[INFO ] 2024-03-16 23:39:08.960 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 23:40:06.847 [main] SanityTest - ---------------------SHIPMENT---------------------
+[INFO ] 2024-03-16 23:40:06.858 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 23:40:10.994 [main] SanityTest - Free shipping 750.00 ₪
+[INFO ] 2024-03-16 23:40:49.388 [main] SanityTest - ---------------------SHIPMENT---------------------
+[INFO ] 2024-03-16 23:40:49.392 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 23:41:54.308 [main] SanityTest - ---------------------SHIPMENT---------------------
+[INFO ] 2024-03-16 23:41:54.315 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 23:41:58.445 [main] SanityTest - Free shipping 250.00 ₪
+[INFO ] 2024-03-16 23:43:36.677 [main] SanityTest - ---------------------SHIPMENT---------------------
+[INFO ] 2024-03-16 23:43:36.683 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 23:43:44.647 [main] SanityTest - Free shipping 500.00 ₪
+[INFO ] 2024-03-16 23:43:48.525 [main] SanityTest - ---------------------DELETE PRODUCT TEST---------------------
+[INFO ] 2024-03-16 23:43:48.531 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 23:43:50.489 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 23:43:51.992 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 23:43:54.028 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 23:43:55.125 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 23:43:56.797 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 23:43:58.079 [main] SanityTest - 
+[INFO ] 2024-03-16 23:43:59.724 [main] SanityTest - Success: Cart updated message appeared.
+[INFO ] 2024-03-16 23:43:59.756 [main] SanityTest - Product deleted successfully from the cart - insert empty string to quantity.
+[INFO ] 2024-03-16 23:44:02.358 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 23:45:50.960 [main] SanityTest - ---------------------DELETE PRODUCT TEST---------------------
+[INFO ] 2024-03-16 23:45:50.965 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 23:45:53.971 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 23:45:55.355 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 23:45:56.427 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 23:45:57.896 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 23:45:59.117 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 23:46:00.427 [main] SanityTest - 
+[INFO ] 2024-03-16 23:46:02.100 [main] SanityTest - Success: Cart updated message appeared.
+[INFO ] 2024-03-16 23:46:02.168 [main] SanityTest - Product deleted successfully from the cart - insert empty string to quantity.
+[INFO ] 2024-03-16 23:46:04.462 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 23:50:51.998 [main] SanityTest - ---------------------DELETE PRODUCT TEST---------------------
+[INFO ] 2024-03-16 23:50:52.006 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 23:50:54.211 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 23:50:56.029 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 23:50:57.935 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 23:50:59.836 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 23:51:02.024 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 23:51:05.086 [main] SanityTest - Success: Cart updated message appeared.
+[INFO ] 2024-03-16 23:51:05.118 [main] SanityTest - Product deleted successfully from the cart - insert empty string to quantity.
+[INFO ] 2024-03-16 23:51:07.356 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 23:52:37.919 [main] SanityTest - ---------------------DELETE PRODUCT TEST---------------------
+[INFO ] 2024-03-16 23:52:37.928 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 23:52:39.986 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 23:52:41.474 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 23:52:42.724 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 23:52:43.973 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 23:52:46.354 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 23:52:49.662 [main] SanityTest - Product deleted successfully from the cart - insert empty string to quantity.
+[INFO ] 2024-03-16 23:52:51.905 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 23:55:43.309 [main] SanityTest - ---------------------DELETE PRODUCT TEST---------------------
+[INFO ] 2024-03-16 23:55:43.314 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 23:55:45.473 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 23:55:46.727 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 23:55:47.871 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 23:55:49.046 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 23:55:50.096 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 23:55:50.120 [main] SanityTest - -----------------------------------------------------------------
+[INFO ] 2024-03-16 23:55:52.661 [main] SanityTest - Product deleted successfully from the cart - insert empty string to quantity.
+[INFO ] 2024-03-16 23:55:54.899 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-16 23:59:47.304 [main] SanityTest - ---------------------DELETE PRODUCT TEST---------------------
+[INFO ] 2024-03-16 23:59:47.314 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-16 23:59:49.455 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-16 23:59:50.597 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-16 23:59:52.182 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-16 23:59:53.596 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-16 23:59:55.001 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-16 23:59:55.042 [main] SanityTest - -----------------------------------------------------------------
+[INFO ] 2024-03-16 23:59:57.616 [main] SanityTest - Product deleted successfully from the cart - insert empty string to quantity.
+[INFO ] 2024-03-16 23:59:59.859 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-17 00:00:02.315 [main] SanityTest - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-17 00:00:03.329 [main] SanityTest - Test completed successfully.
+[INFO ] 2024-03-17 00:01:29.955 [main] SanityTest - ---------------------DELETE PRODUCT TEST---------------------
+[INFO ] 2024-03-17 00:01:29.961 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-17 00:01:32.358 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-17 00:01:33.494 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-17 00:01:34.597 [main] SanityTest - Product dnk-tshirt was added  to cart
+[INFO ] 2024-03-17 00:01:35.882 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-17 00:01:37.412 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-17 00:01:37.439 [main] SanityTest - -----------------------------------------------------------------
+[INFO ] 2024-03-17 00:01:40.091 [main] SanityTest - Product deleted successfully from the cart - insert empty string to quantity.
+[INFO ] 2024-03-17 00:01:42.271 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-17 00:01:44.306 [main] SanityTest - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-17 00:01:45.311 [main] SanityTest - Test completed successfully.
+[INFO ] 2024-03-17 00:02:18.685 [main] SanityTest - ---------------------DELETE PRODUCT TEST---------------------
+[INFO ] 2024-03-17 00:02:18.693 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-17 00:02:20.515 [main] SanityTest - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-17 00:02:21.863 [main] SanityTest - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-17 00:02:23.159 [main] SanityTest - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-17 00:02:24.317 [main] SanityTest - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-17 00:02:24.385 [main] SanityTest - -----------------------------------------------------------------
+[INFO ] 2024-03-17 00:02:26.833 [main] SanityTest - Product deleted successfully from the cart - insert empty string to quantity.
+[INFO ] 2024-03-17 00:02:29.022 [main] SanityTest - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-17 00:02:31.224 [main] SanityTest - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-17 00:02:32.253 [main] SanityTest - Test completed successfully.
+[INFO ] 2024-03-17 00:04:50.331 [main] SanityTest - Opening the first store page - GOOD
+[INFO ] 2024-03-17 00:04:50.415 [main] SanityTest - starting -> test
+[INFO ] 2024-03-17 00:04:50.476 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-17 00:04:50.476 [main] SanityTest - Step 1 Press '->' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-17 00:04:50.502 [main] SanityTest - next
+[INFO ] 2024-03-17 00:04:50.544 [main] SanityTest - https://atid.store/store/page/3/
+[INFO ] 2024-03-17 00:04:50.544 [main] SanityTest - Step 2 Press '->' to switch to page number 3 - GOOD"
+[INFO ] 2024-03-17 00:04:50.565 [main] SanityTest - next
+[INFO ] 2024-03-17 00:04:50.609 [main] SanityTest - starting <- test
+[INFO ] 2024-03-17 00:04:50.692 [main] SanityTest - https://atid.store/store/page/2/
+[INFO ] 2024-03-17 00:04:50.692 [main] SanityTest - Step 3 Press '<-' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-17 00:04:50.720 [main] SanityTest - there is no previous page
+[INFO ] 2024-03-17 01:05:20.842 [main] AddingProductTest - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 01:05:20.851 [main] AddingProductTest - Opening the first store page - GOOD
+[INFO ] 2024-03-17 01:11:55.919 [main] AddingProductTest - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 01:11:55.926 [main] AddingProductTest - Opening the first store page - GOOD
+[INFO ] 2024-03-17 01:13:16.566 [main] AddingProductTest - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 01:13:16.575 [main] AddingProductTest - Opening the first store page - GOOD
+[INFO ] 2024-03-17 01:18:57.824 [main] SwitchPages - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 01:18:57.830 [main] SwitchPages - Opening the first store page - GOOD
+[INFO ] 2024-03-17 01:19:00.993 [main] SwitchPages - Product atid-blue-shoes was added  12 times - BAD
+[INFO ] 2024-03-17 01:19:02.108 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 01:19:03.700 [main] SwitchPages - Product black-over-the-shoulder-handbag was added  4 times - GOOD
+[INFO ] 2024-03-17 01:19:04.583 [main] SwitchPages - product price is 85.0, price in the cart is 340.0
+[INFO ] 2024-03-17 01:19:05.666 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 01:19:06.034 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 01:19:08.819 [main] SwitchPages - Product blue-denim-shorts was added  4 times - GOOD
+[INFO ] 2024-03-17 01:19:09.582 [main] SwitchPages - product price is 130.0, price in the cart is 520.0
+[INFO ] 2024-03-17 01:19:10.592 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 01:19:10.709 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 01:19:12.956 [main] SwitchPages - Product anchor-bracelet was added  11 times - BAD
+[INFO ] 2024-03-17 01:19:13.687 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 01:19:14.984 [main] SwitchPages - Product dnk-tshirt was added  2 times - GOOD
+[INFO ] 2024-03-17 01:19:15.693 [main] SwitchPages - product price is 190.0, price in the cart is 380.0
+[INFO ] 2024-03-17 01:19:16.707 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 01:19:16.829 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 01:19:18.200 [main] SwitchPages - Product atid-yellow-shoes was added  3 times - GOOD
+[INFO ] 2024-03-17 01:19:18.891 [main] SwitchPages - product price is 120.0, price in the cart is 360.0
+[INFO ] 2024-03-17 01:19:19.906 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 01:19:20.017 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 01:19:21.150 [main] SwitchPages - Product basic-gray-jeans was added  10 times - GOOD
+[INFO ] 2024-03-17 01:19:21.881 [main] SwitchPages - product price is 100.0, price in the cart is 1000.0
+[INFO ] 2024-03-17 01:19:22.884 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 01:19:22.989 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 01:19:24.555 [main] SwitchPages - Product blue-denim-jeans was added  1 times - GOOD
+[INFO ] 2024-03-17 01:19:25.252 [main] SwitchPages - product price is 150.0, price in the cart is 150.0
+[INFO ] 2024-03-17 01:19:26.267 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 01:19:26.433 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 01:19:27.804 [main] SwitchPages - Product atid-black-shoes was added  14 times - BAD
+[INFO ] 2024-03-17 01:19:28.764 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 01:19:29.915 [main] SwitchPages - Product atid-green-shoes was added  6 times - GOOD
+[INFO ] 2024-03-17 01:19:30.601 [main] SwitchPages - product price is 110.0, price in the cart is 660.0
+[INFO ] 2024-03-17 01:19:31.609 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 01:19:31.718 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 01:19:32.960 [main] SwitchPages - Product black-hoodie was added  7 times - GOOD
+[INFO ] 2024-03-17 01:19:33.615 [main] SwitchPages - product price is 150.0, price in the cart is 1050.0
+[INFO ] 2024-03-17 01:19:34.621 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 01:19:34.766 [main] SwitchPages - -------------------------------

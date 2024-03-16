@@ -7,49 +7,31 @@ import org.junit.internal.TextListener;
 import org.junit.runner.JUnitCore;
 import org.junit.Before;
 import org.junit.After;
-import static org.junit.Assert.*;
+
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.core.IsNot.not;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.remote.RemoteWebDriver;
-import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Wait;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.Alert;
-import org.openqa.selenium.Keys;
+
 import java.util.*;
-
-import javax.swing.text.Element;
-
-import java.net.MalformedURLException;
-import java.net.URL;
-import java.time.Duration;
 
 import org.apache.logging.log4j.*;
 
-public class SanityTest {
+public class SwitchPages {
   private WebDriver driver;
-  private Map<String, Object> vars;
   private Logger logger;
   private String baseUrl = "https://atid.store/store/";
   JavascriptExecutor js;
   @Before
   public void setUp() {
-   
-	//System.setProperty("webdriver.chrome.driver"
-		//	,"C:\\Users\\acer\\Downloads\\chromedriver_win32\\chromedriver.exe");
+
     driver = new ChromeDriver();
     js = (JavascriptExecutor) driver;
-    vars = new HashMap<String, Object>();
-    logger=LogManager.getLogger(SanityTest.class);
+    logger=LogManager.getLogger(SwitchPages.class);
   }
   @After
   public void tearDown() {
@@ -63,6 +45,7 @@ public class SanityTest {
       // Open the Atid Store website
       driver.get("https://atid.store/store/");
       driver.manage().window().setSize(new Dimension(1024, 670));
+      logger.info("---------------------SWITCHING PAGES TEST---------------------");
 
       // Log information about opening the first store page
       logger.info("Opening the first store page - GOOD");
@@ -181,7 +164,7 @@ public class SanityTest {
 public static void main(String args[]) {
 	  JUnitCore junit = new JUnitCore();
 	  junit.addListener(new TextListener(System.out));
-	  org.junit.runner.Result result = junit.run(SanityTest.class); // Replace "SampleTest" with the name of your class
+	  org.junit.runner.Result result = junit.run(SwitchPages.class); // Replace "SampleTest" with the name of your class
 	  if (result.getFailureCount() > 0) {
 	    System.out.println("Test failed.");
 	    System.exit(1);
