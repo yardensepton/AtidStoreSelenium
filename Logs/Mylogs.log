@@ -3387,3 +3387,574 @@ Registered Mail (5 - 8 days): 5.90 ₪1
 [INFO ] 2024-03-17 01:19:33.615 [main] SwitchPages - product price is 150.0, price in the cart is 1050.0
 [INFO ] 2024-03-17 01:19:34.621 [main] SwitchPages - price in the cart matches product price - GOOD
 [INFO ] 2024-03-17 01:19:34.766 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 18:45:32.195 [main] SwitchPages - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 18:45:32.201 [main] SwitchPages - Opening the first store page - GOOD
+[INFO ] 2024-03-17 18:45:35.701 [main] SwitchPages - Product atid-blue-shoes was added  5 times - GOOD
+[INFO ] 2024-03-17 18:45:37.370 [main] SwitchPages - product price is 80.0, price in the cart is 400.0
+[INFO ] 2024-03-17 18:45:38.385 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 18:45:38.560 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 18:45:39.772 [main] SwitchPages - Product black-over-the-shoulder-handbag was added  10 times - GOOD
+[INFO ] 2024-03-17 18:45:40.454 [main] SwitchPages - product price is 85.0, price in the cart is 850.0
+[INFO ] 2024-03-17 18:45:41.463 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 18:45:41.658 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 18:45:42.890 [main] SwitchPages - Product blue-denim-shorts was added  9 times - GOOD
+[INFO ] 2024-03-17 18:45:43.567 [main] SwitchPages - product price is 130.0, price in the cart is 1170.0
+[INFO ] 2024-03-17 18:45:44.578 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 18:45:44.699 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 18:45:45.871 [main] SwitchPages - Product anchor-bracelet was added  15 times - BAD
+[INFO ] 2024-03-17 18:45:46.572 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 18:45:47.706 [main] SwitchPages - Product dnk-tshirt was added  3 times - GOOD
+[INFO ] 2024-03-17 18:45:48.397 [main] SwitchPages - product price is 190.0, price in the cart is 570.0
+[INFO ] 2024-03-17 18:45:49.408 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 18:45:49.575 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 18:45:50.898 [main] SwitchPages - Product atid-yellow-shoes was added  9 times - GOOD
+[INFO ] 2024-03-17 18:45:51.538 [main] SwitchPages - product price is 120.0, price in the cart is 1080.0
+[INFO ] 2024-03-17 18:45:52.539 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 18:45:52.678 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 18:45:53.904 [main] SwitchPages - Product basic-gray-jeans was added  2 times - GOOD
+[INFO ] 2024-03-17 18:45:54.551 [main] SwitchPages - product price is 100.0, price in the cart is 200.0
+[INFO ] 2024-03-17 18:45:55.561 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 18:45:55.776 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 18:45:57.170 [main] SwitchPages - Product blue-denim-jeans was added  2 times - GOOD
+[INFO ] 2024-03-17 18:45:57.793 [main] SwitchPages - product price is 150.0, price in the cart is 300.0
+[INFO ] 2024-03-17 18:45:58.808 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 18:45:58.977 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 18:46:00.120 [main] SwitchPages - Product atid-black-shoes was added  13 times - BAD
+[INFO ] 2024-03-17 18:46:00.913 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 18:46:02.036 [main] SwitchPages - Product atid-green-shoes was added  12 times - BAD
+[INFO ] 2024-03-17 18:46:02.810 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 18:46:03.983 [main] SwitchPages - Product black-hoodie was added  7 times - GOOD
+[INFO ] 2024-03-17 18:46:04.795 [main] SwitchPages - product price is 150.0, price in the cart is 1050.0
+[INFO ] 2024-03-17 18:46:05.809 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 18:46:05.957 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:27:56.842 [main] SwitchPages - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 19:27:56.847 [main] SwitchPages - Opening the first store page - GOOD
+[INFO ] 2024-03-17 19:27:59.347 [main] SwitchPages - Product atid-blue-shoes was added  11 times - BAD
+[INFO ] 2024-03-17 19:28:00.365 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:28:01.635 [main] SwitchPages - Product black-over-the-shoulder-handbag was added  14 times - BAD
+[INFO ] 2024-03-17 19:28:02.454 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:28:04.028 [main] SwitchPages - Product blue-denim-shorts was added  3 times - GOOD
+[INFO ] 2024-03-17 19:28:04.667 [main] SwitchPages - product price is 61.0, price in the cart is 390.0
+[INFO ] 2024-03-17 19:28:05.672 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:28:05.818 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:28:06.999 [main] SwitchPages - Product anchor-bracelet was added  1 times - GOOD
+[INFO ] 2024-03-17 19:28:07.710 [main] SwitchPages - product price is 61.0, price in the cart is 250.0
+[INFO ] 2024-03-17 19:28:08.715 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:28:08.909 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:28:10.021 [main] SwitchPages - Product dnk-tshirt was added  14 times - BAD
+[INFO ] 2024-03-17 19:28:10.793 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:28:11.893 [main] SwitchPages - Product atid-yellow-shoes was added  8 times - GOOD
+[INFO ] 2024-03-17 19:28:12.554 [main] SwitchPages - product price is 61.0, price in the cart is 960.0
+[INFO ] 2024-03-17 19:28:13.566 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:28:13.710 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:28:15.015 [main] SwitchPages - Product basic-gray-jeans was added  3 times - GOOD
+[INFO ] 2024-03-17 19:28:15.673 [main] SwitchPages - product price is 61.0, price in the cart is 300.0
+[INFO ] 2024-03-17 19:28:16.686 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:28:16.827 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:28:18.383 [main] SwitchPages - Product blue-denim-jeans was added  12 times - BAD
+[INFO ] 2024-03-17 19:28:19.175 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:28:20.281 [main] SwitchPages - Product atid-black-shoes was added  11 times - BAD
+[INFO ] 2024-03-17 19:28:21.037 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:28:22.155 [main] SwitchPages - Product atid-green-shoes was added  8 times - GOOD
+[INFO ] 2024-03-17 19:28:22.804 [main] SwitchPages - product price is 61.0, price in the cart is 880.0
+[INFO ] 2024-03-17 19:28:23.812 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:28:23.960 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:28:25.508 [main] SwitchPages - Product black-hoodie was added  2 times - GOOD
+[INFO ] 2024-03-17 19:28:26.144 [main] SwitchPages - product price is 61.0, price in the cart is 300.0
+[INFO ] 2024-03-17 19:28:27.155 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:28:27.299 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:45:59.596 [main] SwitchPages - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 19:45:59.606 [main] SwitchPages - Opening the first store page - GOOD
+[INFO ] 2024-03-17 19:46:02.594 [main] SwitchPages - Product atid-blue-shoes was added  10 times - GOOD
+[INFO ] 2024-03-17 19:46:03.589 [main] SwitchPages - product price is 61.0, price in the cart is 800.0
+[INFO ] 2024-03-17 19:46:04.594 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:46:04.721 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:46:05.918 [main] SwitchPages - Product black-over-the-shoulder-handbag was added  12 times - BAD
+[INFO ] 2024-03-17 19:46:06.659 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:46:07.891 [main] SwitchPages - Product blue-denim-shorts was added  13 times - BAD
+[INFO ] 2024-03-17 19:46:08.617 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:46:09.773 [main] SwitchPages - Product anchor-bracelet was added  10 times - GOOD
+[INFO ] 2024-03-17 19:46:10.437 [main] SwitchPages - product price is 61.0, price in the cart is 2500.0
+[INFO ] 2024-03-17 19:46:11.444 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:46:11.607 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:46:12.693 [main] SwitchPages - Product dnk-tshirt was added  11 times - BAD
+[INFO ] 2024-03-17 19:46:13.447 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:46:14.607 [main] SwitchPages - Product atid-yellow-shoes was added  9 times - GOOD
+[INFO ] 2024-03-17 19:46:15.247 [main] SwitchPages - product price is 61.0, price in the cart is 1080.0
+[INFO ] 2024-03-17 19:46:16.259 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:46:16.471 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:46:17.569 [main] SwitchPages - Product basic-gray-jeans was added  7 times - GOOD
+[INFO ] 2024-03-17 19:46:18.204 [main] SwitchPages - product price is 61.0, price in the cart is 700.0
+[INFO ] 2024-03-17 19:46:19.205 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:46:19.389 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:46:20.764 [main] SwitchPages - Product blue-denim-jeans was added  14 times - BAD
+[INFO ] 2024-03-17 19:46:21.495 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:46:22.616 [main] SwitchPages - Product atid-black-shoes was added  14 times - BAD
+[INFO ] 2024-03-17 19:46:23.397 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:46:24.522 [main] SwitchPages - Product atid-green-shoes was added  7 times - GOOD
+[INFO ] 2024-03-17 19:46:25.203 [main] SwitchPages - product price is 61.0, price in the cart is 770.0
+[INFO ] 2024-03-17 19:46:26.217 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:46:26.331 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:46:27.429 [main] SwitchPages - Product black-hoodie was added  11 times - BAD
+[INFO ] 2024-03-17 19:46:28.165 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:48:41.022 [main] SwitchPages - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 19:48:41.029 [main] SwitchPages - Opening the first store page - GOOD
+[INFO ] 2024-03-17 19:48:43.404 [main] SwitchPages - Product atid-blue-shoes was added  14 times - BAD
+[INFO ] 2024-03-17 19:48:45.384 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:48:46.554 [main] SwitchPages - Product black-over-the-shoulder-handbag was added  13 times - BAD
+[INFO ] 2024-03-17 19:48:47.338 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:48:48.419 [main] SwitchPages - Product blue-denim-shorts was added  8 times - GOOD
+[INFO ] 2024-03-17 19:48:49.108 [main] SwitchPages - product price is 130.0, price in the cart is 1040.0
+[INFO ] 2024-03-17 19:48:50.120 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 19:48:50.246 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:48:51.338 [main] SwitchPages - Product anchor-bracelet was added  15 times - BAD
+[INFO ] 2024-03-17 19:48:52.055 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:48:53.137 [main] SwitchPages - Product dnk-tshirt was added  6 times - GOOD
+[INFO ] 2024-03-17 19:48:53.868 [main] SwitchPages - product price is 190.0, price in the cart is 1140.0
+[INFO ] 2024-03-17 19:48:54.883 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 19:48:55.019 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:48:56.181 [main] SwitchPages - Product atid-yellow-shoes was added  13 times - BAD
+[INFO ] 2024-03-17 19:48:56.919 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:48:58.035 [main] SwitchPages - Product basic-gray-jeans was added  10 times - GOOD
+[INFO ] 2024-03-17 19:48:58.704 [main] SwitchPages - product price is 100.0, price in the cart is 1000.0
+[INFO ] 2024-03-17 19:48:59.710 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 19:48:59.829 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:49:01.415 [main] SwitchPages - Product blue-denim-jeans was added  8 times - GOOD
+[INFO ] 2024-03-17 19:49:02.052 [main] SwitchPages - product price is 150.0, price in the cart is 1200.0
+[INFO ] 2024-03-17 19:49:03.120 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 19:49:03.283 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:49:04.607 [main] SwitchPages - Product atid-black-shoes was added  8 times - GOOD
+[INFO ] 2024-03-17 19:49:05.344 [main] SwitchPages - product price is 61.0, price in the cart is 488.0
+[INFO ] 2024-03-17 19:49:06.353 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 19:49:06.467 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:49:07.589 [main] SwitchPages - Product atid-green-shoes was added  7 times - GOOD
+[INFO ] 2024-03-17 19:49:08.309 [main] SwitchPages - product price is 110.0, price in the cart is 770.0
+[INFO ] 2024-03-17 19:49:09.310 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 19:49:09.497 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:49:10.607 [main] SwitchPages - Product black-hoodie was added  2 times - GOOD
+[INFO ] 2024-03-17 19:49:11.322 [main] SwitchPages - product price is 150.0, price in the cart is 300.0
+[INFO ] 2024-03-17 19:49:12.330 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 19:49:12.469 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:52:04.605 [main] SwitchPages - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 19:52:04.611 [main] SwitchPages - Opening the first store page - GOOD
+[INFO ] 2024-03-17 19:52:07.148 [main] SwitchPages - Product atid-blue-shoes was added  4 times - GOOD
+[INFO ] 2024-03-17 19:52:07.986 [main] SwitchPages - product price is 61.0, price in the cart is 320.0
+[INFO ] 2024-03-17 19:52:09.001 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:52:09.137 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:52:10.274 [main] SwitchPages - Product black-over-the-shoulder-handbag was added  5 times - GOOD
+[INFO ] 2024-03-17 19:52:10.975 [main] SwitchPages - product price is 61.0, price in the cart is 425.0
+[INFO ] 2024-03-17 19:52:11.985 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:52:12.118 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:52:13.208 [main] SwitchPages - Product blue-denim-shorts was added  6 times - GOOD
+[INFO ] 2024-03-17 19:52:13.913 [main] SwitchPages - product price is 61.0, price in the cart is 780.0
+[INFO ] 2024-03-17 19:52:14.923 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:52:15.046 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:52:16.329 [main] SwitchPages - Product anchor-bracelet was added  15 times - BAD
+[INFO ] 2024-03-17 19:52:17.121 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:52:18.356 [main] SwitchPages - Product dnk-tshirt was added  6 times - GOOD
+[INFO ] 2024-03-17 19:52:19.025 [main] SwitchPages - product price is 61.0, price in the cart is 1140.0
+[INFO ] 2024-03-17 19:52:20.032 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:52:20.146 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:52:21.335 [main] SwitchPages - Product atid-yellow-shoes was added  7 times - GOOD
+[INFO ] 2024-03-17 19:52:22.011 [main] SwitchPages - product price is 61.0, price in the cart is 840.0
+[INFO ] 2024-03-17 19:52:23.013 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:52:23.203 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:52:24.348 [main] SwitchPages - Product basic-gray-jeans was added  12 times - BAD
+[INFO ] 2024-03-17 19:52:25.086 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:52:26.709 [main] SwitchPages - Product blue-denim-jeans was added  8 times - GOOD
+[INFO ] 2024-03-17 19:52:27.371 [main] SwitchPages - product price is 61.0, price in the cart is 1200.0
+[INFO ] 2024-03-17 19:52:28.384 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:52:28.525 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:52:29.718 [main] SwitchPages - Product atid-black-shoes was added  9 times - GOOD
+[INFO ] 2024-03-17 19:52:30.371 [main] SwitchPages - product price is 61.0, price in the cart is 549.0
+[INFO ] 2024-03-17 19:52:31.381 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 19:52:31.511 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:52:32.714 [main] SwitchPages - Product atid-green-shoes was added  10 times - GOOD
+[INFO ] 2024-03-17 19:52:33.402 [main] SwitchPages - product price is 61.0, price in the cart is 1100.0
+[INFO ] 2024-03-17 19:52:34.413 [main] SwitchPages - price in the cart doesn't match product price - BAD
+[INFO ] 2024-03-17 19:52:34.566 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 19:52:35.858 [main] SwitchPages - Product black-hoodie was added  14 times - BAD
+[INFO ] 2024-03-17 19:52:36.660 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:02:05.833 [main] SwitchPages - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 20:02:05.840 [main] SwitchPages - Opening the first store page - GOOD
+[INFO ] 2024-03-17 20:02:08.744 [main] SwitchPages - Product atid-blue-shoes was added  13 times - BAD
+[INFO ] 2024-03-17 20:02:09.926 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:02:11.314 [main] SwitchPages - Product black-over-the-shoulder-handbag was added  15 times - BAD
+[INFO ] 2024-03-17 20:02:12.063 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:02:13.169 [main] SwitchPages - Product blue-denim-shorts was added  8 times - GOOD
+[INFO ] 2024-03-17 20:02:13.832 [main] SwitchPages - product price is 130.0, price in the cart is 1040.0
+[INFO ] 2024-03-17 20:02:14.834 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:02:15.015 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:02:16.155 [main] SwitchPages - Product anchor-bracelet was added  4 times - GOOD
+[INFO ] 2024-03-17 20:02:17.001 [main] SwitchPages - product price is 250.0, price in the cart is 1000.0
+[INFO ] 2024-03-17 20:02:18.016 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:02:18.169 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:02:19.463 [main] SwitchPages - Product dnk-tshirt was added  1 times - GOOD
+[INFO ] 2024-03-17 20:02:20.208 [main] SwitchPages - product price is 190.0, price in the cart is 190.0
+[INFO ] 2024-03-17 20:02:21.209 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:02:21.357 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:02:22.486 [main] SwitchPages - Product atid-yellow-shoes was added  3 times - GOOD
+[INFO ] 2024-03-17 20:02:23.133 [main] SwitchPages - product price is 120.0, price in the cart is 360.0
+[INFO ] 2024-03-17 20:02:24.149 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:02:24.329 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:02:25.399 [main] SwitchPages - Product basic-gray-jeans was added  2 times - GOOD
+[INFO ] 2024-03-17 20:02:26.030 [main] SwitchPages - product price is 100.0, price in the cart is 200.0
+[INFO ] 2024-03-17 20:02:27.034 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:02:27.190 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:02:28.684 [main] SwitchPages - Product blue-denim-jeans was added  4 times - GOOD
+[INFO ] 2024-03-17 20:02:29.395 [main] SwitchPages - product price is 150.0, price in the cart is 600.0
+[INFO ] 2024-03-17 20:02:30.405 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:02:30.593 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:02:31.770 [main] SwitchPages - Product atid-black-shoes was added  10 times - GOOD
+[INFO ] 2024-03-17 20:02:32.443 [main] SwitchPages - product price is 61.0, price in the cart is 610.0
+[INFO ] 2024-03-17 20:02:33.452 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:02:33.586 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:02:34.692 [main] SwitchPages - Product atid-green-shoes was added  11 times - BAD
+[INFO ] 2024-03-17 20:02:35.417 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:02:36.514 [main] SwitchPages - Product black-hoodie was added  11 times - BAD
+[INFO ] 2024-03-17 20:02:37.318 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:24:03.437 [main] SwitchPages - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 20:24:03.452 [main] SwitchPages - Opening the first store page - GOOD
+[INFO ] 2024-03-17 20:24:06.076 [main] SwitchPages - Product atid-blue-shoes was added  2 times - GOOD
+[INFO ] 2024-03-17 20:24:06.966 [main] SwitchPages - product price is 80.0, price in the cart is 160.0
+[INFO ] 2024-03-17 20:24:07.973 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:24:08.106 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:24:09.273 [main] SwitchPages - Product black-over-the-shoulder-handbag was added  4 times - GOOD
+[INFO ] 2024-03-17 20:24:10.001 [main] SwitchPages - product price is 85.0, price in the cart is 340.0
+[INFO ] 2024-03-17 20:24:11.015 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:24:11.138 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:24:12.297 [main] SwitchPages - Product blue-denim-shorts was added  4 times - GOOD
+[INFO ] 2024-03-17 20:24:13.003 [main] SwitchPages - product price is 130.0, price in the cart is 520.0
+[INFO ] 2024-03-17 20:24:14.015 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:24:14.163 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:24:15.336 [main] SwitchPages - Product anchor-bracelet was added  4 times - GOOD
+[INFO ] 2024-03-17 20:24:16.000 [main] SwitchPages - product price is 250.0, price in the cart is 1000.0
+[INFO ] 2024-03-17 20:24:17.004 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:24:17.174 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:24:18.361 [main] SwitchPages - Product dnk-tshirt was added  14 times - BAD
+[INFO ] 2024-03-17 20:24:19.088 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:24:20.197 [main] SwitchPages - Product atid-yellow-shoes was added  8 times - GOOD
+[INFO ] 2024-03-17 20:24:20.859 [main] SwitchPages - product price is 120.0, price in the cart is 960.0
+[INFO ] 2024-03-17 20:24:21.865 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:24:22.019 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:24:23.200 [main] SwitchPages - Product basic-gray-jeans was added  12 times - BAD
+[INFO ] 2024-03-17 20:24:23.953 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:24:25.550 [main] SwitchPages - Product blue-denim-jeans was added  6 times - GOOD
+[INFO ] 2024-03-17 20:24:26.255 [main] SwitchPages - product price is 150.0, price in the cart is 900.0
+[INFO ] 2024-03-17 20:24:27.256 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:24:27.376 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:24:29.189 [main] SwitchPages - Product atid-black-shoes was added  1 times - GOOD
+[INFO ] 2024-03-17 20:24:29.886 [main] SwitchPages - product price is 61.0, price in the cart is 61.0
+[INFO ] 2024-03-17 20:24:30.896 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:24:31.052 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:24:32.216 [main] SwitchPages - Product atid-green-shoes was added  13 times - BAD
+[INFO ] 2024-03-17 20:24:32.946 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:24:34.188 [main] SwitchPages - Product black-hoodie was added  14 times - BAD
+[INFO ] 2024-03-17 20:24:34.939 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:30:08.098 [main] SwitchPages - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 20:30:08.105 [main] SwitchPages - Opening the first store page - GOOD
+[INFO ] 2024-03-17 20:30:10.654 [main] SwitchPages - Product atid-blue-shoes was added  12 times - BAD
+[INFO ] 2024-03-17 20:30:11.743 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:30:12.931 [main] SwitchPages - Product black-over-the-shoulder-handbag was added  4 times - GOOD
+[INFO ] 2024-03-17 20:30:13.600 [main] SwitchPages - product price is 85.0, price in the cart is 340.0
+[INFO ] 2024-03-17 20:30:14.606 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:30:14.722 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:30:15.885 [main] SwitchPages - Product blue-denim-shorts was added  4 times - GOOD
+[INFO ] 2024-03-17 20:30:16.572 [main] SwitchPages - product price is 130.0, price in the cart is 520.0
+[INFO ] 2024-03-17 20:30:17.581 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:30:17.748 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:30:19.000 [main] SwitchPages - Product anchor-bracelet was added  11 times - BAD
+[INFO ] 2024-03-17 20:30:19.746 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:30:20.886 [main] SwitchPages - Product dnk-tshirt was added  6 times - GOOD
+[INFO ] 2024-03-17 20:30:21.557 [main] SwitchPages - product price is 190.0, price in the cart is 1140.0
+[INFO ] 2024-03-17 20:30:22.571 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:30:22.783 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:30:23.956 [main] SwitchPages - Product atid-yellow-shoes was added  11 times - BAD
+[INFO ] 2024-03-17 20:30:24.669 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:30:25.833 [main] SwitchPages - Product basic-gray-jeans was added  9 times - GOOD
+[INFO ] 2024-03-17 20:30:26.540 [main] SwitchPages - product price is 100.0, price in the cart is 900.0
+[INFO ] 2024-03-17 20:30:27.541 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:30:27.686 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:51:57.378 [main] SwitchPages - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 20:51:57.384 [main] SwitchPages - Opening the first store page - GOOD
+[INFO ] 2024-03-17 20:51:59.952 [main] SwitchPages - Product atid-blue-shoes was added  14 times - BAD
+[INFO ] 2024-03-17 20:52:00.998 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:52:02.275 [main] SwitchPages - Product black-over-the-shoulder-handbag was added  13 times - BAD
+[INFO ] 2024-03-17 20:52:02.965 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:52:04.031 [main] SwitchPages - Product blue-denim-shorts was added  4 times - GOOD
+[INFO ] 2024-03-17 20:52:04.632 [main] SwitchPages - product price is 130.0, price in the cart is 520.0
+[INFO ] 2024-03-17 20:52:05.697 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:52:05.802 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:52:07.397 [main] SwitchPages - Product anchor-bracelet was added  9 times - GOOD
+[INFO ] 2024-03-17 20:52:08.010 [main] SwitchPages - product price is 250.0, price in the cart is 2250.0
+[INFO ] 2024-03-17 20:52:09.068 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:52:09.163 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:52:10.272 [main] SwitchPages - Product dnk-tshirt was added  8 times - GOOD
+[INFO ] 2024-03-17 20:52:10.871 [main] SwitchPages - product price is 190.0, price in the cart is 1520.0
+[INFO ] 2024-03-17 20:52:11.934 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:52:12.052 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:52:13.204 [main] SwitchPages - Product atid-yellow-shoes was added  3 times - GOOD
+[INFO ] 2024-03-17 20:52:13.837 [main] SwitchPages - product price is 120.0, price in the cart is 360.0
+[INFO ] 2024-03-17 20:52:14.881 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:52:14.983 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:52:16.137 [main] SwitchPages - Product basic-gray-jeans was added  12 times - BAD
+[INFO ] 2024-03-17 20:52:16.890 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:52:18.565 [main] SwitchPages - Product blue-denim-jeans was added  11 times - BAD
+[INFO ] 2024-03-17 20:52:19.242 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:52:20.543 [main] SwitchPages - Product atid-black-shoes was added  12 times - BAD
+[INFO ] 2024-03-17 20:52:21.212 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:52:22.323 [main] SwitchPages - Product atid-green-shoes was added  15 times - BAD
+[INFO ] 2024-03-17 20:52:23.008 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:52:24.046 [main] SwitchPages - Product black-hoodie was added  1 times - GOOD
+[INFO ] 2024-03-17 20:52:24.642 [main] SwitchPages - product price is 150.0, price in the cart is 150.0
+[INFO ] 2024-03-17 20:52:25.688 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:52:25.809 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:54:06.774 [main] SwitchPages - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 20:54:06.784 [main] SwitchPages - Opening the first store page - GOOD
+[INFO ] 2024-03-17 20:54:09.385 [main] SwitchPages - Product atid-blue-shoes was added  6 times - GOOD
+[INFO ] 2024-03-17 20:54:10.250 [main] SwitchPages - product price is 80.0, price in the cart is 480.0
+[INFO ] 2024-03-17 20:54:11.331 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:54:11.487 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:54:12.724 [main] SwitchPages - Product black-over-the-shoulder-handbag was added  14 times - BAD
+[INFO ] 2024-03-17 20:54:13.465 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:54:15.114 [main] SwitchPages - Product blue-denim-shorts was added  9 times - GOOD
+[INFO ] 2024-03-17 20:54:15.735 [main] SwitchPages - product price is 130.0, price in the cart is 1170.0
+[INFO ] 2024-03-17 20:54:16.792 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:54:16.915 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:54:18.217 [main] SwitchPages - Product anchor-bracelet was added  3 times - GOOD
+[INFO ] 2024-03-17 20:54:18.934 [main] SwitchPages - product price is 250.0, price in the cart is 750.0
+[INFO ] 2024-03-17 20:54:19.967 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:54:20.079 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:54:21.361 [main] SwitchPages - Product dnk-tshirt was added  13 times - BAD
+[INFO ] 2024-03-17 20:54:22.801 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:54:23.992 [main] SwitchPages - Product atid-yellow-shoes was added  8 times - GOOD
+[INFO ] 2024-03-17 20:54:24.648 [main] SwitchPages - product price is 120.0, price in the cart is 960.0
+[INFO ] 2024-03-17 20:54:25.682 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:54:25.799 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:54:27.147 [main] SwitchPages - Product basic-gray-jeans was added  13 times - BAD
+[INFO ] 2024-03-17 20:54:28.030 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:54:29.711 [main] SwitchPages - Product blue-denim-jeans was added  9 times - GOOD
+[INFO ] 2024-03-17 20:54:30.418 [main] SwitchPages - product price is 150.0, price in the cart is 1350.0
+[INFO ] 2024-03-17 20:54:31.457 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:54:31.568 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:54:32.880 [main] SwitchPages - Product atid-black-shoes was added  8 times - GOOD
+[INFO ] 2024-03-17 20:54:33.614 [main] SwitchPages - product price is 61.0, price in the cart is 488.0
+[INFO ] 2024-03-17 20:54:34.666 [main] SwitchPages - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 20:54:34.795 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:54:36.156 [main] SwitchPages - Product atid-green-shoes was added  15 times - BAD
+[INFO ] 2024-03-17 20:54:37.048 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 20:54:38.685 [main] SwitchPages - Product black-hoodie was added  11 times - BAD
+[INFO ] 2024-03-17 20:54:39.446 [main] SwitchPages - -------------------------------
+[INFO ] 2024-03-17 21:13:35.497 [main] AddingProduct - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 21:13:35.503 [main] AddingProduct - Opening the first store page - GOOD
+[INFO ] 2024-03-17 21:13:38.568 [main] AddingProduct - Product atid-blue-shoes was added  3 times - GOOD
+[INFO ] 2024-03-17 21:13:39.511 [main] AddingProduct - product price is 80.0, price in the cart is 240.0
+[INFO ] 2024-03-17 21:13:40.547 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:13:40.712 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:13:42.304 [main] AddingProduct - Product black-over-the-shoulder-handbag was added  3 times - GOOD
+[INFO ] 2024-03-17 21:13:43.213 [main] AddingProduct - product price is 85.0, price in the cart is 255.0
+[INFO ] 2024-03-17 21:13:44.269 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:13:44.474 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:13:45.911 [main] AddingProduct - Product blue-denim-shorts was added  8 times - GOOD
+[INFO ] 2024-03-17 21:13:46.551 [main] AddingProduct - product price is 130.0, price in the cart is 1040.0
+[INFO ] 2024-03-17 21:13:47.586 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:13:47.691 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:13:48.977 [main] AddingProduct - Product anchor-bracelet was added  9 times - GOOD
+[INFO ] 2024-03-17 21:13:49.662 [main] AddingProduct - product price is 250.0, price in the cart is 2250.0
+[INFO ] 2024-03-17 21:13:50.705 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:13:50.826 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:13:52.053 [main] AddingProduct - Product dnk-tshirt was added  7 times - GOOD
+[INFO ] 2024-03-17 21:13:52.697 [main] AddingProduct - product price is 190.0, price in the cart is 1330.0
+[INFO ] 2024-03-17 21:13:53.739 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:13:53.838 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:13:54.975 [main] AddingProduct - Product atid-yellow-shoes was added  13 times - BAD
+[INFO ] 2024-03-17 21:13:55.681 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:13:56.804 [main] AddingProduct - Product basic-gray-jeans was added  6 times - GOOD
+[INFO ] 2024-03-17 21:13:57.499 [main] AddingProduct - product price is 100.0, price in the cart is 600.0
+[INFO ] 2024-03-17 21:13:58.537 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:13:58.673 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:14:00.268 [main] AddingProduct - Product blue-denim-jeans was added  3 times - GOOD
+[INFO ] 2024-03-17 21:14:00.939 [main] AddingProduct - product price is 150.0, price in the cart is 450.0
+[INFO ] 2024-03-17 21:14:01.985 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:14:02.165 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:14:03.755 [main] AddingProduct - Product atid-black-shoes was added  10 times - GOOD
+[INFO ] 2024-03-17 21:14:04.406 [main] AddingProduct - product price is 61.0, price in the cart is 610.0
+[INFO ] 2024-03-17 21:14:05.432 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:14:05.531 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:14:06.683 [main] AddingProduct - Product atid-green-shoes was added  2 times - GOOD
+[INFO ] 2024-03-17 21:14:07.334 [main] AddingProduct - product price is 110.0, price in the cart is 220.0
+[INFO ] 2024-03-17 21:14:08.367 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:14:08.478 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:14:09.662 [main] AddingProduct - Product black-hoodie was added  7 times - GOOD
+[INFO ] 2024-03-17 21:14:10.341 [main] AddingProduct - product price is 150.0, price in the cart is 1050.0
+[INFO ] 2024-03-17 21:14:11.375 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:14:11.481 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:25:16.469 [main] AddingProduct - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 21:25:16.475 [main] AddingProduct - Opening the first store page - GOOD
+[INFO ] 2024-03-17 21:25:19.098 [main] AddingProduct - Product atid-blue-shoes was added  14 times - BAD
+[INFO ] 2024-03-17 21:25:20.087 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:25:21.284 [main] AddingProduct - Product black-over-the-shoulder-handbag was added  2 times - GOOD
+[INFO ] 2024-03-17 21:25:21.963 [main] AddingProduct - product price is 85.0, price in the cart is 170.0
+[INFO ] 2024-03-17 21:25:23.011 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:25:23.118 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:25:24.302 [main] AddingProduct - Product blue-denim-shorts was added  6 times - GOOD
+[INFO ] 2024-03-17 21:25:24.987 [main] AddingProduct - product price is 130.0, price in the cart is 780.0
+[INFO ] 2024-03-17 21:25:26.032 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:25:26.135 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:25:27.414 [main] AddingProduct - Product anchor-bracelet was added  8 times - GOOD
+[INFO ] 2024-03-17 21:25:28.103 [main] AddingProduct - product price is 250.0, price in the cart is 2000.0
+[INFO ] 2024-03-17 21:25:29.158 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:25:29.265 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:25:30.619 [main] AddingProduct - Product dnk-tshirt was added  2 times - GOOD
+[INFO ] 2024-03-17 21:25:31.354 [main] AddingProduct - product price is 190.0, price in the cart is 380.0
+[INFO ] 2024-03-17 21:25:32.397 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:25:32.499 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:25:33.844 [main] AddingProduct - Product atid-yellow-shoes was added  6 times - GOOD
+[INFO ] 2024-03-17 21:25:34.534 [main] AddingProduct - product price is 120.0, price in the cart is 720.0
+[INFO ] 2024-03-17 21:25:35.563 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:25:35.674 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:25:36.907 [main] AddingProduct - Product basic-gray-jeans was added  5 times - GOOD
+[INFO ] 2024-03-17 21:25:37.626 [main] AddingProduct - product price is 100.0, price in the cart is 500.0
+[INFO ] 2024-03-17 21:25:38.670 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:25:38.768 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:25:40.646 [main] AddingProduct - Product blue-denim-jeans was added  3 times - GOOD
+[INFO ] 2024-03-17 21:25:41.283 [main] AddingProduct - product price is 150.0, price in the cart is 450.0
+[INFO ] 2024-03-17 21:25:42.316 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:25:42.419 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:25:43.677 [main] AddingProduct - Product atid-black-shoes was added  14 times - BAD
+[INFO ] 2024-03-17 21:25:44.397 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:25:45.987 [main] AddingProduct - Product atid-green-shoes was added  14 times - BAD
+[INFO ] 2024-03-17 21:25:46.720 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:25:47.947 [main] AddingProduct - Product black-hoodie was added  9 times - GOOD
+[INFO ] 2024-03-17 21:25:48.588 [main] AddingProduct - product price is 150.0, price in the cart is 1350.0
+[INFO ] 2024-03-17 21:25:49.649 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:25:49.783 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:26:14.015 [main] SwitchPages - ---------------------DELETE PRODUCT TEST---------------------
+[INFO ] 2024-03-17 21:26:14.026 [main] SwitchPages - Opening the first store page - GOOD
+[INFO ] 2024-03-17 21:26:16.042 [main] SwitchPages - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-17 21:26:16.994 [main] SwitchPages - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-17 21:26:18.445 [main] SwitchPages - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-17 21:26:19.542 [main] SwitchPages - Product atid-green-shoes was added  to cart
+[INFO ] 2024-03-17 21:26:19.586 [main] SwitchPages - -----------------------------------------------------------------
+[INFO ] 2024-03-17 21:26:22.101 [main] SwitchPages - Product deleted successfully from the cart - insert empty string to quantity.
+[INFO ] 2024-03-17 21:26:24.701 [main] SwitchPages - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-17 21:26:26.746 [main] SwitchPages - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-17 21:26:27.752 [main] SwitchPages - Test completed successfully.
+[INFO ] 2024-03-17 21:47:00.579 [main] SwitchPages - ---------------------DELETE PRODUCT TEST---------------------
+[INFO ] 2024-03-17 21:47:00.586 [main] SwitchPages - Opening the first store page - GOOD
+[INFO ] 2024-03-17 21:47:03.077 [main] SwitchPages - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-17 21:47:04.162 [main] SwitchPages - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-17 21:47:05.359 [main] SwitchPages - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-17 21:47:05.615 [main] SwitchPages - -----------------------------------------------------------------
+[INFO ] 2024-03-17 21:47:08.176 [main] SwitchPages - Product deleted successfully from the cart - insert empty string to quantity.
+[INFO ] 2024-03-17 21:47:10.351 [main] SwitchPages - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-17 21:47:12.377 [main] SwitchPages - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-17 21:47:13.382 [main] SwitchPages - Test completed successfully.
+[INFO ] 2024-03-17 21:48:40.582 [main] SwitchPages - ---------------------CONTACT US TEST---------------------
+[INFO ] 2024-03-17 21:48:40.910 [main] SwitchPages - The name is valid - GOOD.
+[INFO ] 2024-03-17 21:48:41.142 [main] SwitchPages - The subject is valid - GOOD.
+[INFO ] 2024-03-17 21:48:41.336 [main] SwitchPages - The email is not valid - GOOD.
+[INFO ] 2024-03-17 21:48:41.538 [main] SwitchPages - The message is valid - GOOD.
+[INFO ] 2024-03-17 21:48:42.658 [main] SwitchPages - The message was sent.
+[INFO ] 2024-03-17 21:48:42.658 [main] SwitchPages - ----------------------------------------------------------
+[INFO ] 2024-03-17 21:48:43.977 [main] SwitchPages - The name is empty - BAD.
+[INFO ] 2024-03-17 21:48:44.096 [main] SwitchPages - The subject is valid - GOOD.
+[INFO ] 2024-03-17 21:48:44.256 [main] SwitchPages - The email is not valid - GOOD.
+[INFO ] 2024-03-17 21:48:44.411 [main] SwitchPages - The message is valid - GOOD.
+[INFO ] 2024-03-17 21:48:44.520 [main] SwitchPages - The message wasn't sent.
+[INFO ] 2024-03-17 21:48:44.520 [main] SwitchPages - ----------------------------------------------------------
+[INFO ] 2024-03-17 21:48:45.892 [main] SwitchPages - The name is valid - GOOD.
+[INFO ] 2024-03-17 21:48:45.983 [main] SwitchPages - The subject is not valid - BAD.
+[INFO ] 2024-03-17 21:48:46.201 [main] SwitchPages - The email is not valid - GOOD.
+[INFO ] 2024-03-17 21:48:46.459 [main] SwitchPages - The message is valid - GOOD.
+[INFO ] 2024-03-17 21:48:47.607 [main] SwitchPages - The message was sent.
+[INFO ] 2024-03-17 21:48:47.607 [main] SwitchPages - ----------------------------------------------------------
+[INFO ] 2024-03-17 21:48:49.019 [main] SwitchPages - The name is valid - GOOD.
+[INFO ] 2024-03-17 21:48:49.156 [main] SwitchPages - The subject is valid - GOOD.
+[INFO ] 2024-03-17 21:48:49.257 [main] SwitchPages - The email is valid - BAD.
+[INFO ] 2024-03-17 21:48:49.418 [main] SwitchPages - The message is valid - GOOD.
+[INFO ] 2024-03-17 21:48:49.515 [main] SwitchPages - The message wasn't sent.
+[INFO ] 2024-03-17 21:48:49.516 [main] SwitchPages - ----------------------------------------------------------
+[INFO ] 2024-03-17 21:48:50.905 [main] SwitchPages - The name is valid - GOOD.
+[INFO ] 2024-03-17 21:48:51.027 [main] SwitchPages - The subject is valid - GOOD.
+[INFO ] 2024-03-17 21:48:51.150 [main] SwitchPages - The email is not valid - GOOD.
+[INFO ] 2024-03-17 21:48:51.237 [main] SwitchPages - The message is not valid - BAD.
+[INFO ] 2024-03-17 21:48:51.335 [main] SwitchPages - The message wasn't sent.
+[INFO ] 2024-03-17 21:48:51.335 [main] SwitchPages - ----------------------------------------------------------
+[INFO ] 2024-03-17 21:48:52.648 [main] SwitchPages - The name is valid - GOOD.
+[INFO ] 2024-03-17 21:48:52.751 [main] SwitchPages - The subject is valid - GOOD.
+[INFO ] 2024-03-17 21:48:52.860 [main] SwitchPages - The email is valid - BAD.
+[INFO ] 2024-03-17 21:48:53.002 [main] SwitchPages - The message is valid - GOOD.
+[INFO ] 2024-03-17 21:48:53.142 [main] SwitchPages - The message wasn't sent.
+[INFO ] 2024-03-17 21:48:53.142 [main] SwitchPages - ----------------------------------------------------------
+[INFO ] 2024-03-17 21:48:54.560 [main] SwitchPages - The name is valid - GOOD.
+[INFO ] 2024-03-17 21:48:54.888 [main] SwitchPages - The subject is longer than 50 chars - BAD.
+[INFO ] 2024-03-17 21:48:55.025 [main] SwitchPages - The email is not valid - GOOD.
+[INFO ] 2024-03-17 21:48:55.164 [main] SwitchPages - The message is valid - GOOD.
+[INFO ] 2024-03-17 21:48:56.097 [main] SwitchPages - The message was sent.
+[INFO ] 2024-03-17 21:48:56.101 [main] SwitchPages - ----------------------------------------------------------
+[INFO ] 2024-03-17 21:48:57.510 [main] SwitchPages - The name is valid - GOOD.
+[INFO ] 2024-03-17 21:48:57.676 [main] SwitchPages - The subject is valid - GOOD.
+[INFO ] 2024-03-17 21:48:57.945 [main] SwitchPages - The email is not valid - GOOD.
+[INFO ] 2024-03-17 21:49:00.023 [main] SwitchPages - The message is longer than 300 chars - BAD.
+[INFO ] 2024-03-17 21:49:01.313 [main] SwitchPages - The message was sent.
+[INFO ] 2024-03-17 21:49:01.313 [main] SwitchPages - ----------------------------------------------------------
+[INFO ] 2024-03-17 21:55:44.763 [main] SwitchPages - ---------------------SWITCHING PAGES TEST---------------------
+[INFO ] 2024-03-17 21:55:44.777 [main] SwitchPages - Opening the first store page - GOOD
+[INFO ] 2024-03-17 21:55:44.834 [main] SwitchPages - starting -> test
+[INFO ] 2024-03-17 21:55:44.871 [main] SwitchPages - https://atid.store/store/page/2/
+[INFO ] 2024-03-17 21:55:44.872 [main] SwitchPages - Step 1 Press '->' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-17 21:55:44.888 [main] SwitchPages - there is no next page
+[INFO ] 2024-03-17 21:55:44.909 [main] SwitchPages - https://atid.store/store/page/3/
+[INFO ] 2024-03-17 21:55:44.909 [main] SwitchPages - Step 2 Press '->' to switch to page number 3 - GOOD"
+[INFO ] 2024-03-17 21:55:44.920 [main] SwitchPages - there is no next page
+[INFO ] 2024-03-17 21:55:44.933 [main] SwitchPages - starting <- test
+[INFO ] 2024-03-17 21:55:44.987 [main] SwitchPages - https://atid.store/store/page/2/
+[INFO ] 2024-03-17 21:55:44.987 [main] SwitchPages - Step 3 Press '<-' to switch to page number 2 - GOOD"
+[INFO ] 2024-03-17 21:55:45.004 [main] SwitchPages - there is no previous page
+[INFO ] 2024-03-17 21:56:25.800 [main] DeletingProduct - ---------------------DELETE PRODUCT TEST---------------------
+[INFO ] 2024-03-17 21:56:25.805 [main] DeletingProduct - Opening the first store page - GOOD
+[INFO ] 2024-03-17 21:56:27.518 [main] DeletingProduct - Product atid-blue-shoes was added  to cart
+[INFO ] 2024-03-17 21:56:28.765 [main] DeletingProduct - Product anchor-bracelet was added  to cart
+[INFO ] 2024-03-17 21:56:29.860 [main] DeletingProduct - Product atid-black-shoes was added  to cart
+[INFO ] 2024-03-17 21:56:29.898 [main] DeletingProduct - -----------------------------------------------------------------
+[INFO ] 2024-03-17 21:56:32.341 [main] DeletingProduct - Product deleted successfully from the cart - insert empty string to quantity.
+[INFO ] 2024-03-17 21:56:34.520 [main] DeletingProduct - Product deleted successfully from the cart - press x.
+[INFO ] 2024-03-17 21:56:36.424 [main] DeletingProduct - Product deleted successfully from the cart - insert 0 to quantity.
+[INFO ] 2024-03-17 21:56:37.440 [main] DeletingProduct - Test completed successfully.
+[INFO ] 2024-03-17 21:59:19.446 [main] AddingProduct - ---------------------ADD PRODUCT TEST---------------------
+[INFO ] 2024-03-17 21:59:19.458 [main] AddingProduct - Opening the first store page - GOOD
+[INFO ] 2024-03-17 21:59:22.953 [main] AddingProduct - Product atid-blue-shoes was added  7 times - GOOD
+[INFO ] 2024-03-17 21:59:23.803 [main] AddingProduct - product price is 80.0, price in the cart is 560.0
+[INFO ] 2024-03-17 21:59:24.839 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:59:24.990 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:59:26.824 [main] AddingProduct - Product black-over-the-shoulder-handbag was added  14 times - BAD
+[INFO ] 2024-03-17 21:59:28.348 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:59:30.148 [main] AddingProduct - Product blue-denim-shorts was added  12 times - BAD
+[INFO ] 2024-03-17 21:59:31.088 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:59:33.331 [main] AddingProduct - Product anchor-bracelet was added  10 times - GOOD
+[INFO ] 2024-03-17 21:59:34.078 [main] AddingProduct - product price is 250.0, price in the cart is 2500.0
+[INFO ] 2024-03-17 21:59:35.126 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:59:35.282 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:59:36.853 [main] AddingProduct - Product dnk-tshirt was added  12 times - BAD
+[INFO ] 2024-03-17 21:59:37.646 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:59:39.054 [main] AddingProduct - Product atid-yellow-shoes was added  11 times - BAD
+[INFO ] 2024-03-17 21:59:39.871 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:59:41.168 [main] AddingProduct - Product basic-gray-jeans was added  4 times - GOOD
+[INFO ] 2024-03-17 21:59:41.876 [main] AddingProduct - product price is 100.0, price in the cart is 400.0
+[INFO ] 2024-03-17 21:59:42.910 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:59:43.034 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:59:44.785 [main] AddingProduct - Product blue-denim-jeans was added  8 times - GOOD
+[INFO ] 2024-03-17 21:59:45.485 [main] AddingProduct - product price is 150.0, price in the cart is 1200.0
+[INFO ] 2024-03-17 21:59:46.523 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:59:46.650 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:59:48.054 [main] AddingProduct - Product atid-black-shoes was added  9 times - GOOD
+[INFO ] 2024-03-17 21:59:48.766 [main] AddingProduct - product price is 61.0, price in the cart is 549.0
+[INFO ] 2024-03-17 21:59:49.801 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:59:49.920 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:59:51.144 [main] AddingProduct - Product atid-green-shoes was added  4 times - GOOD
+[INFO ] 2024-03-17 21:59:51.802 [main] AddingProduct - product price is 110.0, price in the cart is 440.0
+[INFO ] 2024-03-17 21:59:52.848 [main] AddingProduct - price in the cart matches product price - GOOD
+[INFO ] 2024-03-17 21:59:52.968 [main] AddingProduct - -------------------------------
+[INFO ] 2024-03-17 21:59:54.256 [main] AddingProduct - Product black-hoodie was added  15 times - BAD
+[INFO ] 2024-03-17 21:59:55.059 [main] AddingProduct - -------------------------------
